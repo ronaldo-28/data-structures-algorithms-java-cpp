@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0376-wiggle-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0376-wiggle-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0376-wiggle-subsequence) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
