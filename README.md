@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0390-elimination-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0390-elimination-game) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0390-elimination-game) |
 ## Hash Table
 |  |
 | ------- |
