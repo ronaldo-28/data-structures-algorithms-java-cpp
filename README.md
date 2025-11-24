@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0386-lexicographical-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0386-lexicographical-numbers) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
