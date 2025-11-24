@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0388-longest-absolute-file-path) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0388-longest-absolute-file-path) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String Matching
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0388-longest-absolute-file-path) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
