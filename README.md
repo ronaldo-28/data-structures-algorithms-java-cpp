@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0383-ransom-note) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -915,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0383-ransom-note) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Tree
