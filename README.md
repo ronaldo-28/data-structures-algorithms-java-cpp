@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0394-decode-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String Matching
