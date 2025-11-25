@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0399-evaluate-division) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0399-evaluate-division) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0399-evaluate-division) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0399-evaluate-division) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
@@ -1060,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0399-evaluate-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0399-evaluate-division) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
@@ -1101,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0399-evaluate-division) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
@@ -1239,4 +1245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0398-random-pick-index) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
