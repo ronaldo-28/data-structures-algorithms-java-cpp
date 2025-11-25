@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0390-elimination-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0396-rotate-function) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
