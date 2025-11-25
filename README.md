@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0393-utf-8-validation) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0393-utf-8-validation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
