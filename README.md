@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0414-third-maximum-number) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0414-third-maximum-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2274-keep-multiplying-found-values-by-two) |
