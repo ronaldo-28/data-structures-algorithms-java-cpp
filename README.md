@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0424-longest-repeating-character-replacement) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0424-longest-repeating-character-replacement) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
