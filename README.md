@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0427-construct-quad-tree) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0427-construct-quad-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0427-construct-quad-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0427-construct-quad-tree) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0427-construct-quad-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
