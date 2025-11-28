@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0420-strong-password-checker) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
