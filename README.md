@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0441-arranging-coins) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0441-arranging-coins) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Divide and Conquer
