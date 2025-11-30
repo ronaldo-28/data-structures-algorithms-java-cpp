@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0432-all-oone-data-structure) |
+| [0445-add-two-numbers-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0445-add-two-numbers-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0445-add-two-numbers-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0445-add-two-numbers-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String Matching
