@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0460-lfu-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0460-lfu-cache) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1316,12 +1318,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0460-lfu-cache) |
 ## Bucket Sort
 |  |
 | ------- |
