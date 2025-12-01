@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0458-poor-pigs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0458-poor-pigs) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0458-poor-pigs) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1077,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0458-poor-pigs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
