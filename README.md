@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0459-repeated-substring-pattern) |
 ## Depth-First Search
 |  |
 | ------- |
