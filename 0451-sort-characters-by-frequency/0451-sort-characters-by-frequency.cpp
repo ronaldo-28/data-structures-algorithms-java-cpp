@@ -1,31 +1,35 @@
+typedef pair<char,int> pii;
 class Solution {
 public:
     string frequencySort(string s) {
-        auto cmp = [](const pair<char, int>& a, const pair<char, int>& b) {
-            return a.second < b.second;
+        unordered_map<int,int>mp;
+        for(auto &ch : s){
+            mp[ch]++;
+        }
+        vector<pii>nums;
+
+        for(auto &itr: mp){
+            char ch = itr.first;
+            int count = itr.second;
+            nums.push_back({ch,count});
+        }
+
+        auto comp = [](const pii &a, const pii &b){
+            if(a.second != b.second){
+                return a.second > b.second;
+            }
+            return a.first > b.first;
         };
-        
-        priority_queue<pair<char, int>, vector<pair<char, int>>, decltype(cmp)> pq(cmp);
-        
-        unordered_map<char, int> hm;
-        
-        for (char c : s) {
-            hm[c]++;
+        sort(nums.begin(),nums.end(),comp);
+        string ans="";
+        for(pii & num : nums){
+
+            while(num.second > 0){
+                ans.push_back(num.first);
+                num.second--;
+            }
+
         }
-        
-        for (const auto& entry : hm) {
-            pq.push(make_pair(entry.first, entry.second));
-        }
-        
-        string result = "";
-        while (!pq.empty()) {
-            pair<char, int> p = pq.top();
-            pq.pop();
-            result.append(p.second, p.first);
-        }
-        
-        return result;
+        return ans;
     }
 };
-
-
