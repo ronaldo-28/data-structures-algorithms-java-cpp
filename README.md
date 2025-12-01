@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String Matching
@@ -1018,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
@@ -1274,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
