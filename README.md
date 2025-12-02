@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0470-implement-rand10-using-rand7) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -1437,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0398-random-pick-index) |
+| [0470-implement-rand10-using-rand7](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0470-implement-rand10-using-rand7) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -1445,4 +1447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0399-evaluate-division) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
