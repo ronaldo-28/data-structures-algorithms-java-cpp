@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0470-implement-rand10-using-rand7) |
+| [0477-total-hamming-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0477-total-hamming-distance) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
+| [0477-total-hamming-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0477-total-hamming-distance) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0464-can-i-win) |
 | [0476-number-complement](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0477-total-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
