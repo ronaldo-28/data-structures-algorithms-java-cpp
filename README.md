@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0470-implement-rand10-using-rand7](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0483-smallest-good-base) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
+| [0483-smallest-good-base](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0483-smallest-good-base) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
