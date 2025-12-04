@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0481-magical-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0457-circular-array-loop) |
+| [0481-magical-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0481-magical-string) |
 ## Dynamic Programming
 |  |
 | ------- |
