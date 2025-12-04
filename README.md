@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0483-smallest-good-base) |
+| [0486-predict-the-winner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0486-predict-the-winner) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0486-predict-the-winner) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0486-predict-the-winner) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1449,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0486-predict-the-winner) |
 ## Data Stream
 |  |
 | ------- |
