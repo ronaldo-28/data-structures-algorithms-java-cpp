@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0494-target-sum) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0488-zuma-game) |
+| [0494-target-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0494-target-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0494-target-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
 |  |
