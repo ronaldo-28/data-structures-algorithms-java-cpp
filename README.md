@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
 | [0483-smallest-good-base](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0427-construct-quad-tree) |
+| [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1298,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1356,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
@@ -1433,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1440,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
 ## Line Sweep
 |  |
 | ------- |
