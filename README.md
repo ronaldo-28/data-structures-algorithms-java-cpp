@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0491-non-decreasing-subsequences) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0491-non-decreasing-subsequences) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0464-can-i-win) |
 | [0476-number-complement](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0491-non-decreasing-subsequences) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0401-binary-watch) |
+| [0491-non-decreasing-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0491-non-decreasing-subsequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
 |  |
