@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0492-construct-the-rectangle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
 | [0483-smallest-good-base](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1147,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0410-split-array-largest-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1370,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
@@ -1502,10 +1507,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0470-implement-rand10-using-rand7) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Shortest Path
 |  |
 | ------- |
