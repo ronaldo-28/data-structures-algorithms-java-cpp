@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0504-base-7) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0504-base-7) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
