@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0506-relative-ranks) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0506-relative-ranks) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1354,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0506-relative-ranks) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
