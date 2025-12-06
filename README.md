@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0503-next-greater-element-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -975,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
 | [0488-zuma-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0503-next-greater-element-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0503-next-greater-element-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
