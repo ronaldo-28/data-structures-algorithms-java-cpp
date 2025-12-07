@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## String
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1196,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1364,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1513,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Line Sweep
 |  |
 | ------- |
