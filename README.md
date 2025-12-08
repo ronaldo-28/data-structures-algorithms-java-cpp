@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0508-most-frequent-subtree-sum) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0525-contiguous-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0525-contiguous-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1208,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0525-contiguous-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
