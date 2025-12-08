@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
