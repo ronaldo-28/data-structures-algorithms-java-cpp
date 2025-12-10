@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0539-minimum-time-difference) |
+| [0541-reverse-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0541-reverse-string-ii) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
