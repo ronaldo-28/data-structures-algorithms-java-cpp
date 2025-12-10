@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-maximize-cyclic-partition-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3743-maximize-cyclic-partition-score) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3745-maximize-expression-of-three-elements) |
+| [3748-count-stable-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3748-count-stable-subarrays) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3748-count-stable-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3748-count-stable-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1277,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3748-count-stable-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3748-count-stable-subarrays) |
 ## Combinatorics
 |  |
 | ------- |
