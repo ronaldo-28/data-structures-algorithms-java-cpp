@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-maximize-cyclic-partition-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3743-maximize-cyclic-partition-score) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
