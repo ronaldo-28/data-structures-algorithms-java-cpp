@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3747-count-distinct-integers-after-removing-zeros) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0541-reverse-string-ii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Bitmask
 |  |
 | ------- |
