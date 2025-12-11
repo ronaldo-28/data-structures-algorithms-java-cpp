@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0551-student-attendance-record-i) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
