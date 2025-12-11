@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0560-subarray-sum-equals-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1293,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
