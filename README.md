@@ -839,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0552-student-attendance-record-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
