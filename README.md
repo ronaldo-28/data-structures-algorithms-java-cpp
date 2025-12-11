@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0553-optimal-division) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0546-remove-boxes) |
+| [0553-optimal-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0553-optimal-division) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0553-optimal-division) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
