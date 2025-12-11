@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-maximize-cyclic-partition-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3743-maximize-cyclic-partition-score) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3747-count-distinct-integers-after-removing-zeros) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3745-maximize-expression-of-three-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
