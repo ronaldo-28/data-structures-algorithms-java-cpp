@@ -1157,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0563-binary-tree-tilt) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
@@ -1407,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0543-diameter-of-binary-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0563-binary-tree-tilt) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
@@ -1459,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0563-binary-tree-tilt) |
 ## Binary Search Tree
 |  |
 | ------- |
