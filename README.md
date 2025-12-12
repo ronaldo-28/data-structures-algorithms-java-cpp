@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0567-permutation-in-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0567-permutation-in-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0567-permutation-in-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0567-permutation-in-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Dynamic Programming
 |  |
