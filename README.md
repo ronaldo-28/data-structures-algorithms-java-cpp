@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0565-array-nesting) |
+| [0566-reshape-the-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0566-reshape-the-matrix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1238,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0566-reshape-the-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -1290,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0566-reshape-the-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
