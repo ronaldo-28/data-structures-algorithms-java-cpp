@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## String
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-maximize-cyclic-partition-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3743-maximize-cyclic-partition-score) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-count-stable-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3748-count-stable-subarrays) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Bitmask
 |  |
 | ------- |
@@ -1323,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3748-count-stable-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3748-count-stable-subarrays) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Combinatorics
 |  |
 | ------- |
