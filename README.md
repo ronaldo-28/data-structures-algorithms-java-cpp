@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
@@ -1327,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3748-count-stable-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3748-count-stable-subarrays) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Combinatorics
 |  |
 | ------- |
