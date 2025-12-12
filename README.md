@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0556-next-greater-element-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0564-find-the-closest-palindrome) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0564-find-the-closest-palindrome) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
