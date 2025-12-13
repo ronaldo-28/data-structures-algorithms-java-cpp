@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## String
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-count-stable-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3748-count-stable-subarrays) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
