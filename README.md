@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0575-distribute-candies) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0575-distribute-candies) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
