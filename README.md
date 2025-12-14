@@ -1667,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0585-investments-in-2016](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0585-investments-in-2016) |
 ## Queue
 |  |
 | ------- |
