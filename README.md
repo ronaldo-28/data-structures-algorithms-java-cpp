@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3762-minimum-operations-to-equalize-subarrays) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-count-stable-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3748-count-stable-subarrays) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3762-minimum-operations-to-equalize-subarrays) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Bitmask
 |  |
 | ------- |
