@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0598-range-addition-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0598-range-addition-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
