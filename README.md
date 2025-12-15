@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0593-valid-square) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1618,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0391-perfect-rectangle) |
+| [0593-valid-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0593-valid-square) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Ordered Set
