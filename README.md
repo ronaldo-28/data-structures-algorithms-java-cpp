@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -1083,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Backtracking
 |  |
 | ------- |
