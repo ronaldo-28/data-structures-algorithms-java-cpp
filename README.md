@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Array
 |  |
 | ------- |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -1746,6 +1748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3762-minimum-operations-to-equalize-subarrays) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Line Sweep
 |  |
 | ------- |
