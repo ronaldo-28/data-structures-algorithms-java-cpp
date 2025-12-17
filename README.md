@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3765-complete-prime-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3769-sort-integers-by-binary-reflection) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -1430,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3765-complete-prime-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Counting
 |  |
 | ------- |
