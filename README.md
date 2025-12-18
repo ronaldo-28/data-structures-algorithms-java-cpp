@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Array
 |  |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -1400,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3748-count-stable-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3748-count-stable-subarrays) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
