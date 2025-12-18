@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0621-task-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0621-task-scheduler) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0621-task-scheduler) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0517-super-washing-machines) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0621-task-scheduler) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1080,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0621-task-scheduler) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1446,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0621-task-scheduler) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3583-count-special-triplets) |
@@ -1621,6 +1626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0621-task-scheduler) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3767-maximize-points-after-choosing-k-tasks) |
