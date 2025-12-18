@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0622-design-circular-queue) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0622-design-circular-queue) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1707,6 +1709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0535-encode-and-decode-tinyurl) |
+| [0622-design-circular-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1741,6 +1744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
+| [0622-design-circular-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0622-design-circular-queue) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Quickselect
