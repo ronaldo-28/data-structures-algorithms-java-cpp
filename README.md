@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
