@@ -655,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1011,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
