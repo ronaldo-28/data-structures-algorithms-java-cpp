@@ -1270,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
@@ -1320,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
@@ -1541,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
@@ -1598,6 +1601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
