@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0639-decode-ways-ii) |
 | [0640-solve-the-equation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0649-dota2-senate) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0649-dota2-senate) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1804,6 +1806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0649-dota2-senate) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Quickselect
