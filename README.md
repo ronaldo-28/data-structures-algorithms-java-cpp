@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0667-beautiful-arrangement-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0658-find-k-closest-elements) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
