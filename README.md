@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
