@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0664-strange-printer) |
 | [0677-map-sum-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0677-map-sum-pairs) |
+| [0678-valid-parenthesis-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0678-valid-parenthesis-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0678-valid-parenthesis-string) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1262,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0591-tag-validator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0591-tag-validator) |
 | [0636-exclusive-time-of-functions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0678-valid-parenthesis-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2211-count-collisions-on-a-road) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
