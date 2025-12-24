@@ -998,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0678-valid-parenthesis-string) |
+| [0688-knight-probability-in-chessboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0688-knight-probability-in-chessboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
