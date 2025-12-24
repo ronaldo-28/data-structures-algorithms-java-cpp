@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1275,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0682-baseball-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2211-count-collisions-on-a-road) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -1453,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2274-keep-multiplying-found-values-by-two) |
