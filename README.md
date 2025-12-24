@@ -1367,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0685-redundant-connection-ii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
@@ -1424,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0672-bulb-switcher-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0685-redundant-connection-ii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
@@ -1753,6 +1755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0685-redundant-connection-ii) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
@@ -1815,6 +1818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0685-redundant-connection-ii) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
