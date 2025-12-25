@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0699-falling-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0699-falling-squares) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1890,6 +1891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0699-falling-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0699-falling-squares) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
@@ -1989,6 +1991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0699-falling-squares) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
