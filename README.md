@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1394,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0695-max-area-of-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
@@ -1453,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0685-redundant-connection-ii) |
 | [0690-employee-importance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0695-max-area-of-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
@@ -1543,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0566-reshape-the-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0695-max-area-of-island](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0695-max-area-of-island) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -1789,6 +1793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0695-max-area-of-island) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
