@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0697-degree-of-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
