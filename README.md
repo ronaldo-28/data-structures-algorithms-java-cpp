@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0699-falling-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0699-falling-squares) |
+| [0704-binary-search](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0704-binary-search](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0704-binary-search) |
 | [2054-two-best-non-overlapping-events](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
