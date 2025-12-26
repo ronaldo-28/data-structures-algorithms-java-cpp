@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0641-design-circular-deque) |
+| [0706-design-hashmap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0706-design-hashmap) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0697-degree-of-an-array) |
+| [0706-design-hashmap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0706-design-hashmap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0699-falling-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1870,6 +1873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0706-design-hashmap) |
 ## Graph
 |  |
 | ------- |
@@ -1941,6 +1945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0641-design-circular-deque) |
 | [0677-map-sum-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
