@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -1577,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3432-count-partitions-with-even-sum-difference) |
