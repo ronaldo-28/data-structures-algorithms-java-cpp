@@ -1711,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0690-employee-importance) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
@@ -1778,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1798,6 +1800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Union Find
 |  |
 | ------- |
