@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0679-24-game) |
+| [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0706-design-hashmap) |
+| [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0699-falling-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0706-design-hashmap) |
+| [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0704-binary-search) |
+| [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
 | [2054-two-best-non-overlapping-events](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1223,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0692-top-k-frequent-words) |
+| [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2054-two-best-non-overlapping-events](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2054-two-best-non-overlapping-events) |
@@ -2065,6 +2070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0470-implement-rand10-using-rand7) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
 ## Reservoir Sampling
 |  |
 | ------- |
