@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
+| [0720-longest-word-in-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0720-longest-word-in-dictionary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0720-longest-word-in-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0720-longest-word-in-dictionary) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0720-longest-word-in-dictionary) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1186,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0472-concatenated-words) |
 | [0677-map-sum-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0720-longest-word-in-dictionary) |
 ## Sorting
 |  |
 | ------- |
@@ -1246,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0692-top-k-frequent-words) |
 | [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0720-longest-word-in-dictionary) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2054-two-best-non-overlapping-events](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2054-two-best-non-overlapping-events) |
