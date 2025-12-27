@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
 | [0713-subarray-product-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2054-two-best-non-overlapping-events](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0696-count-binary-substrings) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Dynamic Programming
@@ -1242,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0692-top-k-frequent-words) |
 | [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2054-two-best-non-overlapping-events](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2054-two-best-non-overlapping-events) |
