@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0713-subarray-product-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0713-subarray-product-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
+| [0713-subarray-product-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0944-delete-columns-to-make-sorted) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0704-binary-search) |
 | [0710-random-pick-with-blacklist](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0710-random-pick-with-blacklist) |
+| [0713-subarray-product-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0713-subarray-product-less-than-k) |
 | [2054-two-best-non-overlapping-events](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1593,6 +1596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0713-subarray-product-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0713-subarray-product-less-than-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2483-minimum-penalty-for-a-shop) |
