@@ -9,6 +9,7 @@
 | [0163-missing-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0163-missing-ranges) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0243-shortest-word-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0243-shortest-word-distance) |
+| [0245-shortest-word-distance-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0245-shortest-word-distance-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -262,6 +263,7 @@
 | [0161-one-edit-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0243-shortest-word-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0243-shortest-word-distance) |
+| [0245-shortest-word-distance-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0245-shortest-word-distance-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
