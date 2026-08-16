@@ -15,6 +15,7 @@
 | [0248-strobogrammatic-number-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0248-strobogrammatic-number-iii) |
 | [0249-group-shifted-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0249-group-shifted-strings) |
 | [0251-flatten-2d-vector](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0251-flatten-2d-vector) |
+| [0252-meeting-rooms](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0252-meeting-rooms) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -175,6 +176,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0252-meeting-rooms](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0252-meeting-rooms) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -739,4 +741,8 @@
 |  |
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0251-flatten-2d-vector) |
+## Quicksort
+|  |
+| ------- |
+| [0252-meeting-rooms](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0252-meeting-rooms) |
 <!---LeetCode Topics End-->
