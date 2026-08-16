@@ -128,6 +128,7 @@
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0246-strobogrammatic-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0246-strobogrammatic-number) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -264,6 +265,7 @@
 | [0186-reverse-words-in-a-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0243-shortest-word-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0243-shortest-word-distance) |
 | [0245-shortest-word-distance-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0245-shortest-word-distance-iii) |
+| [0246-strobogrammatic-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0246-strobogrammatic-number) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -519,6 +521,7 @@
 | [0161-one-edit-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0161-one-edit-distance) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0186-reverse-words-in-a-string-ii) |
+| [0246-strobogrammatic-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0246-strobogrammatic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
