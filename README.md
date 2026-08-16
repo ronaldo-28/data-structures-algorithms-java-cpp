@@ -21,6 +21,7 @@
 | [0256-paint-house](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0256-paint-house) |
 | [0259-3sum-smaller](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0259-3sum-smaller) |
 | [0265-paint-house-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0265-paint-house-ii) |
+| [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -506,6 +507,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2906-construct-product-matrix) |
@@ -651,6 +653,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -663,6 +666,7 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2926-maximum-balanced-subsequence-sum) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
@@ -755,6 +759,7 @@
 | [0170-two-sum-iii-data-structure-design](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0244-shortest-word-distance-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0251-flatten-2d-vector) |
+| [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 ## Data Stream
 |  |
 | ------- |
@@ -781,4 +786,8 @@
 |  |
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 <!---LeetCode Topics End-->
