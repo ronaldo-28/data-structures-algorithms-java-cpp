@@ -255,6 +255,7 @@
 |  |
 | ------- |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0161-one-edit-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0161-one-edit-distance) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -507,6 +508,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0161-one-edit-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0161-one-edit-distance) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
