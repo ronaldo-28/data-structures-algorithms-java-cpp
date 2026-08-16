@@ -142,6 +142,7 @@
 | [0244-shortest-word-distance-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0249-group-shifted-strings) |
+| [0266-palindrome-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0266-palindrome-permutation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -254,6 +255,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0266-palindrome-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0266-palindrome-permutation) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2836-maximize-value-of-function-in-a-ball-passing-game) |
@@ -286,6 +288,7 @@
 | [0247-strobogrammatic-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0247-strobogrammatic-number-ii) |
 | [0248-strobogrammatic-number-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0248-strobogrammatic-number-iii) |
 | [0249-group-shifted-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0249-group-shifted-strings) |
+| [0266-palindrome-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0266-palindrome-permutation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
