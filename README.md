@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0157-read-n-characters-given-read4](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0157-read-n-characters-given-read4) |
+| [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -426,6 +427,7 @@
 |  |
 | ------- |
 | [0157-read-n-characters-given-read4](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0157-read-n-characters-given-read4) |
+| [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 | [2810-faulty-keyboard](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2810-faulty-keyboard) |
 | [2899-last-visited-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2899-last-visited-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2946-matrix-similarity-after-cyclic-shifts) |
@@ -679,4 +681,5 @@
 |  |
 | ------- |
 | [0157-read-n-characters-given-read4](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0157-read-n-characters-given-read4) |
+| [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 <!---LeetCode Topics End-->
