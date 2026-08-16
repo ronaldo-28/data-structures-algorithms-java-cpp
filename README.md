@@ -17,6 +17,7 @@
 | [0251-flatten-2d-vector](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0251-flatten-2d-vector) |
 | [0252-meeting-rooms](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0253-meeting-rooms-ii) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -427,6 +428,7 @@
 | ------- |
 | [0156-binary-tree-upside-down](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0156-binary-tree-upside-down) |
 | [0250-count-univalue-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0250-count-univalue-subtrees) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -500,6 +502,7 @@
 ## Stack
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 | [2818-apply-operations-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2818-apply-operations-to-maximize-score) |
@@ -515,6 +518,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [2818-apply-operations-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2818-apply-operations-to-maximize-score) |
 | [2865-beautiful-towers-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2866-beautiful-towers-ii) |
@@ -724,6 +728,7 @@
 | ------- |
 | [0156-binary-tree-upside-down](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0156-binary-tree-upside-down) |
 | [0250-count-univalue-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0250-count-univalue-subtrees) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 ## Interactive
 |  |
 | ------- |
@@ -744,6 +749,7 @@
 | ------- |
 | [0247-strobogrammatic-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0247-strobogrammatic-number-ii) |
 | [0248-strobogrammatic-number-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0248-strobogrammatic-number-iii) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -756,4 +762,8 @@
 |  |
 | ------- |
 | [0254-factor-combinations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0254-factor-combinations) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 <!---LeetCode Topics End-->
