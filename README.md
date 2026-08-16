@@ -443,6 +443,7 @@
 | ------- |
 | [0156-binary-tree-upside-down](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0156-binary-tree-upside-down) |
 | [0250-count-univalue-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0250-count-univalue-subtrees) |
+| [0261-graph-valid-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0261-graph-valid-tree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -478,12 +479,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0261-graph-valid-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Union-Find
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0261-graph-valid-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -611,6 +614,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0261-graph-valid-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 | [2924-find-champion-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2924-find-champion-ii) |
