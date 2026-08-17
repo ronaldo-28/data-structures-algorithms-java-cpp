@@ -31,6 +31,7 @@
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0305-number-of-islands-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0305-number-of-islands-ii) |
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
+| [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -157,6 +158,7 @@
 | [0288-unique-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0288-unique-word-abbreviation) |
 | [0291-word-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0291-word-pattern-ii) |
 | [0305-number-of-islands-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0305-number-of-islands-ii) |
+| [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -556,6 +558,7 @@
 | [0296-best-meeting-point](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0296-best-meeting-point) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
+| [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2906-construct-product-matrix) |
@@ -874,4 +877,8 @@
 |  |
 | ------- |
 | [0294-flip-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0294-flip-game-ii) |
+## Linear Algebra
+|  |
+| ------- |
+| [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
 <!---LeetCode Topics End-->
