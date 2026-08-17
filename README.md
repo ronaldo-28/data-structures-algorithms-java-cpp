@@ -22,6 +22,7 @@
 | [0259-3sum-smaller](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0259-3sum-smaller) |
 | [0265-paint-house-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0265-paint-house-ii) |
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
+| [0271-encode-and-decode-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0271-encode-and-decode-strings) |
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -295,6 +296,7 @@
 | [0266-palindrome-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0266-palindrome-permutation) |
 | [0267-palindrome-permutation-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0267-palindrome-permutation-ii) |
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
+| [0271-encode-and-decode-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0271-encode-and-decode-strings) |
 | [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
@@ -775,6 +777,7 @@
 | [0170-two-sum-iii-data-structure-design](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0244-shortest-word-distance-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0251-flatten-2d-vector) |
+| [0271-encode-and-decode-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0271-encode-and-decode-strings) |
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 ## Data Stream
 |  |
