@@ -306,6 +306,7 @@
 | [0271-encode-and-decode-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0271-encode-and-decode-strings) |
 | [0288-unique-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0288-unique-word-abbreviation) |
 | [0291-word-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0291-word-pattern-ii) |
+| [0293-flip-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0293-flip-game) |
 | [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
