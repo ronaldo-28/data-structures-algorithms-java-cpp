@@ -23,6 +23,7 @@
 | [0265-paint-house-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0265-paint-house-ii) |
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0271-encode-and-decode-strings) |
+| [0280-wiggle-sort](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0280-wiggle-sort) |
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -189,6 +190,7 @@
 | [0252-meeting-rooms](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0259-3sum-smaller) |
+| [0280-wiggle-sort](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0280-wiggle-sort) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -393,6 +395,7 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0253-meeting-rooms-ii) |
+| [0280-wiggle-sort](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0280-wiggle-sort) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
