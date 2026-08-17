@@ -152,6 +152,7 @@
 | [0266-palindrome-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0266-palindrome-permutation) |
 | [0267-palindrome-permutation-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0267-palindrome-permutation-ii) |
 | [0288-unique-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0288-unique-word-abbreviation) |
+| [0291-word-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0291-word-pattern-ii) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -304,6 +305,7 @@
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0271-encode-and-decode-strings) |
 | [0288-unique-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0288-unique-word-abbreviation) |
+| [0291-word-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0291-word-pattern-ii) |
 | [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
@@ -638,6 +640,7 @@
 | ------- |
 | [0254-factor-combinations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0254-factor-combinations) |
 | [0267-palindrome-permutation-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0267-palindrome-permutation-ii) |
+| [0291-word-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0291-word-pattern-ii) |
 | [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
