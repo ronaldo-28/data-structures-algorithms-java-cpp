@@ -28,6 +28,7 @@
 | [0286-walls-and-gates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0286-walls-and-gates) |
 | [0288-unique-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0288-unique-word-abbreviation) |
 | [0296-best-meeting-point](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0296-best-meeting-point) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -442,6 +443,7 @@
 | ------- |
 | [0259-3sum-smaller](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0259-3sum-smaller) |
 | [0270-closest-binary-search-tree-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0270-closest-binary-search-tree-value) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -485,6 +487,7 @@
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0285-inorder-successor-in-bst) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -523,6 +526,7 @@
 | [0261-graph-valid-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0286-walls-and-gates) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -547,6 +551,7 @@
 | ------- |
 | [0286-walls-and-gates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0286-walls-and-gates) |
 | [0296-best-meeting-point](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0296-best-meeting-point) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
