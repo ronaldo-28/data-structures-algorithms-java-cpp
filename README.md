@@ -358,6 +358,7 @@
 | ------- |
 | [0256-paint-house](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0265-paint-house-ii) |
+| [0276-paint-fence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0276-paint-fence) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
