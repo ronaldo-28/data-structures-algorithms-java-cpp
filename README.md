@@ -422,6 +422,7 @@
 |  |
 | ------- |
 | [0259-3sum-smaller](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0259-3sum-smaller) |
+| [0270-closest-binary-search-tree-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0270-closest-binary-search-tree-value) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -446,6 +447,7 @@
 | [0156-binary-tree-upside-down](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0156-binary-tree-upside-down) |
 | [0250-count-univalue-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0250-count-univalue-subtrees) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0270-closest-binary-search-tree-value) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -457,6 +459,7 @@
 | [0250-count-univalue-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0250-count-univalue-subtrees) |
 | [0261-graph-valid-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
+| [0270-closest-binary-search-tree-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0270-closest-binary-search-tree-value) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -760,6 +763,7 @@
 | [0156-binary-tree-upside-down](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0156-binary-tree-upside-down) |
 | [0250-count-univalue-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0250-count-univalue-subtrees) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0270-closest-binary-search-tree-value) |
 ## Interactive
 |  |
 | ------- |
@@ -798,6 +802,7 @@
 |  |
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0270-closest-binary-search-tree-value) |
 ## Sqrt Decomposition
 |  |
 | ------- |
