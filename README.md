@@ -257,6 +257,7 @@
 |  |
 | ------- |
 | [0266-palindrome-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0266-palindrome-permutation) |
+| [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2836-maximize-value-of-function-in-a-ball-passing-game) |
@@ -290,6 +291,7 @@
 | [0248-strobogrammatic-number-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0248-strobogrammatic-number-iii) |
 | [0249-group-shifted-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0249-group-shifted-strings) |
 | [0266-palindrome-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0266-palindrome-permutation) |
+| [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -605,6 +607,7 @@
 |  |
 | ------- |
 | [0254-factor-combinations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0254-factor-combinations) |
+| [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
