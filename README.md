@@ -38,6 +38,7 @@
 | [0353-design-snake-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0353-design-snake-game) |
 | [0356-line-reflection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0356-line-reflection) |
 | [0360-sort-transformed-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0360-sort-transformed-array) |
+| [0361-bomb-enemy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0361-bomb-enemy) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -404,6 +405,7 @@
 | [0294-flip-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0294-flip-game-ii) |
 | [0333-largest-bst-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0333-largest-bst-subtree) |
 | [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
+| [0361-bomb-enemy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0361-bomb-enemy) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
@@ -598,6 +600,7 @@
 | [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0348-design-tic-tac-toe](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0348-design-tic-tac-toe) |
+| [0361-bomb-enemy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0361-bomb-enemy) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2906-construct-product-matrix) |
