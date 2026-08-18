@@ -344,6 +344,7 @@
 | [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
+| [0408-valid-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0408-valid-word-abbreviation) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
@@ -675,6 +676,7 @@
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0277-find-the-celebrity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0277-find-the-celebrity) |
 | [0360-sort-transformed-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0360-sort-transformed-array) |
+| [0408-valid-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0408-valid-word-abbreviation) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
