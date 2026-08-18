@@ -170,6 +170,7 @@
 | [0348-design-tic-tac-toe](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0353-design-snake-game) |
 | [0356-line-reflection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0356-line-reflection) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -214,6 +215,7 @@
 | [0259-3sum-smaller](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0259-3sum-smaller) |
 | [0280-wiggle-sort](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0280-wiggle-sort) |
 | [0296-best-meeting-point](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0296-best-meeting-point) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -331,6 +333,7 @@
 | [0293-flip-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0293-flip-game) |
 | [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
@@ -432,6 +435,7 @@
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0253-meeting-rooms-ii) |
 | [0280-wiggle-sort](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0280-wiggle-sort) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
@@ -573,6 +577,7 @@
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0253-meeting-rooms-ii) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
@@ -624,6 +629,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
 | [2833-furthest-point-from-origin](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2870-minimum-number-of-operations-to-make-array-empty) |
