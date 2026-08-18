@@ -33,6 +33,7 @@
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 | [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -161,6 +162,7 @@
 | [0291-word-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0291-word-pattern-ii) |
 | [0305-number-of-islands-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0305-number-of-islands-ii) |
 | [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -651,6 +653,7 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0253-meeting-rooms-ii) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [2848-points-that-intersect-with-cars](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2848-points-that-intersect-with-cars) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2874-maximum-value-of-an-ordered-triplet-ii) |
