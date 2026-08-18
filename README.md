@@ -517,6 +517,7 @@
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0333-largest-bst-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0366-find-leaves-of-binary-tree) |
+| [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -538,6 +539,7 @@
 | [0339-nested-list-weight-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0364-nested-list-weight-sum-ii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0366-find-leaves-of-binary-tree) |
+| [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -550,6 +552,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0369-plus-one-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0369-plus-one-linked-list) |
 | [0379-design-phone-directory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0379-design-phone-directory) |
+| [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
@@ -631,6 +634,7 @@
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0364-nested-list-weight-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0364-nested-list-weight-sum-ii) |
+| [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 | [2818-apply-operations-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2818-apply-operations-to-maximize-score) |
@@ -897,6 +901,7 @@
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0333-largest-bst-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0366-find-leaves-of-binary-tree) |
+| [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Interactive
 |  |
 | ------- |
@@ -951,6 +956,7 @@
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0285-inorder-successor-in-bst) |
 | [0333-largest-bst-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0333-largest-bst-subtree) |
+| [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -967,4 +973,8 @@
 |  |
 | ------- |
 | [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 <!---LeetCode Topics End-->
