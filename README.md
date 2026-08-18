@@ -34,6 +34,7 @@
 | [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0348-design-tic-tac-toe](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0348-design-tic-tac-toe) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -164,6 +165,7 @@
 | [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0348-design-tic-tac-toe](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0348-design-tic-tac-toe) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -531,6 +533,7 @@
 | ------- |
 | [0157-read-n-characters-given-read4](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0157-read-n-characters-given-read4) |
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
+| [0348-design-tic-tac-toe](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0348-design-tic-tac-toe) |
 | [2810-faulty-keyboard](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2810-faulty-keyboard) |
 | [2899-last-visited-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2899-last-visited-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2946-matrix-similarity-after-cyclic-shifts) |
@@ -577,6 +580,7 @@
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 | [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0348-design-tic-tac-toe](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0348-design-tic-tac-toe) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2906-construct-product-matrix) |
@@ -859,6 +863,7 @@
 | [0281-zigzag-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0281-zigzag-iterator) |
 | [0288-unique-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0288-unique-word-abbreviation) |
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
+| [0348-design-tic-tac-toe](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0348-design-tic-tac-toe) |
 ## Data Stream
 |  |
 | ------- |
