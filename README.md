@@ -284,6 +284,7 @@
 | ------- |
 | [0266-palindrome-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0266-palindrome-permutation) |
 | [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
+| [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2836-maximize-value-of-function-in-a-ball-passing-game) |
@@ -390,6 +391,7 @@
 | [0276-paint-fence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0276-paint-fence) |
 | [0294-flip-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0294-flip-game-ii) |
 | [0333-largest-bst-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0333-largest-bst-subtree) |
+| [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
@@ -686,12 +688,14 @@
 | [0291-word-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0291-word-pattern-ii) |
 | [0294-flip-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0294-flip-game-ii) |
 | [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
+| [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
 |  |
 | ------- |
+| [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 ## String Matching
