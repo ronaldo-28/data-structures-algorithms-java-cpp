@@ -36,6 +36,7 @@
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0348-design-tic-tac-toe](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0353-design-snake-game) |
+| [0356-line-reflection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0356-line-reflection) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -168,6 +169,7 @@
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0348-design-tic-tac-toe](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0353-design-snake-game) |
+| [0356-line-reflection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0356-line-reflection) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -241,6 +243,7 @@
 | ------- |
 | [0294-flip-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0294-flip-game-ii) |
 | [0296-best-meeting-point](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0296-best-meeting-point) |
+| [0356-line-reflection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0356-line-reflection) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
