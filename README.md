@@ -40,6 +40,7 @@
 | [0360-sort-transformed-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0360-sort-transformed-array) |
 | [0361-bomb-enemy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0361-bomb-enemy) |
 | [0362-design-hit-counter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0362-design-hit-counter) |
+| [0370-range-addition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0370-range-addition) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -697,6 +698,7 @@
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0253-meeting-rooms-ii) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0370-range-addition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0370-range-addition) |
 | [2848-points-that-intersect-with-cars](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2848-points-that-intersect-with-cars) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2874-maximum-value-of-an-ordered-triplet-ii) |
