@@ -373,6 +373,7 @@
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0527-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0527-word-abbreviation) |
 | [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
+| [0544-output-contest-matches](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0544-output-contest-matches) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -612,6 +613,7 @@
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 | [0348-design-tic-tac-toe](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0353-design-snake-game) |
+| [0544-output-contest-matches](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0544-output-contest-matches) |
 | [2810-faulty-keyboard](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2810-faulty-keyboard) |
 | [2899-last-visited-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2899-last-visited-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1007,6 +1009,7 @@
 | [0248-strobogrammatic-number-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0248-strobogrammatic-number-iii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0439-ternary-expression-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0439-ternary-expression-parser) |
+| [0544-output-contest-matches](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0544-output-contest-matches) |
 ## Iterator
 |  |
 | ------- |
