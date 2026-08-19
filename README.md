@@ -356,6 +356,7 @@
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0439-ternary-expression-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0439-ternary-expression-parser) |
+| [0471-encode-string-with-shortest-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0471-encode-string-with-shortest-length) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -424,6 +425,7 @@
 | [0361-bomb-enemy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0361-bomb-enemy) |
 | [0418-sentence-screen-fitting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0418-sentence-screen-fitting) |
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
+| [0471-encode-string-with-shortest-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0471-encode-string-with-shortest-length) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
