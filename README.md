@@ -350,6 +350,7 @@
 | [0418-sentence-screen-fitting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0418-sentence-screen-fitting) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
+| [0439-ternary-expression-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0439-ternary-expression-parser) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -642,6 +643,7 @@
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0364-nested-list-weight-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0364-nested-list-weight-sum-ii) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0439-ternary-expression-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0439-ternary-expression-parser) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 | [2818-apply-operations-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2818-apply-operations-to-maximize-score) |
@@ -944,6 +946,7 @@
 | [0247-strobogrammatic-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0247-strobogrammatic-number-ii) |
 | [0248-strobogrammatic-number-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0248-strobogrammatic-number-iii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0439-ternary-expression-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0439-ternary-expression-parser) |
 ## Iterator
 |  |
 | ------- |
