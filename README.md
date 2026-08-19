@@ -49,6 +49,7 @@
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
 | [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
+| [0487-max-consecutive-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0487-max-consecutive-ones-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -403,6 +404,7 @@
 | ------- |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0487-max-consecutive-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0487-max-consecutive-ones-ii) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2831-find-the-longest-equal-subarray) |
@@ -428,6 +430,7 @@
 | [0418-sentence-screen-fitting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0418-sentence-screen-fitting) |
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [0471-encode-string-with-shortest-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0471-encode-string-with-shortest-length) |
+| [0487-max-consecutive-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0487-max-consecutive-ones-ii) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
