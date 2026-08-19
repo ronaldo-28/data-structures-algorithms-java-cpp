@@ -763,6 +763,7 @@
 | [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
+| [0489-robot-room-cleaner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0489-robot-room-cleaner) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
@@ -941,6 +942,7 @@
 | [0157-read-n-characters-given-read4](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0157-read-n-characters-given-read4) |
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 | [0277-find-the-celebrity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0277-find-the-celebrity) |
+| [0489-robot-room-cleaner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0489-robot-room-cleaner) |
 ## Design
 |  |
 | ------- |
