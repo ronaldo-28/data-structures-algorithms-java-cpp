@@ -1070,4 +1070,8 @@
 | ------- |
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
+## Database
+|  |
+| ------- |
+| [0534-game-play-analysis-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0534-game-play-analysis-iii) |
 <!---LeetCode Topics End-->
