@@ -45,6 +45,7 @@
 | [0418-sentence-screen-fitting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0418-sentence-screen-fitting) |
 | [0422-valid-word-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0422-valid-word-square) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
+| [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -765,6 +766,7 @@
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0277-find-the-celebrity) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 | [2924-find-champion-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2924-find-champion-ii) |
@@ -772,6 +774,7 @@
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
+| [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 ## Memoization
 |  |
@@ -977,6 +980,7 @@
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
+| [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
 ## Impartial Game
 |  |
 | ------- |
