@@ -53,6 +53,7 @@
 | [0490-the-maze](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0490-the-maze) |
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
+| [0527-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0527-word-abbreviation) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -235,6 +236,7 @@
 | [0296-best-meeting-point](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0296-best-meeting-point) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0360-sort-transformed-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0360-sort-transformed-array) |
+| [0527-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0527-word-abbreviation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -365,6 +367,7 @@
 | [0471-encode-string-with-shortest-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0471-encode-string-with-shortest-length) |
 | [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
+| [0527-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0527-word-abbreviation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -474,6 +477,7 @@
 | [0280-wiggle-sort](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0280-wiggle-sort) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
+| [0527-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0527-word-abbreviation) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
@@ -870,6 +874,7 @@
 |  |
 | ------- |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
+| [0527-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0527-word-abbreviation) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2932-maximum-strong-pair-xor-i) |
 ## Queue
 |  |
