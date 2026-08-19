@@ -47,6 +47,7 @@
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
+| [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -260,6 +261,7 @@
 | [0356-line-reflection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0356-line-reflection) |
 | [0360-sort-transformed-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0360-sort-transformed-array) |
 | [0369-plus-one-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0369-plus-one-linked-list) |
+| [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
@@ -880,6 +882,7 @@
 ## Polygons
 |  |
 | ------- |
+| [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2971-find-polygon-with-the-largest-perimeter) |
 ## Rolling Hash
 |  |
@@ -998,4 +1001,8 @@
 |  |
 | ------- |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
 <!---LeetCode Topics End-->
