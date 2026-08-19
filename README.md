@@ -372,6 +372,7 @@
 | [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0527-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0527-word-abbreviation) |
+| [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -551,6 +552,7 @@
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0431-encode-n-ary-tree-to-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0431-encode-n-ary-tree-to-binary-tree) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0510-inorder-successor-in-bst-ii) |
+| [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -578,6 +580,7 @@
 | [0490-the-maze](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0490-the-maze) |
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
+| [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -688,6 +691,7 @@
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0439-ternary-expression-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0439-ternary-expression-parser) |
 | [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
+| [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 | [2818-apply-operations-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2818-apply-operations-to-maximize-score) |
@@ -966,6 +970,7 @@
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0431-encode-n-ary-tree-to-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0431-encode-n-ary-tree-to-binary-tree) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0510-inorder-successor-in-bst-ii) |
+| [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
 ## Interactive
 |  |
 | ------- |
