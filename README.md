@@ -46,6 +46,7 @@
 | [0422-valid-word-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0422-valid-word-square) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
+| [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -305,6 +306,7 @@
 | [0266-palindrome-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0266-palindrome-permutation) |
 | [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
+| [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2836-maximize-value-of-function-in-a-ball-passing-game) |
@@ -419,6 +421,7 @@
 | [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
 | [0361-bomb-enemy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0361-bomb-enemy) |
 | [0418-sentence-screen-fitting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0418-sentence-screen-fitting) |
+| [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
@@ -745,12 +748,14 @@
 | [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
+| [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
 |  |
 | ------- |
 | [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
+| [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 ## String Matching
