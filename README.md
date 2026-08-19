@@ -50,6 +50,7 @@
 | [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
 | [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
 | [0487-max-consecutive-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0487-max-consecutive-ones-ii) |
+| [0490-the-maze](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0490-the-maze) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -562,6 +563,7 @@
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0431-encode-n-ary-tree-to-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0431-encode-n-ary-tree-to-binary-tree) |
+| [0490-the-maze](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0490-the-maze) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -612,6 +614,7 @@
 | [0364-nested-list-weight-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0364-nested-list-weight-sum-ii) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0431-encode-n-ary-tree-to-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0431-encode-n-ary-tree-to-binary-tree) |
+| [0490-the-maze](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0490-the-maze) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -646,6 +649,7 @@
 | [0348-design-tic-tac-toe](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0348-design-tic-tac-toe) |
 | [0361-bomb-enemy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0361-bomb-enemy) |
 | [0422-valid-word-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0422-valid-word-square) |
+| [0490-the-maze](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0490-the-maze) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
