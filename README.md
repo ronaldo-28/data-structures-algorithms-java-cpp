@@ -557,6 +557,7 @@
 | [0510-inorder-successor-in-bst-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0510-inorder-successor-in-bst-ii) |
 | [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
 | [0545-boundary-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0545-boundary-of-binary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -586,6 +587,7 @@
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
 | [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
 | [0545-boundary-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0545-boundary-of-binary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -885,6 +887,7 @@
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0333-largest-bst-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0366-find-leaves-of-binary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2973-find-number-of-coins-to-place-in-tree-nodes) |
 ## Trie
@@ -979,6 +982,7 @@
 | [0510-inorder-successor-in-bst-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0510-inorder-successor-in-bst-ii) |
 | [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
 | [0545-boundary-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0545-boundary-of-binary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 ## Interactive
 |  |
 | ------- |
