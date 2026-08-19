@@ -54,6 +54,7 @@
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
 | [0527-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0527-word-abbreviation) |
+| [0531-lonely-pixel-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0531-lonely-pixel-i) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -190,6 +191,7 @@
 | [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0359-logger-rate-limiter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0359-logger-rate-limiter) |
 | [0379-design-phone-directory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0379-design-phone-directory) |
+| [0531-lonely-pixel-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0531-lonely-pixel-i) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -666,6 +668,7 @@
 | [0490-the-maze](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0490-the-maze) |
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
+| [0531-lonely-pixel-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0531-lonely-pixel-i) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
