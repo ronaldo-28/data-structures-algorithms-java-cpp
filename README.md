@@ -48,6 +48,7 @@
 | [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
+| [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -357,6 +358,7 @@
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0439-ternary-expression-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0439-ternary-expression-parser) |
 | [0471-encode-string-with-shortest-length](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0471-encode-string-with-shortest-length) |
+| [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -462,6 +464,7 @@
 | [0253-meeting-rooms-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0253-meeting-rooms-ii) |
 | [0280-wiggle-sort](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0280-wiggle-sort) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
+| [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
@@ -652,6 +655,7 @@
 | [0364-nested-list-weight-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0364-nested-list-weight-sum-ii) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0439-ternary-expression-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0439-ternary-expression-parser) |
+| [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 | [2818-apply-operations-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2818-apply-operations-to-maximize-score) |
