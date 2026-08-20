@@ -62,6 +62,7 @@
 | [0568-maximum-vacation-days](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0568-maximum-vacation-days) |
 | [0573-squirrel-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0573-squirrel-simulation) |
 | [0582-kill-process](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0582-kill-process) |
+| [0604-design-compressed-string-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0604-design-compressed-string-iterator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -389,6 +390,7 @@
 | [0544-output-contest-matches](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0544-output-contest-matches) |
 | [0555-split-concatenated-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0555-split-concatenated-strings) |
 | [0588-design-in-memory-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0588-design-in-memory-file-system) |
+| [0604-design-compressed-string-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0604-design-compressed-string-iterator) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -1031,6 +1033,7 @@
 | [0379-design-phone-directory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0379-design-phone-directory) |
 | [0431-encode-n-ary-tree-to-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0431-encode-n-ary-tree-to-binary-tree) |
 | [0588-design-in-memory-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0588-design-in-memory-file-system) |
+| [0604-design-compressed-string-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0604-design-compressed-string-iterator) |
 ## Data Stream
 |  |
 | ------- |
@@ -1050,6 +1053,7 @@
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0251-flatten-2d-vector) |
 | [0281-zigzag-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0281-zigzag-iterator) |
+| [0604-design-compressed-string-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0604-design-compressed-string-iterator) |
 ## Quicksort
 |  |
 | ------- |
