@@ -290,6 +290,7 @@
 | [0369-plus-one-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0369-plus-one-linked-list) |
 | [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
 | [0573-squirrel-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0573-squirrel-simulation) |
+| [0625-minimum-factorization](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0625-minimum-factorization) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
@@ -506,6 +507,7 @@
 | [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
 | [0527-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0527-word-abbreviation) |
 | [0555-split-concatenated-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0555-split-concatenated-strings) |
+| [0625-minimum-factorization](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0625-minimum-factorization) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
@@ -1067,6 +1069,7 @@
 |  |
 | ------- |
 | [0254-factor-combinations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0254-factor-combinations) |
+| [0625-minimum-factorization](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0625-minimum-factorization) |
 ## Binary Search Tree
 |  |
 | ------- |
