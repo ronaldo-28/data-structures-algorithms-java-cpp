@@ -1131,6 +1131,7 @@
 | [0603-consecutive-available-seats](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0603-consecutive-available-seats) |
 | [0612-shortest-distance-in-a-plane](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0612-shortest-distance-in-a-plane) |
 | [0613-shortest-distance-in-a-line](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0613-shortest-distance-in-a-line) |
+| [0614-second-degree-follower](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0614-second-degree-follower) |
 ## Nearest Pair of Points
 |  |
 | ------- |
