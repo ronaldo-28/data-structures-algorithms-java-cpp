@@ -1138,6 +1138,7 @@
 | [0613-shortest-distance-in-a-line](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0613-shortest-distance-in-a-line) |
 | [0614-second-degree-follower](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0614-second-degree-follower) |
 | [0615-average-salary-departments-vs-company](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0615-average-salary-departments-vs-company) |
+| [0618-students-report-by-geography](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0618-students-report-by-geography) |
 ## Nearest Pair of Points
 |  |
 | ------- |
