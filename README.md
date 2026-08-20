@@ -1111,4 +1111,5 @@
 | [0571-find-median-given-frequency-of-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0571-find-median-given-frequency-of-numbers) |
 | [0574-winning-candidate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0574-winning-candidate) |
 | [0578-get-highest-answer-rate-question](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0578-get-highest-answer-rate-question) |
+| [0579-find-cumulative-salary-of-an-employee](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0579-find-cumulative-salary-of-an-employee) |
 <!---LeetCode Topics End-->
