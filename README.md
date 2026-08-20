@@ -298,6 +298,7 @@
 | [0625-minimum-factorization](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0625-minimum-factorization) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0634-find-the-derangement-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0634-find-the-derangement-of-an-array) |
+| [0651-4-keys-keyboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0651-4-keys-keyboard) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
@@ -478,6 +479,7 @@
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0568-maximum-vacation-days](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0568-maximum-vacation-days) |
 | [0634-find-the-derangement-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0634-find-the-derangement-of-an-array) |
+| [0651-4-keys-keyboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0651-4-keys-keyboard) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
