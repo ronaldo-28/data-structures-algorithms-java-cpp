@@ -1130,8 +1130,10 @@
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0597-friend-requests-i-overall-acceptance-rate) |
 | [0603-consecutive-available-seats](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0603-consecutive-available-seats) |
 | [0612-shortest-distance-in-a-plane](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0612-shortest-distance-in-a-plane) |
+| [0613-shortest-distance-in-a-line](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0613-shortest-distance-in-a-line) |
 ## Nearest Pair of Points
 |  |
 | ------- |
 | [0612-shortest-distance-in-a-plane](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0612-shortest-distance-in-a-plane) |
+| [0613-shortest-distance-in-a-line](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0613-shortest-distance-in-a-line) |
 <!---LeetCode Topics End-->
