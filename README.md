@@ -209,6 +209,7 @@
 | [0588-design-in-memory-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0588-design-in-memory-file-system) |
 | [0616-add-bold-tag-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0616-add-bold-tag-in-string) |
 | [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
+| [0635-design-log-storage-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0635-design-log-storage-system) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
@@ -399,6 +400,7 @@
 | [0604-design-compressed-string-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0604-design-compressed-string-iterator) |
 | [0616-add-bold-tag-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0616-add-bold-tag-in-string) |
 | [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
+| [0635-design-log-storage-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0635-design-log-storage-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -745,6 +747,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0635-design-log-storage-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0635-design-log-storage-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Monotonic Stack
@@ -1051,6 +1054,7 @@
 | [0588-design-in-memory-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0588-design-in-memory-file-system) |
 | [0604-design-compressed-string-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0604-design-compressed-string-iterator) |
 | [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
+| [0635-design-log-storage-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0635-design-log-storage-system) |
 ## Data Stream
 |  |
 | ------- |
