@@ -1124,4 +1124,5 @@
 | [0579-find-cumulative-salary-of-an-employee](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0579-find-cumulative-salary-of-an-employee) |
 | [0580-count-student-number-in-departments](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0580-count-student-number-in-departments) |
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0597-friend-requests-i-overall-acceptance-rate) |
+| [0603-consecutive-available-seats](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0603-consecutive-available-seats) |
 <!---LeetCode Topics End-->
