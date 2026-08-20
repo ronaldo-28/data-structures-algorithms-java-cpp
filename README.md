@@ -1110,4 +1110,5 @@
 | [0569-median-employee-salary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0569-median-employee-salary) |
 | [0571-find-median-given-frequency-of-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0571-find-median-given-frequency-of-numbers) |
 | [0574-winning-candidate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0574-winning-candidate) |
+| [0578-get-highest-answer-rate-question](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0578-get-highest-answer-rate-question) |
 <!---LeetCode Topics End-->
