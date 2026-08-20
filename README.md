@@ -65,6 +65,7 @@
 | [0604-design-compressed-string-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0604-design-compressed-string-iterator) |
 | [0616-add-bold-tag-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0616-add-bold-tag-in-string) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -207,6 +208,7 @@
 | [0582-kill-process](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0582-kill-process) |
 | [0588-design-in-memory-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0588-design-in-memory-file-system) |
 | [0616-add-bold-tag-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0616-add-bold-tag-in-string) |
+| [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
@@ -395,6 +397,7 @@
 | [0588-design-in-memory-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0588-design-in-memory-file-system) |
 | [0604-design-compressed-string-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0604-design-compressed-string-iterator) |
 | [0616-add-bold-tag-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0616-add-bold-tag-in-string) |
+| [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -713,6 +716,7 @@
 | [0533-lonely-pixel-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0533-lonely-pixel-ii) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0568-maximum-vacation-days](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0568-maximum-vacation-days) |
+| [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2906-construct-product-matrix) |
@@ -858,6 +862,7 @@
 | [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
+| [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 | [2924-find-champion-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2924-find-champion-ii) |
@@ -866,6 +871,7 @@
 | ------- |
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
 | [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
+| [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 ## Memoization
 |  |
@@ -1041,6 +1047,7 @@
 | [0431-encode-n-ary-tree-to-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0431-encode-n-ary-tree-to-binary-tree) |
 | [0588-design-in-memory-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0588-design-in-memory-file-system) |
 | [0604-design-compressed-string-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0604-design-compressed-string-iterator) |
+| [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
 ## Data Stream
 |  |
 | ------- |
