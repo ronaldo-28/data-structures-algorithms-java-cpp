@@ -1105,4 +1105,5 @@
 |  |
 | ------- |
 | [0534-game-play-analysis-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0534-game-play-analysis-iii) |
+| [0569-median-employee-salary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0569-median-employee-salary) |
 <!---LeetCode Topics End-->
