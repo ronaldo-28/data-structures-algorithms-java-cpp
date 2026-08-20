@@ -66,6 +66,7 @@
 | [0616-add-bold-tag-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0616-add-bold-tag-in-string) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
+| [0644-maximum-average-subarray-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0644-maximum-average-subarray-ii) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -552,6 +553,7 @@
 | [0270-closest-binary-search-tree-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0270-closest-binary-search-tree-value) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0362-design-hit-counter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0362-design-hit-counter) |
+| [0644-maximum-average-subarray-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0644-maximum-average-subarray-ii) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -822,6 +824,7 @@
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0370-range-addition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0370-range-addition) |
 | [0548-split-array-with-equal-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0548-split-array-with-equal-sum) |
+| [0644-maximum-average-subarray-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0644-maximum-average-subarray-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2848-points-that-intersect-with-cars) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2874-maximum-value-of-an-ordered-triplet-ii) |
