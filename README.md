@@ -60,6 +60,7 @@
 | [0555-split-concatenated-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0555-split-concatenated-strings) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0568-maximum-vacation-days](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0568-maximum-vacation-days) |
+| [0573-squirrel-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0573-squirrel-simulation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
@@ -281,6 +282,7 @@
 | [0360-sort-transformed-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0360-sort-transformed-array) |
 | [0369-plus-one-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0369-plus-one-linked-list) |
 | [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
+| [0573-squirrel-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0573-squirrel-simulation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
