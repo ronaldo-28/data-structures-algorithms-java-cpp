@@ -1106,4 +1106,5 @@
 | ------- |
 | [0534-game-play-analysis-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0534-game-play-analysis-iii) |
 | [0569-median-employee-salary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0569-median-employee-salary) |
+| [0571-find-median-given-frequency-of-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0571-find-median-given-frequency-of-numbers) |
 <!---LeetCode Topics End-->
