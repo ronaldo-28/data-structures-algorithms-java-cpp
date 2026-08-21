@@ -70,6 +70,7 @@
 | [0656-coin-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0656-coin-path) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [0683-k-empty-slots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0683-k-empty-slots) |
+| [0694-number-of-distinct-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0694-number-of-distinct-islands) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
@@ -216,6 +217,7 @@
 | [0635-design-log-storage-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0635-design-log-storage-system) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [0681-next-closest-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0681-next-closest-time) |
+| [0694-number-of-distinct-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0694-number-of-distinct-islands) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -266,6 +268,7 @@
 | [0588-design-in-memory-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0588-design-in-memory-file-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0642-design-search-autocomplete-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0642-design-search-autocomplete-system) |
+| [0694-number-of-distinct-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0694-number-of-distinct-islands) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -638,6 +641,7 @@
 | [0642-design-search-autocomplete-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0642-design-search-autocomplete-system) |
 | [0663-equal-tree-partition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
+| [0694-number-of-distinct-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0694-number-of-distinct-islands) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -694,6 +698,7 @@
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
 | [0582-kill-process](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0582-kill-process) |
+| [0694-number-of-distinct-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0694-number-of-distinct-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -703,6 +708,7 @@
 | [0261-graph-valid-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0261-graph-valid-tree) |
 | [0305-number-of-islands-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0305-number-of-islands-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0694-number-of-distinct-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0694-number-of-distinct-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -740,6 +746,7 @@
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0568-maximum-vacation-days](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0568-maximum-vacation-days) |
 | [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
+| [0694-number-of-distinct-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0694-number-of-distinct-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2906-construct-product-matrix) |
@@ -1019,6 +1026,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0694-number-of-distinct-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0694-number-of-distinct-islands) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Z Algorithm
