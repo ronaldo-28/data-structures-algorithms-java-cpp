@@ -597,6 +597,7 @@
 | [0545-boundary-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0545-boundary-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0582-kill-process](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0582-kill-process) |
+| [0663-equal-tree-partition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -630,6 +631,7 @@
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0582-kill-process](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0582-kill-process) |
 | [0642-design-search-autocomplete-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0642-design-search-autocomplete-system) |
+| [0663-equal-tree-partition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -1040,6 +1042,7 @@
 | [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
 | [0545-boundary-of-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0545-boundary-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
+| [0663-equal-tree-partition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 ## Interactive
 |  |
