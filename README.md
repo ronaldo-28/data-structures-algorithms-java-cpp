@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0681-next-closest-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0681-next-closest-time) |
+| [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
 | [2843-count-symmetric-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2843-count-symmetric-integers) |
@@ -311,6 +312,7 @@
 | [0634-find-the-derangement-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0634-find-the-derangement-of-an-array) |
 | [0651-4-keys-keyboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0651-4-keys-keyboard) |
 | [0660-remove-9](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0660-remove-9) |
+| [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
@@ -418,6 +420,7 @@
 | [0635-design-log-storage-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0635-design-log-storage-system) |
 | [0642-design-search-autocomplete-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0642-design-search-autocomplete-system) |
 | [0681-next-closest-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0681-next-closest-time) |
+| [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
