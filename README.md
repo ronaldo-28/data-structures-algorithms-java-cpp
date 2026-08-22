@@ -83,6 +83,7 @@
 | [0774-minimize-max-distance-to-gas-station](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1057-campus-bikes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1057-campus-bikes) |
+| [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
@@ -290,6 +291,7 @@
 | [0711-number-of-distinct-islands-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0711-number-of-distinct-islands-ii) |
 | [0759-employee-free-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-employee-free-time) |
 | [1057-campus-bikes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1057-campus-bikes) |
+| [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -335,6 +337,7 @@
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [1056-confusing-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1056-confusing-number) |
+| [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -448,6 +451,7 @@
 | [0772-basic-calculator-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0772-basic-calculator-iii) |
 | [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
 | [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
+| [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -567,6 +571,7 @@
 | [0555-split-concatenated-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0555-split-concatenated-strings) |
 | [0625-minimum-factorization](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0625-minimum-factorization) |
 | [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
+| [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
