@@ -442,6 +442,7 @@
 | [0758-bold-words-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0758-bold-words-in-string) |
 | [0772-basic-calculator-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0772-basic-calculator-iii) |
 | [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
+| [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -560,6 +561,7 @@
 | [0527-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0527-word-abbreviation) |
 | [0555-split-concatenated-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0555-split-concatenated-strings) |
 | [0625-minimum-factorization](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0625-minimum-factorization) |
+| [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
@@ -597,6 +599,7 @@
 | [0362-design-hit-counter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0362-design-hit-counter) |
 | [0644-maximum-average-subarray-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0644-maximum-average-subarray-ii) |
 | [0774-minimize-max-distance-to-gas-station](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0774-minimize-max-distance-to-gas-station) |
+| [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -868,6 +871,7 @@
 | [0360-sort-transformed-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0360-sort-transformed-array) |
 | [0408-valid-word-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0408-valid-word-abbreviation) |
 | [0723-candy-crush](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0723-candy-crush) |
+| [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
