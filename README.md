@@ -967,6 +967,7 @@
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
 | [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1059-all-paths-from-source-lead-to-destination) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 | [2924-find-champion-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2924-find-champion-ii) |
@@ -976,6 +977,7 @@
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
 | [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
 | [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1059-all-paths-from-source-lead-to-destination) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 ## Memoization
 |  |
@@ -1286,4 +1288,12 @@
 |  |
 | ------- |
 | [0759-employee-free-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-employee-free-time) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1059-all-paths-from-source-lead-to-destination) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1059-all-paths-from-source-lead-to-destination) |
 <!---LeetCode Topics End-->
