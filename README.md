@@ -351,6 +351,7 @@
 | [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
 | [1067-digit-count-in-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1067-digit-count-in-range) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1085-sum-of-digits-in-the-minimum-number) |
+| [1088-confusing-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1088-confusing-number-ii) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -969,6 +970,7 @@
 | [0681-next-closest-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0681-next-closest-time) |
 | [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
+| [1088-confusing-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1088-confusing-number-ii) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
