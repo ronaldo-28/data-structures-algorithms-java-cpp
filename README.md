@@ -75,6 +75,7 @@
 | [0723-candy-crush](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0723-candy-crush) |
 | [0734-sentence-similarity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0734-sentence-similarity) |
 | [0737-sentence-similarity-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0737-sentence-similarity-ii) |
+| [0750-number-of-corner-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0750-number-of-corner-rectangles) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
@@ -316,6 +317,7 @@
 | [0634-find-the-derangement-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0634-find-the-derangement-of-an-array) |
 | [0651-4-keys-keyboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0651-4-keys-keyboard) |
 | [0660-remove-9](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0660-remove-9) |
+| [0750-number-of-corner-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0750-number-of-corner-rectangles) |
 | [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
@@ -504,6 +506,7 @@
 | [0634-find-the-derangement-of-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0634-find-the-derangement-of-an-array) |
 | [0651-4-keys-keyboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0651-4-keys-keyboard) |
 | [0656-coin-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0656-coin-path) |
+| [0750-number-of-corner-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0750-number-of-corner-rectangles) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
@@ -774,6 +777,7 @@
 | [0694-number-of-distinct-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0711-number-of-distinct-islands-ii) |
 | [0723-candy-crush](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0723-candy-crush) |
+| [0750-number-of-corner-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0750-number-of-corner-rectangles) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2906-construct-product-matrix) |
