@@ -365,6 +365,7 @@
 | [0320-generalized-abbreviation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0320-generalized-abbreviation) |
 | [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
+| [0751-ip-to-cidr](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0751-ip-to-cidr) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2836-maximize-value-of-function-in-a-ball-passing-game) |
@@ -428,6 +429,7 @@
 | [0681-next-closest-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0681-next-closest-time) |
 | [0734-sentence-similarity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0734-sentence-similarity) |
 | [0737-sentence-similarity-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0737-sentence-similarity-ii) |
+| [0751-ip-to-cidr](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0751-ip-to-cidr) |
 | [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
