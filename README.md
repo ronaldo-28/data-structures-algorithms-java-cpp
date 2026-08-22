@@ -79,6 +79,7 @@
 | [0755-pour-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0755-pour-water) |
 | [0758-bold-words-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0758-bold-words-in-string) |
 | [0759-employee-free-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-employee-free-time) |
+| [0760-find-anagram-mappings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0760-find-anagram-mappings) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
@@ -231,6 +232,7 @@
 | [0734-sentence-similarity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0734-sentence-similarity) |
 | [0737-sentence-similarity-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0737-sentence-similarity-ii) |
 | [0758-bold-words-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0758-bold-words-in-string) |
+| [0760-find-anagram-mappings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0760-find-anagram-mappings) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
