@@ -638,6 +638,7 @@
 | [0663-equal-tree-partition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [0742-closest-leaf-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0742-closest-leaf-in-a-binary-tree) |
+| [0776-split-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0776-split-bst) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -1119,6 +1120,7 @@
 | [0663-equal-tree-partition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0663-equal-tree-partition) |
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [0742-closest-leaf-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0742-closest-leaf-in-a-binary-tree) |
+| [0776-split-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0776-split-bst) |
 ## Interactive
 |  |
 | ------- |
@@ -1164,6 +1166,7 @@
 | [0439-ternary-expression-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0439-ternary-expression-parser) |
 | [0544-output-contest-matches](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0544-output-contest-matches) |
 | [0772-basic-calculator-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0772-basic-calculator-iii) |
+| [0776-split-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0776-split-bst) |
 ## Iterator
 |  |
 | ------- |
@@ -1189,6 +1192,7 @@
 | [0333-largest-bst-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0333-largest-bst-subtree) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0510-inorder-successor-in-bst-ii) |
+| [0776-split-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0776-split-bst) |
 ## Sqrt Decomposition
 |  |
 | ------- |
