@@ -246,6 +246,7 @@
 | [0758-bold-words-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0758-bold-words-in-string) |
 | [0760-find-anagram-mappings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0760-find-anagram-mappings) |
 | [1086-high-five](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1086-high-five) |
+| [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -472,6 +473,7 @@
 | [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
 | [1065-index-pairs-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1065-index-pairs-of-a-string) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
+| [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -518,6 +520,7 @@
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0487-max-consecutive-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0487-max-consecutive-ones-ii) |
 | [0683-k-empty-slots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0683-k-empty-slots) |
+| [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2831-find-the-longest-equal-subarray) |
