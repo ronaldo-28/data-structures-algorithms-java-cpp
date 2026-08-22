@@ -660,6 +660,7 @@
 | [0379-design-phone-directory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0379-design-phone-directory) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0708-insert-into-a-sorted-circular-linked-list) |
+| [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
@@ -771,6 +772,7 @@
 | [0439-ternary-expression-parser](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0439-ternary-expression-parser) |
 | [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
 | [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
+| [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 | [2818-apply-operations-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2818-apply-operations-to-maximize-score) |
@@ -783,6 +785,7 @@
 | ------- |
 | [0635-design-log-storage-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0635-design-log-storage-system) |
 | [0683-k-empty-slots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0683-k-empty-slots) |
+| [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Monotonic Stack
@@ -1101,6 +1104,7 @@
 | [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
 | [0635-design-log-storage-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0635-design-log-storage-system) |
 | [0642-design-search-autocomplete-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0642-design-search-autocomplete-system) |
+| [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
 ## Data Stream
 |  |
 | ------- |
@@ -1162,6 +1166,7 @@
 |  |
 | ------- |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
 ## Geometry
 |  |
 | ------- |
