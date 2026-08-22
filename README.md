@@ -80,6 +80,7 @@
 | [0758-bold-words-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0758-bold-words-in-string) |
 | [0759-employee-free-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-employee-free-time) |
 | [0760-find-anagram-mappings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0760-find-anagram-mappings) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
@@ -595,6 +596,7 @@
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0362-design-hit-counter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0362-design-hit-counter) |
 | [0644-maximum-average-subarray-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0644-maximum-average-subarray-ii) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
