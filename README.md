@@ -1301,6 +1301,7 @@
 | [1076-project-employees-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1076-project-employees-ii) |
 | [1077-project-employees-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1077-project-employees-iii) |
 | [1082-sales-analysis-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1082-sales-analysis-i) |
+| [1083-sales-analysis-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1083-sales-analysis-ii) |
 ## Nearest Pair of Points
 |  |
 | ------- |
