@@ -89,6 +89,7 @@
 | [1064-fixed-point](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1064-fixed-point) |
 | [1065-index-pairs-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1065-index-pairs-of-a-string) |
 | [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
+| [1085-sum-of-digits-in-the-minimum-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
@@ -345,6 +346,7 @@
 | [1056-confusing-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1056-confusing-number) |
 | [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
 | [1067-digit-count-in-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1067-digit-count-in-range) |
+| [1085-sum-of-digits-in-the-minimum-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
