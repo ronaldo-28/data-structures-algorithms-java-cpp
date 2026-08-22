@@ -453,6 +453,7 @@
 | [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
 | [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
 | [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
+| [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -533,6 +534,7 @@
 | [0750-number-of-corner-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0750-number-of-corner-rectangles) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
+| [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2801-count-stepping-numbers-in-range) |
@@ -612,6 +614,7 @@
 | [0774-minimize-max-distance-to-gas-station](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
 | [1060-missing-element-in-sorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1060-missing-element-in-sorted-array) |
+| [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -1095,6 +1098,7 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
@@ -1102,6 +1106,7 @@
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0694-number-of-distinct-islands) |
 | [0711-number-of-distinct-islands-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0711-number-of-distinct-islands-ii) |
+| [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Z Algorithm
@@ -1298,4 +1303,16 @@
 |  |
 | ------- |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1059-all-paths-from-source-lead-to-destination) |
+## Suffix Array
+|  |
+| ------- |
+| [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
 <!---LeetCode Topics End-->
