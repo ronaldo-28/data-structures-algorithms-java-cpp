@@ -88,6 +88,7 @@
 | [1063-number-of-valid-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1063-number-of-valid-subarrays) |
 | [1064-fixed-point](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1064-fixed-point) |
 | [1065-index-pairs-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1065-index-pairs-of-a-string) |
+| [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
@@ -388,6 +389,7 @@
 | [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [0751-ip-to-cidr](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0751-ip-to-cidr) |
+| [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2836-maximize-value-of-function-in-a-ball-passing-game) |
@@ -540,6 +542,7 @@
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
+| [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2801-count-stepping-numbers-in-range) |
@@ -952,6 +955,7 @@
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [0489-robot-room-cleaner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0489-robot-room-cleaner) |
 | [0681-next-closest-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0681-next-closest-time) |
+| [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
@@ -959,6 +963,7 @@
 | ------- |
 | [0351-android-unlock-patterns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0351-android-unlock-patterns) |
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
+| [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 ## String Matching
@@ -1325,4 +1330,28 @@
 |  |
 | ------- |
 | [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
+## Bipartite Graph
+|  |
+| ------- |
+| [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
+## Minimum-Cost Flow
+|  |
+| ------- |
+| [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
+## Flow Network
+|  |
+| ------- |
+| [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
 <!---LeetCode Topics End-->
