@@ -1298,6 +1298,7 @@
 | [0615-average-salary-departments-vs-company](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0615-average-salary-departments-vs-company) |
 | [0618-students-report-by-geography](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0618-students-report-by-geography) |
 | [1069-product-sales-analysis-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1069-product-sales-analysis-ii) |
+| [1076-project-employees-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1076-project-employees-ii) |
 ## Nearest Pair of Points
 |  |
 | ------- |
