@@ -1345,6 +1345,7 @@
 | [1107-new-users-daily-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1107-new-users-daily-count) |
 | [1112-highest-grade-for-each-student](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1112-highest-grade-for-each-student) |
 | [1113-reported-posts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1113-reported-posts) |
+| [1126-active-businesses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1126-active-businesses) |
 ## Nearest Pair of Points
 |  |
 | ------- |
