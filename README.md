@@ -1335,6 +1335,7 @@
 | [1083-sales-analysis-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1083-sales-analysis-ii) |
 | [1097-game-play-analysis-v](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1097-game-play-analysis-v) |
 | [1098-unpopular-books](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1098-unpopular-books) |
+| [1107-new-users-daily-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1107-new-users-daily-count) |
 ## Nearest Pair of Points
 |  |
 | ------- |
