@@ -97,6 +97,7 @@
 | [1121-divide-array-into-increasing-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1121-divide-array-into-increasing-sequences) |
 | [1133-largest-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1133-largest-unique-number) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1151-minimum-swaps-to-group-all-1s-together](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -530,6 +531,7 @@
 | [0487-max-consecutive-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0487-max-consecutive-ones-ii) |
 | [0683-k-empty-slots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0683-k-empty-slots) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
+| [1151-minimum-swaps-to-group-all-1s-together](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2831-find-the-longest-equal-subarray) |
