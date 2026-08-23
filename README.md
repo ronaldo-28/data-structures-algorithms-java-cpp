@@ -94,6 +94,7 @@
 | [1099-two-sum-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1099-two-sum-less-than-k) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
+| [1121-divide-array-into-increasing-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1121-divide-array-into-increasing-sequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -904,6 +905,7 @@
 |  |
 | ------- |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
+| [1121-divide-array-into-increasing-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1121-divide-array-into-increasing-sequences) |
 | [2833-furthest-point-from-origin](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2870-minimum-number-of-operations-to-make-array-empty) |
