@@ -476,6 +476,7 @@
 | [1065-index-pairs-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1065-index-pairs-of-a-string) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
+| [1119-remove-vowels-from-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1119-remove-vowels-from-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
