@@ -686,6 +686,7 @@
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [0742-closest-leaf-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0776-split-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0776-split-bst) |
+| [1120-maximum-average-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1120-maximum-average-subtree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -725,6 +726,7 @@
 | [0737-sentence-similarity-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0737-sentence-similarity-ii) |
 | [0742-closest-leaf-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
+| [1120-maximum-average-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1120-maximum-average-subtree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -1194,6 +1196,7 @@
 | [0666-path-sum-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0666-path-sum-iv) |
 | [0742-closest-leaf-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0776-split-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0776-split-bst) |
+| [1120-maximum-average-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1120-maximum-average-subtree) |
 ## Interactive
 |  |
 | ------- |
