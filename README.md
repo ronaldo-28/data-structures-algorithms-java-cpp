@@ -1337,6 +1337,7 @@
 | [1098-unpopular-books](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1098-unpopular-books) |
 | [1107-new-users-daily-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1107-new-users-daily-count) |
 | [1112-highest-grade-for-each-student](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1112-highest-grade-for-each-student) |
+| [1113-reported-posts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1113-reported-posts) |
 ## Nearest Pair of Points
 |  |
 | ------- |
