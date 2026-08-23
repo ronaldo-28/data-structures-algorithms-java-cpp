@@ -798,6 +798,7 @@
 | [0711-number-of-distinct-islands-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0711-number-of-distinct-islands-ii) |
 | [0737-sentence-similarity-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0737-sentence-similarity-ii) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
+| [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -812,6 +813,7 @@
 | [0759-employee-free-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-employee-free-time) |
 | [1057-campus-bikes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1057-campus-bikes) |
 | [1086-high-five](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1086-high-five) |
+| [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
@@ -1008,6 +1010,7 @@
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
 | [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1059-all-paths-from-source-lead-to-destination) |
+| [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 | [2924-find-champion-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2924-find-champion-ii) |
@@ -1383,4 +1386,20 @@
 |  |
 | ------- |
 | [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
 <!---LeetCode Topics End-->
