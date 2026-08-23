@@ -1030,6 +1030,7 @@
 | [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1059-all-paths-from-source-lead-to-destination) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1135-connecting-cities-with-minimum-cost) |
+| [1136-parallel-courses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1136-parallel-courses) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
@@ -1041,6 +1042,7 @@
 | [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
 | [0631-design-excel-sum-formula](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0631-design-excel-sum-formula) |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1059-all-paths-from-source-lead-to-destination) |
+| [1136-parallel-courses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1136-parallel-courses) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 ## Memoization
 |  |
@@ -1287,6 +1289,7 @@
 | ------- |
 | [0269-alien-dictionary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0269-alien-dictionary) |
 | [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
+| [1136-parallel-courses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1136-parallel-courses) |
 ## Impartial Game
 |  |
 | ------- |
