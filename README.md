@@ -99,6 +99,7 @@
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1152-analyze-user-website-visit-pattern) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -619,6 +620,7 @@
 | [0625-minimum-factorization](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0625-minimum-factorization) |
 | [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
 | [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
@@ -844,6 +846,7 @@
 | [1086-high-five](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1086-high-five) |
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1135-connecting-cities-with-minimum-cost) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
