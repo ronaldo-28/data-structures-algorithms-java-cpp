@@ -356,6 +356,7 @@
 | [1067-digit-count-in-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1067-digit-count-in-range) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1088-confusing-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1088-confusing-number-ii) |
+| [1118-number-of-days-in-a-month](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1118-number-of-days-in-a-month) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
