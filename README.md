@@ -105,6 +105,7 @@
 | [1182-shortest-distance-to-target-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1182-shortest-distance-to-target-color) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1243-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1243-array-transformation) |
 | [1246-palindrome-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1246-palindrome-removal) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -268,6 +269,7 @@
 | [1166-design-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1166-design-file-system) |
 | [1181-before-and-after-puzzle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1181-before-and-after-puzzle) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1244-design-a-leaderboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1244-design-a-leaderboard) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
@@ -693,6 +695,7 @@
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1182-shortest-distance-to-target-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1182-shortest-distance-to-target-color) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -965,6 +968,7 @@
 | [0358-rearrange-string-k-distance-apart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0358-rearrange-string-k-distance-apart) |
 | [1121-divide-array-into-increasing-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1121-divide-array-into-increasing-sequences) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1213-intersection-of-three-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [2833-furthest-point-from-origin](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2870-minimum-number-of-operations-to-make-array-empty) |
