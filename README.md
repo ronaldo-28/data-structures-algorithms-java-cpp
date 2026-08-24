@@ -842,6 +842,7 @@
 | [0742-closest-leaf-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
+| [1197-minimum-knight-moves](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1197-minimum-knight-moves) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -1377,11 +1378,13 @@
 | ------- |
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
+| [1197-minimum-knight-moves](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1197-minimum-knight-moves) |
 ## A* Search
 |  |
 | ------- |
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
+| [1197-minimum-knight-moves](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1197-minimum-knight-moves) |
 ## Database
 |  |
 | ------- |
@@ -1497,4 +1500,8 @@
 |  |
 | ------- |
 | [1188-design-bounded-blocking-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1188-design-bounded-blocking-queue) |
+## Bidirectional Search
+|  |
+| ------- |
+| [1197-minimum-knight-moves](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1197-minimum-knight-moves) |
 <!---LeetCode Topics End-->
