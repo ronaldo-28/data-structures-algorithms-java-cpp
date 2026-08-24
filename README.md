@@ -103,6 +103,7 @@
 | [1176-diet-plan-performance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1176-diet-plan-performance) |
 | [1181-before-and-after-puzzle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1181-before-and-after-puzzle) |
 | [1182-shortest-distance-to-target-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1182-shortest-distance-to-target-color) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1243-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1243-array-transformation) |
 | [1246-palindrome-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1246-palindrome-removal) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -330,6 +331,7 @@
 | [1152-analyze-user-website-visit-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1181-before-and-after-puzzle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1181-before-and-after-puzzle) |
 | [1183-maximum-number-of-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1183-maximum-number-of-ones) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1244-design-a-leaderboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1244-design-a-leaderboard) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -642,6 +644,7 @@
 | [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1183-maximum-number-of-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1183-maximum-number-of-ones) |
+| [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
