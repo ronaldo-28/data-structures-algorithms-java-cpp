@@ -1489,4 +1489,8 @@
 |  |
 | ------- |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
+## Concurrency
+|  |
+| ------- |
+| [1188-design-bounded-blocking-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1188-design-bounded-blocking-queue) |
 <!---LeetCode Topics End-->
