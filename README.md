@@ -374,6 +374,7 @@
 | [1088-confusing-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1088-confusing-number-ii) |
 | [1118-number-of-days-in-a-month](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1118-number-of-days-in-a-month) |
 | [1134-armstrong-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1134-armstrong-number) |
+| [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -420,6 +421,7 @@
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [0751-ip-to-cidr](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0751-ip-to-cidr) |
 | [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
+| [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2836-maximize-value-of-function-in-a-ball-passing-game) |
@@ -498,6 +500,7 @@
 | [1153-string-transforms-into-another-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1153-string-transforms-into-another-string) |
 | [1165-single-row-keyboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1165-single-row-keyboard) |
 | [1166-design-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1166-design-file-system) |
+| [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
