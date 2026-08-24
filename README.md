@@ -1445,6 +1445,7 @@
 | [1194-tournament-winners](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1194-tournament-winners) |
 | [1205-monthly-transactions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1205-monthly-transactions-ii) |
 | [1212-team-scores-in-football-tournament](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1212-team-scores-in-football-tournament) |
+| [1225-report-contiguous-dates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1225-report-contiguous-dates) |
 ## Nearest Pair of Points
 |  |
 | ------- |
