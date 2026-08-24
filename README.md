@@ -376,6 +376,7 @@
 | [1088-confusing-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1088-confusing-number-ii) |
 | [1118-number-of-days-in-a-month](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1118-number-of-days-in-a-month) |
 | [1134-armstrong-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1134-armstrong-number) |
+| [1180-count-substrings-with-only-one-distinct-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
 | [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2806-account-balance-after-rounded-purchase) |
@@ -502,6 +503,7 @@
 | [1153-string-transforms-into-another-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1153-string-transforms-into-another-string) |
 | [1165-single-row-keyboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1165-single-row-keyboard) |
 | [1166-design-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1166-design-file-system) |
+| [1180-count-substrings-with-only-one-distinct-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
 | [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
