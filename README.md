@@ -329,6 +329,7 @@
 | [1133-largest-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1133-largest-unique-number) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1181-before-and-after-puzzle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1181-before-and-after-puzzle) |
+| [1183-maximum-number-of-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1183-maximum-number-of-ones) |
 | [1244-design-a-leaderboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1244-design-a-leaderboard) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -381,6 +382,7 @@
 | [1118-number-of-days-in-a-month](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1118-number-of-days-in-a-month) |
 | [1134-armstrong-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1134-armstrong-number) |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
+| [1183-maximum-number-of-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1183-maximum-number-of-ones) |
 | [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2806-account-balance-after-rounded-purchase) |
@@ -639,6 +641,7 @@
 | [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
 | [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1167-minimum-cost-to-connect-sticks) |
+| [1183-maximum-number-of-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1183-maximum-number-of-ones) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
@@ -871,6 +874,7 @@
 | [1135-connecting-cities-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
+| [1183-maximum-number-of-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1183-maximum-number-of-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
