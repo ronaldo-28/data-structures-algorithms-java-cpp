@@ -1397,6 +1397,7 @@
 | [1142-user-activity-for-the-past-30-days-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1142-user-activity-for-the-past-30-days-ii) |
 | [1149-article-views-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1149-article-views-ii) |
 | [1159-market-analysis-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1159-market-analysis-ii) |
+| [1173-immediate-food-delivery-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1173-immediate-food-delivery-i) |
 ## Nearest Pair of Points
 |  |
 | ------- |
