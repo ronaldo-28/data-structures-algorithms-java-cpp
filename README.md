@@ -1425,6 +1425,7 @@
 | [1159-market-analysis-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1159-market-analysis-ii) |
 | [1173-immediate-food-delivery-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1173-immediate-food-delivery-i) |
 | [1194-tournament-winners](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1194-tournament-winners) |
+| [1205-monthly-transactions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1205-monthly-transactions-ii) |
 ## Nearest Pair of Points
 |  |
 | ------- |
