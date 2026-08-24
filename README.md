@@ -106,6 +106,7 @@
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1228-missing-number-in-arithmetic-progression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1243-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1243-array-transformation) |
 | [1246-palindrome-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1246-palindrome-removal) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
@@ -390,6 +391,7 @@
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
 | [1183-maximum-number-of-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1183-maximum-number-of-ones) |
 | [1215-stepping-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1215-stepping-numbers) |
+| [1228-missing-number-in-arithmetic-progression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
 | [1271-hexspeak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1271-hexspeak) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
