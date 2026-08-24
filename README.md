@@ -1426,6 +1426,7 @@
 | [1173-immediate-food-delivery-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1173-immediate-food-delivery-i) |
 | [1194-tournament-winners](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1194-tournament-winners) |
 | [1205-monthly-transactions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1205-monthly-transactions-ii) |
+| [1212-team-scores-in-football-tournament](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1212-team-scores-in-football-tournament) |
 ## Nearest Pair of Points
 |  |
 | ------- |
