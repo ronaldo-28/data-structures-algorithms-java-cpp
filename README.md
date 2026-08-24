@@ -389,6 +389,7 @@
 | [1134-armstrong-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1134-armstrong-number) |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
 | [1183-maximum-number-of-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1183-maximum-number-of-ones) |
+| [1215-stepping-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1215-stepping-numbers) |
 | [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
 | [1271-hexspeak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1271-hexspeak) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
@@ -854,6 +855,7 @@
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
 | [1197-minimum-knight-moves](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1197-minimum-knight-moves) |
+| [1215-stepping-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1215-stepping-numbers) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -1063,6 +1065,7 @@
 | [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
 | [1088-confusing-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1088-confusing-number-ii) |
+| [1215-stepping-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1215-stepping-numbers) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
