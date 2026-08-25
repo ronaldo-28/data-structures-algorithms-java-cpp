@@ -1500,6 +1500,7 @@
 | [1355-activity-participants](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1355-activity-participants) |
 | [1364-number-of-trusted-contacts-of-a-customer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1364-number-of-trusted-contacts-of-a-customer) |
 | [1369-get-the-second-most-recent-activity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1369-get-the-second-most-recent-activity) |
+| [1384-total-sales-amount-by-year](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1384-total-sales-amount-by-year) |
 ## Nearest Pair of Points
 |  |
 | ------- |
