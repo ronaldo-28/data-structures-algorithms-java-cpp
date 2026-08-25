@@ -115,6 +115,7 @@
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
 | [1272-remove-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1272-remove-interval) |
 | [1273-delete-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1273-delete-tree-nodes) |
+| [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1427-perform-string-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1427-perform-string-shifts) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
@@ -1328,6 +1329,7 @@
 | [0277-find-the-celebrity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0277-find-the-celebrity) |
 | [0489-robot-room-cleaner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0489-robot-room-cleaner) |
 | [1236-web-crawler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1236-web-crawler) |
+| [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
 ## Design
 |  |
 | ------- |
@@ -1577,4 +1579,8 @@
 |  |
 | ------- |
 | [1230-toss-strange-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1230-toss-strange-coins) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
 <!---LeetCode Topics End-->
