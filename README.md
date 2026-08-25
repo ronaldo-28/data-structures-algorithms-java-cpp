@@ -1495,6 +1495,7 @@
 | [1303-find-the-team-size](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1303-find-the-team-size) |
 | [1308-running-total-for-different-genders](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1308-running-total-for-different-genders) |
 | [1322-ads-performance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1322-ads-performance) |
+| [1336-number-of-transactions-per-visit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1336-number-of-transactions-per-visit) |
 ## Nearest Pair of Points
 |  |
 | ------- |
