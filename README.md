@@ -108,6 +108,7 @@
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1229-meeting-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1229-meeting-scheduler) |
+| [1230-toss-strange-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1230-toss-strange-coins) |
 | [1243-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1243-array-transformation) |
 | [1246-palindrome-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1246-palindrome-removal) |
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
@@ -400,6 +401,7 @@
 | [1183-maximum-number-of-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1183-maximum-number-of-ones) |
 | [1215-stepping-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1215-stepping-numbers) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1228-missing-number-in-arithmetic-progression) |
+| [1230-toss-strange-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1230-toss-strange-coins) |
 | [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
 | [1259-handshakes-that-dont-cross](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1259-handshakes-that-dont-cross) |
 | [1271-hexspeak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1271-hexspeak) |
@@ -624,6 +626,7 @@
 | [1067-digit-count-in-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1067-digit-count-in-range) |
 | [1182-shortest-distance-to-target-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1182-shortest-distance-to-target-color) |
 | [1216-valid-palindrome-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1216-valid-palindrome-iii) |
+| [1230-toss-strange-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1230-toss-strange-coins) |
 | [1246-palindrome-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1246-palindrome-removal) |
 | [1259-handshakes-that-dont-cross](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1259-handshakes-that-dont-cross) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
@@ -1554,4 +1557,8 @@
 |  |
 | ------- |
 | [1197-minimum-knight-moves](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1197-minimum-knight-moves) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1230-toss-strange-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1230-toss-strange-coins) |
 <!---LeetCode Topics End-->
