@@ -810,6 +810,7 @@
 | [1120-maximum-average-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1120-maximum-average-subtree) |
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
 | [1236-web-crawler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1236-web-crawler) |
+| [1242-web-crawler-multithreaded](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1242-web-crawler-multithreaded) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -882,6 +883,7 @@
 | [1197-minimum-knight-moves](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1197-minimum-knight-moves) |
 | [1215-stepping-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1215-stepping-numbers) |
 | [1236-web-crawler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1236-web-crawler) |
+| [1242-web-crawler-multithreaded](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1242-web-crawler-multithreaded) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -1560,6 +1562,7 @@
 |  |
 | ------- |
 | [1188-design-bounded-blocking-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1188-design-bounded-blocking-queue) |
+| [1242-web-crawler-multithreaded](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1242-web-crawler-multithreaded) |
 ## Bidirectional Search
 |  |
 | ------- |
