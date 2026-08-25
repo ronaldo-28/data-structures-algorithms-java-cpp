@@ -1491,6 +1491,7 @@
 | [1264-page-recommendations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1264-page-recommendations) |
 | [1270-all-people-report-to-the-given-manager](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1270-all-people-report-to-the-given-manager) |
 | [1285-find-the-start-and-end-number-of-continuous-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1285-find-the-start-and-end-number-of-continuous-ranges) |
+| [1294-weather-type-in-each-country](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1294-weather-type-in-each-country) |
 ## Nearest Pair of Points
 |  |
 | ------- |
