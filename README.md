@@ -113,6 +113,7 @@
 | [1243-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1243-array-transformation) |
 | [1246-palindrome-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1246-palindrome-removal) |
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
+| [1272-remove-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1272-remove-interval) |
 | [1427-perform-string-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1427-perform-string-shifts) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
