@@ -1571,6 +1571,7 @@
 | ------- |
 | [1188-design-bounded-blocking-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1188-design-bounded-blocking-queue) |
 | [1242-web-crawler-multithreaded](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1242-web-crawler-multithreaded) |
+| [1279-traffic-light-controlled-intersection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1279-traffic-light-controlled-intersection) |
 ## Bidirectional Search
 |  |
 | ------- |
