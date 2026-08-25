@@ -1469,6 +1469,7 @@
 | [1212-team-scores-in-football-tournament](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1212-team-scores-in-football-tournament) |
 | [1225-report-contiguous-dates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1225-report-contiguous-dates) |
 | [1264-page-recommendations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1264-page-recommendations) |
+| [1270-all-people-report-to-the-given-manager](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1270-all-people-report-to-the-given-manager) |
 ## Nearest Pair of Points
 |  |
 | ------- |
