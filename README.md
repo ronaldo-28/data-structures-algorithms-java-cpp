@@ -1496,6 +1496,7 @@
 | [1308-running-total-for-different-genders](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1308-running-total-for-different-genders) |
 | [1322-ads-performance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1322-ads-performance) |
 | [1336-number-of-transactions-per-visit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1336-number-of-transactions-per-visit) |
+| [1350-students-with-invalid-departments](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1350-students-with-invalid-departments) |
 ## Nearest Pair of Points
 |  |
 | ------- |
