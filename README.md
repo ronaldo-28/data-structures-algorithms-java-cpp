@@ -535,6 +535,7 @@
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
 | [1181-before-and-after-puzzle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1181-before-and-after-puzzle) |
 | [1216-valid-palindrome-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1216-valid-palindrome-iii) |
+| [1236-web-crawler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1236-web-crawler) |
 | [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
 | [1271-hexspeak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1271-hexspeak) |
@@ -808,6 +809,7 @@
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
 | [1120-maximum-average-subtree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1120-maximum-average-subtree) |
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
+| [1236-web-crawler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1236-web-crawler) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -879,6 +881,7 @@
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
 | [1197-minimum-knight-moves](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1197-minimum-knight-moves) |
 | [1215-stepping-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1215-stepping-numbers) |
+| [1236-web-crawler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1236-web-crawler) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -1316,6 +1319,7 @@
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 | [0277-find-the-celebrity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0277-find-the-celebrity) |
 | [0489-robot-room-cleaner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0489-robot-room-cleaner) |
+| [1236-web-crawler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1236-web-crawler) |
 ## Design
 |  |
 | ------- |
