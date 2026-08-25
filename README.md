@@ -819,6 +819,7 @@
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0708-insert-into-a-sorted-circular-linked-list) |
 | [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
@@ -963,6 +964,7 @@
 | [1063-number-of-valid-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1063-number-of-valid-subarrays) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 | [2818-apply-operations-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2818-apply-operations-to-maximize-score) |
@@ -1026,6 +1028,7 @@
 | [1099-two-sum-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1099-two-sum-less-than-k) |
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
 | [1229-meeting-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1229-meeting-scheduler) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
@@ -1349,6 +1352,7 @@
 | [0544-output-contest-matches](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0544-output-contest-matches) |
 | [0772-basic-calculator-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0772-basic-calculator-iii) |
 | [0776-split-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0776-split-bst) |
+| [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
 ## Iterator
 |  |
 | ------- |
