@@ -1498,6 +1498,7 @@
 | [1336-number-of-transactions-per-visit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1336-number-of-transactions-per-visit) |
 | [1350-students-with-invalid-departments](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1350-students-with-invalid-departments) |
 | [1355-activity-participants](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1355-activity-participants) |
+| [1364-number-of-trusted-contacts-of-a-customer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1364-number-of-trusted-contacts-of-a-customer) |
 ## Nearest Pair of Points
 |  |
 | ------- |
