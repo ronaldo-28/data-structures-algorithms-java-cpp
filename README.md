@@ -109,6 +109,7 @@
 | [1228-missing-number-in-arithmetic-progression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1229-meeting-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1229-meeting-scheduler) |
 | [1230-toss-strange-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1230-toss-strange-coins) |
+| [1231-divide-chocolate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1231-divide-chocolate) |
 | [1243-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1243-array-transformation) |
 | [1246-palindrome-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1246-palindrome-removal) |
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
@@ -720,6 +721,7 @@
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
+| [1231-divide-chocolate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1231-divide-chocolate) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
