@@ -845,6 +845,7 @@
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0708-insert-into-a-sorted-circular-linked-list) |
 | [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
+| [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
