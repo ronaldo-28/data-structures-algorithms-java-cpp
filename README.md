@@ -288,6 +288,7 @@
 | [1426-counting-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1426-counting-elements) |
 | [1429-first-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1429-first-unique-number) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1485-clone-binary-tree-with-random-pointer) |
+| [1490-clone-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1490-clone-n-ary-tree) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -782,6 +783,7 @@
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1469-find-all-the-lonely-nodes) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1485-clone-binary-tree-with-random-pointer) |
+| [1490-clone-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1490-clone-n-ary-tree) |
 | [1522-diameter-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1522-diameter-of-n-ary-tree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -831,6 +833,7 @@
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1469-find-all-the-lonely-nodes) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1485-clone-binary-tree-with-random-pointer) |
+| [1490-clone-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1490-clone-n-ary-tree) |
 | [1522-diameter-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1522-diameter-of-n-ary-tree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -910,6 +913,7 @@
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1469-find-all-the-lonely-nodes) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1485-clone-binary-tree-with-random-pointer) |
+| [1490-clone-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1490-clone-n-ary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
