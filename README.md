@@ -118,6 +118,7 @@
 | [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1426-counting-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1426-counting-elements) |
 | [1427-perform-string-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1427-perform-string-shifts) |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -728,6 +729,7 @@
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
 | [1231-divide-chocolate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1231-divide-chocolate) |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -963,6 +965,7 @@
 | [0750-number-of-corner-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0750-number-of-corner-rectangles) |
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2906-construct-product-matrix) |
@@ -1335,6 +1338,7 @@
 | [0489-robot-room-cleaner](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0489-robot-room-cleaner) |
 | [1236-web-crawler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1236-web-crawler) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
 ## Design
 |  |
 | ------- |
