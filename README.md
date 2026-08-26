@@ -1557,6 +1557,7 @@
 | [1495-friendly-movies-streamed-last-month](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1495-friendly-movies-streamed-last-month) |
 | [1501-countries-you-can-safely-invest-in](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1501-countries-you-can-safely-invest-in) |
 | [1511-customer-order-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1511-customer-order-frequency) |
+| [1532-the-most-recent-three-orders](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1532-the-most-recent-three-orders) |
 ## Nearest Pair of Points
 |  |
 | ------- |
