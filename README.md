@@ -1526,6 +1526,7 @@
 | [1440-evaluate-boolean-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1440-evaluate-boolean-expression) |
 | [1445-apples-oranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1445-apples-oranges) |
 | [1454-active-users](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1454-active-users) |
+| [1459-rectangles-area](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1459-rectangles-area) |
 ## Nearest Pair of Points
 |  |
 | ------- |
