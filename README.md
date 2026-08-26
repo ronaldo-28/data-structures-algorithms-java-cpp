@@ -1523,6 +1523,7 @@
 | [1412-find-the-quiet-students-in-all-exams](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1412-find-the-quiet-students-in-all-exams) |
 | [1421-npv-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1421-npv-queries) |
 | [1435-create-a-session-bar-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1435-create-a-session-bar-chart) |
+| [1440-evaluate-boolean-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1440-evaluate-boolean-expression) |
 ## Nearest Pair of Points
 |  |
 | ------- |
