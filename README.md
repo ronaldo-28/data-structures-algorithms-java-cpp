@@ -1549,6 +1549,7 @@
 | [1468-calculate-salaries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1468-calculate-salaries) |
 | [1479-sales-by-day-of-the-week](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1479-sales-by-day-of-the-week) |
 | [1495-friendly-movies-streamed-last-month](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1495-friendly-movies-streamed-last-month) |
+| [1501-countries-you-can-safely-invest-in](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1501-countries-you-can-safely-invest-in) |
 ## Nearest Pair of Points
 |  |
 | ------- |
