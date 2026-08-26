@@ -119,6 +119,7 @@
 | [1426-counting-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1426-counting-elements) |
 | [1427-perform-string-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1427-perform-string-shifts) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
+| [1429-first-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1429-first-unique-number) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -285,6 +286,7 @@
 | [1244-design-a-leaderboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1244-design-a-leaderboard) |
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
 | [1426-counting-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1426-counting-elements) |
+| [1429-first-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1429-first-unique-number) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -1238,6 +1240,7 @@
 | [0362-design-hit-counter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0362-design-hit-counter) |
 | [0379-design-phone-directory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0379-design-phone-directory) |
 | [0683-k-empty-slots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0683-k-empty-slots) |
+| [1429-first-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1429-first-unique-number) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2944-minimum-number-of-coins-for-fruits) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2945-find-maximum-non-decreasing-array-length) |
 ## Monotonic Queue
@@ -1363,6 +1366,7 @@
 | [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
 | [1166-design-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1166-design-file-system) |
 | [1244-design-a-leaderboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1244-design-a-leaderboard) |
+| [1429-first-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1429-first-unique-number) |
 ## Data Stream
 |  |
 | ------- |
@@ -1370,6 +1374,7 @@
 | [0359-logger-rate-limiter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0362-design-hit-counter) |
 | [0642-design-search-autocomplete-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0642-design-search-autocomplete-system) |
+| [1429-first-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1429-first-unique-number) |
 ## Recursion
 |  |
 | ------- |
