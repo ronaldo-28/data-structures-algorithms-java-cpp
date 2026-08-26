@@ -772,6 +772,7 @@
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
 | [1273-delete-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1273-delete-tree-nodes) |
+| [1522-diameter-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1522-diameter-of-n-ary-tree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -817,6 +818,7 @@
 | [1242-web-crawler-multithreaded](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1242-web-crawler-multithreaded) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
 | [1273-delete-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1273-delete-tree-nodes) |
+| [1522-diameter-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1522-diameter-of-n-ary-tree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -1208,6 +1210,7 @@
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
 | [1273-delete-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1273-delete-tree-nodes) |
+| [1522-diameter-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1522-diameter-of-n-ary-tree) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2973-find-number-of-coins-to-place-in-tree-nodes) |
 ## Trie
