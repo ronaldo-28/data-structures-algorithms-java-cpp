@@ -1533,6 +1533,7 @@
 | [1454-active-users](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1454-active-users) |
 | [1459-rectangles-area](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1459-rectangles-area) |
 | [1468-calculate-salaries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1468-calculate-salaries) |
+| [1479-sales-by-day-of-the-week](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1479-sales-by-day-of-the-week) |
 ## Nearest Pair of Points
 |  |
 | ------- |
