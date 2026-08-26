@@ -1522,6 +1522,7 @@
 | [1398-customers-who-bought-products-a-and-b-but-not-c](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1398-customers-who-bought-products-a-and-b-but-not-c) |
 | [1412-find-the-quiet-students-in-all-exams](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1412-find-the-quiet-students-in-all-exams) |
 | [1421-npv-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1421-npv-queries) |
+| [1435-create-a-session-bar-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1435-create-a-session-bar-chart) |
 ## Nearest Pair of Points
 |  |
 | ------- |
