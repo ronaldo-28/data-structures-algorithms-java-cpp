@@ -116,6 +116,7 @@
 | [1272-remove-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1272-remove-interval) |
 | [1273-delete-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1273-delete-tree-nodes) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
+| [1426-counting-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1426-counting-elements) |
 | [1427-perform-string-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1427-perform-string-shifts) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
@@ -282,6 +283,7 @@
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1244-design-a-leaderboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1244-design-a-leaderboard) |
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
+| [1426-counting-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1426-counting-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
