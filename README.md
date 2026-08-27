@@ -1607,6 +1607,7 @@
 | [1565-unique-orders-and-customers-per-month](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1565-unique-orders-and-customers-per-month) |
 | [1571-warehouse-manager](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1571-warehouse-manager) |
 | [1596-the-most-frequently-ordered-products-for-each-customer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1596-the-most-frequently-ordered-products-for-each-customer) |
+| [1607-sellers-with-no-sales](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1607-sellers-with-no-sales) |
 ## Nearest Pair of Points
 |  |
 | ------- |
