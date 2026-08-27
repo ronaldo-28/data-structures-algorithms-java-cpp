@@ -1599,6 +1599,7 @@
 | [1555-bank-account-summary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1555-bank-account-summary) |
 | [1565-unique-orders-and-customers-per-month](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1565-unique-orders-and-customers-per-month) |
 | [1571-warehouse-manager](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1571-warehouse-manager) |
+| [1596-the-most-frequently-ordered-products-for-each-customer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1596-the-most-frequently-ordered-products-for-each-customer) |
 ## Nearest Pair of Points
 |  |
 | ------- |
