@@ -124,6 +124,7 @@
 | [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
 | [1548-the-most-similar-path-in-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-the-most-similar-path-in-a-graph) |
 | [1564-put-boxes-into-the-warehouse-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1564-put-boxes-into-the-warehouse-i) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0681-next-closest-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0681-next-closest-time) |
 | [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
 | [2843-count-symmetric-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2843-count-symmetric-integers) |
