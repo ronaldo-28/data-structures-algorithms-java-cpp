@@ -127,6 +127,7 @@
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1580-put-boxes-into-the-warehouse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1580-put-boxes-into-the-warehouse-ii) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -572,6 +573,7 @@
 | [1548-the-most-similar-path-in-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-the-most-similar-path-in-a-graph) |
 | [1554-strings-differ-by-one-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1554-strings-differ-by-one-character) |
 | [1597-build-binary-expression-tree-from-infix-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1597-build-binary-expression-tree-from-infix-expression) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -760,6 +762,7 @@
 | [1231-divide-chocolate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1231-divide-chocolate) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1533-find-the-index-of-the-large-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1533-find-the-index-of-the-large-integer) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -1412,6 +1415,7 @@
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1533-find-the-index-of-the-large-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1533-find-the-index-of-the-large-integer) |
 | [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
+| [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 ## Design
 |  |
 | ------- |
