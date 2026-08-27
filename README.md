@@ -121,6 +121,7 @@
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1429-first-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1429-first-unique-number) |
 | [1533-find-the-index-of-the-large-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1533-find-the-index-of-the-large-integer) |
+| [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -421,6 +422,7 @@
 | [1259-handshakes-that-dont-cross](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1259-handshakes-that-dont-cross) |
 | [1271-hexspeak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1271-hexspeak) |
 | [1427-perform-string-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1427-perform-string-shifts) |
+| [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2806-account-balance-after-rounded-purchase) |
@@ -1375,6 +1377,7 @@
 | [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1533-find-the-index-of-the-large-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1533-find-the-index-of-the-large-integer) |
+| [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
 ## Design
 |  |
 | ------- |
@@ -1658,4 +1661,8 @@
 |  |
 | ------- |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
 <!---LeetCode Topics End-->
