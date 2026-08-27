@@ -1618,6 +1618,7 @@
 | [1596-the-most-frequently-ordered-products-for-each-customer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1596-the-most-frequently-ordered-products-for-each-customer) |
 | [1607-sellers-with-no-sales](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1607-sellers-with-no-sales) |
 | [1613-find-the-missing-ids](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1613-find-the-missing-ids) |
+| [1623-all-valid-triplets-that-can-represent-a-country](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1623-all-valid-triplets-that-can-represent-a-country) |
 ## Nearest Pair of Points
 |  |
 | ------- |
