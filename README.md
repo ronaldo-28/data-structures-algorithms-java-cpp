@@ -420,6 +420,7 @@
 | [1259-handshakes-that-dont-cross](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1259-handshakes-that-dont-cross) |
 | [1271-hexspeak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1271-hexspeak) |
 | [1427-perform-string-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1427-perform-string-shifts) |
+| [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -860,6 +861,7 @@
 | [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
+| [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
@@ -1078,6 +1080,7 @@
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
 | [1229-meeting-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1229-meeting-scheduler) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
+| [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
