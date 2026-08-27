@@ -814,6 +814,7 @@
 | [1522-diameter-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1522-diameter-of-n-ary-tree) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1597-build-binary-expression-tree-from-infix-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1597-build-binary-expression-tree-from-infix-expression) |
+| [1602-find-nearest-right-node-in-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -946,6 +947,7 @@
 | [1469-find-all-the-lonely-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1469-find-all-the-lonely-nodes) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1490-clone-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1490-clone-n-ary-tree) |
+| [1602-find-nearest-right-node-in-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -1392,6 +1394,7 @@
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1597-build-binary-expression-tree-from-infix-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1597-build-binary-expression-tree-from-infix-expression) |
+| [1602-find-nearest-right-node-in-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 ## Interactive
 |  |
 | ------- |
