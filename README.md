@@ -125,6 +125,7 @@
 | [1548-the-most-similar-path-in-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-the-most-similar-path-in-a-graph) |
 | [1564-put-boxes-into-the-warehouse-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1564-put-boxes-into-the-warehouse-i) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -298,6 +299,7 @@
 | [1500-design-a-file-sharing-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1500-design-a-file-sharing-system) |
 | [1506-find-root-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1506-find-root-of-n-ary-tree) |
 | [1554-strings-differ-by-one-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1554-strings-differ-by-one-character) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -1094,6 +1096,7 @@
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
 | [1229-meeting-scheduler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1229-meeting-scheduler) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2825-make-string-a-subsequence-using-cyclic-increments) |
@@ -1417,6 +1420,7 @@
 | [1244-design-a-leaderboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1244-design-a-leaderboard) |
 | [1429-first-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1429-first-unique-number) |
 | [1500-design-a-file-sharing-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1500-design-a-file-sharing-system) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1570-dot-product-of-two-sparse-vectors) |
 ## Data Stream
 |  |
 | ------- |
@@ -1482,6 +1486,7 @@
 |  |
 | ------- |
 | [0311-sparse-matrix-multiplication](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0311-sparse-matrix-multiplication) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1570-dot-product-of-two-sparse-vectors) |
 ## Doubly-Linked List
 |  |
 | ------- |
