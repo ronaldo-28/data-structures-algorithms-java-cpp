@@ -301,6 +301,7 @@
 | [1506-find-root-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1506-find-root-of-n-ary-tree) |
 | [1554-strings-differ-by-one-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1554-strings-differ-by-one-character) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [1612-check-if-two-expression-trees-are-equivalent](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -815,6 +816,7 @@
 | [1586-binary-search-tree-iterator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1597-build-binary-expression-tree-from-infix-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1597-build-binary-expression-tree-from-infix-expression) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1602-find-nearest-right-node-in-binary-tree) |
+| [1612-check-if-two-expression-trees-are-equivalent](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -867,6 +869,7 @@
 | [1506-find-root-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1506-find-root-of-n-ary-tree) |
 | [1516-move-sub-tree-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1516-move-sub-tree-of-n-ary-tree) |
 | [1522-diameter-of-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1522-diameter-of-n-ary-tree) |
+| [1612-check-if-two-expression-trees-are-equivalent](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -1074,6 +1077,7 @@
 | [1121-divide-array-into-increasing-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1121-divide-array-into-increasing-sequences) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1612-check-if-two-expression-trees-are-equivalent](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [2833-furthest-point-from-origin](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -1395,6 +1399,7 @@
 | [1586-binary-search-tree-iterator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1597-build-binary-expression-tree-from-infix-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1597-build-binary-expression-tree-from-infix-expression) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1602-find-nearest-right-node-in-binary-tree) |
+| [1612-check-if-two-expression-trees-are-equivalent](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 ## Interactive
 |  |
 | ------- |
