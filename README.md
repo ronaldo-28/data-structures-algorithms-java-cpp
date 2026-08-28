@@ -133,6 +133,7 @@
 | [1714-sum-of-special-evenly-spaced-elements-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1714-sum-of-special-evenly-spaced-elements-in-array) |
 | [1730-shortest-path-to-get-food](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1730-shortest-path-to-get-food) |
 | [1746-maximum-subarray-sum-after-one-operation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1746-maximum-subarray-sum-after-one-operation) |
+| [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -922,6 +923,7 @@
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
+| [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
@@ -944,6 +946,7 @@
 | [0723-candy-crush](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0723-candy-crush) |
 | [0755-pour-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0755-pour-water) |
 | [1243-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1243-array-transformation) |
+| [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
 | [2810-faulty-keyboard](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2810-faulty-keyboard) |
 | [2899-last-visited-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2899-last-visited-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1496,6 +1499,7 @@
 | [1586-binary-search-tree-iterator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
+| [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
 ## Data Stream
 |  |
 | ------- |
@@ -1550,6 +1554,7 @@
 | ------- |
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
 | [1714-sum-of-special-evenly-spaced-elements-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1714-sum-of-special-evenly-spaced-elements-in-array) |
+| [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -1570,6 +1575,7 @@
 | ------- |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
+| [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
 ## Geometry
 |  |
 | ------- |
@@ -1777,6 +1783,7 @@
 |  |
 | ------- |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
+| [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -1795,4 +1802,12 @@
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1740-find-distance-in-a-binary-tree) |
+## Treap
+|  |
+| ------- |
+| [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
+## Splay Tree
+|  |
+| ------- |
+| [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
 <!---LeetCode Topics End-->
