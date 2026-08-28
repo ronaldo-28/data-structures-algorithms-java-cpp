@@ -306,6 +306,7 @@
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1660-correct-a-binary-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -829,6 +830,7 @@
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1660-correct-a-binary-tree) |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1666-change-the-root-of-a-binary-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -885,6 +887,7 @@
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1660-correct-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1660-correct-a-binary-tree) |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1666-change-the-root-of-a-binary-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -1423,6 +1426,7 @@
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1660-correct-a-binary-tree) |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1666-change-the-root-of-a-binary-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Interactive
 |  |
 | ------- |
@@ -1747,9 +1751,11 @@
 | ------- |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 <!---LeetCode Topics End-->
