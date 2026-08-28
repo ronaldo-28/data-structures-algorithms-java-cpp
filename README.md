@@ -131,6 +131,7 @@
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1708-largest-subarray-length-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1708-largest-subarray-length-k) |
 | [1714-sum-of-special-evenly-spaced-elements-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1714-sum-of-special-evenly-spaced-elements-in-array) |
+| [1730-shortest-path-to-get-food](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1730-shortest-path-to-get-food) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -980,6 +981,7 @@
 | [1490-clone-n-ary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1490-clone-n-ary-tree) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1660-correct-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1660-correct-a-binary-tree) |
+| [1730-shortest-path-to-get-food](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1730-shortest-path-to-get-food) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -1052,6 +1054,7 @@
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
+| [1730-shortest-path-to-get-food](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1730-shortest-path-to-get-food) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2906-construct-product-matrix) |
