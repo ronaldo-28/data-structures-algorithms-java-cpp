@@ -134,6 +134,7 @@
 | [1730-shortest-path-to-get-food](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1730-shortest-path-to-get-food) |
 | [1746-maximum-subarray-sum-after-one-operation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1746-maximum-subarray-sum-after-one-operation) |
 | [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
+| [1762-buildings-with-an-ocean-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1762-buildings-with-an-ocean-view) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -1089,6 +1090,7 @@
 | [1586-binary-search-tree-iterator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1597-build-binary-expression-tree-from-infix-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1597-build-binary-expression-tree-from-infix-expression) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
+| [1762-buildings-with-an-ocean-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1762-buildings-with-an-ocean-view) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 | [2818-apply-operations-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2818-apply-operations-to-maximize-score) |
@@ -1109,6 +1111,7 @@
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [1063-number-of-valid-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1063-number-of-valid-subarrays) |
+| [1762-buildings-with-an-ocean-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1762-buildings-with-an-ocean-view) |
 | [2818-apply-operations-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2818-apply-operations-to-maximize-score) |
 | [2865-beautiful-towers-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2866-beautiful-towers-ii) |
