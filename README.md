@@ -1700,6 +1700,7 @@
 | [1747-leetflex-banned-accounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-leetflex-banned-accounts) |
 | [1767-find-the-subtasks-that-did-not-execute](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1767-find-the-subtasks-that-did-not-execute) |
 | [1777-products-price-for-each-store](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1777-products-price-for-each-store) |
+| [1783-grand-slam-titles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1783-grand-slam-titles) |
 ## Nearest Pair of Points
 |  |
 | ------- |
