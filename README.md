@@ -130,6 +130,7 @@
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1708-largest-subarray-length-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1708-largest-subarray-length-k) |
+| [1714-sum-of-special-evenly-spaced-elements-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1714-sum-of-special-evenly-spaced-elements-in-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -676,6 +677,7 @@
 | [1548-the-most-similar-path-in-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-the-most-similar-path-in-a-graph) |
 | [1682-longest-palindromic-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1682-longest-palindromic-subsequence-ii) |
 | [1692-count-ways-to-distribute-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1692-count-ways-to-distribute-candies) |
+| [1714-sum-of-special-evenly-spaced-elements-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1714-sum-of-special-evenly-spaced-elements-in-array) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2801-count-stepping-numbers-in-range) |
@@ -1531,6 +1533,7 @@
 |  |
 | ------- |
 | [0308-range-sum-query-2d-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0308-range-sum-query-2d-mutable) |
+| [1714-sum-of-special-evenly-spaced-elements-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1714-sum-of-special-evenly-spaced-elements-in-array) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
