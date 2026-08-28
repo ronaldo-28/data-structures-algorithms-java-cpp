@@ -1658,6 +1658,7 @@
 | [1651-hopper-company-queries-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1651-hopper-company-queries-iii) |
 | [1677-products-worth-over-invoices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1677-products-worth-over-invoices) |
 | [1699-number-of-calls-between-two-persons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1699-number-of-calls-between-two-persons) |
+| [1709-biggest-window-between-visits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1709-biggest-window-between-visits) |
 | [1777-products-price-for-each-store](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1777-products-price-for-each-store) |
 ## Nearest Pair of Points
 |  |
