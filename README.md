@@ -381,6 +381,7 @@
 | [1500-design-a-file-sharing-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1500-design-a-file-sharing-system) |
 | [1564-put-boxes-into-the-warehouse-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1564-put-boxes-into-the-warehouse-i) |
 | [1580-put-boxes-into-the-warehouse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1580-put-boxes-into-the-warehouse-ii) |
+| [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -896,6 +897,7 @@
 | [1660-correct-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1660-correct-a-binary-tree) |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1666-change-the-root-of-a-binary-tree) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -995,6 +997,7 @@
 | [1135-connecting-cities-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
+| [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -1015,6 +1018,7 @@
 | [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
 | [1183-maximum-number-of-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1183-maximum-number-of-ones) |
 | [1500-design-a-file-sharing-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1500-design-a-file-sharing-system) |
+| [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
@@ -1237,6 +1241,7 @@
 | [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
 | [1548-the-most-similar-path-in-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-the-most-similar-path-in-a-graph) |
+| [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 | [2924-find-champion-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2924-find-champion-ii) |
@@ -1480,6 +1485,7 @@
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
+| [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -1729,6 +1735,7 @@
 | ------- |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
+| [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 ## Prim's Algorithm
 |  |
 | ------- |
