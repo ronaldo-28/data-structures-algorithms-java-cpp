@@ -1630,6 +1630,7 @@
 | [1623-all-valid-triplets-that-can-represent-a-country](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1623-all-valid-triplets-that-can-represent-a-country) |
 | [1635-hopper-company-queries-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1635-hopper-company-queries-i) |
 | [1645-hopper-company-queries-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1645-hopper-company-queries-ii) |
+| [1777-products-price-for-each-store](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1777-products-price-for-each-store) |
 ## Nearest Pair of Points
 |  |
 | ------- |
