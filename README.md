@@ -132,6 +132,7 @@
 | [1708-largest-subarray-length-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1708-largest-subarray-length-k) |
 | [1714-sum-of-special-evenly-spaced-elements-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1714-sum-of-special-evenly-spaced-elements-in-array) |
 | [1730-shortest-path-to-get-food](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1730-shortest-path-to-get-food) |
+| [1746-maximum-subarray-sum-after-one-operation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1746-maximum-subarray-sum-after-one-operation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -681,6 +682,7 @@
 | [1682-longest-palindromic-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1682-longest-palindromic-subsequence-ii) |
 | [1692-count-ways-to-distribute-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1692-count-ways-to-distribute-candies) |
 | [1714-sum-of-special-evenly-spaced-elements-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1714-sum-of-special-evenly-spaced-elements-in-array) |
+| [1746-maximum-subarray-sum-after-one-operation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1746-maximum-subarray-sum-after-one-operation) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2801-count-stepping-numbers-in-range) |
