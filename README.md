@@ -579,6 +579,7 @@
 | [1554-strings-differ-by-one-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1554-strings-differ-by-one-character) |
 | [1597-build-binary-expression-tree-from-infix-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1597-build-binary-expression-tree-from-infix-expression) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
+| [1682-longest-palindromic-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1682-longest-palindromic-subsequence-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -671,6 +672,7 @@
 | [1246-palindrome-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1246-palindrome-removal) |
 | [1259-handshakes-that-dont-cross](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1259-handshakes-that-dont-cross) |
 | [1548-the-most-similar-path-in-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-the-most-similar-path-in-a-graph) |
+| [1682-longest-palindromic-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1682-longest-palindromic-subsequence-ii) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2786-visit-array-positions-to-maximize-score) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2801-count-stepping-numbers-in-range) |
