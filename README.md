@@ -1729,6 +1729,7 @@
 | [1809-ad-free-sessions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1809-ad-free-sessions) |
 | [1811-find-interview-candidates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1811-find-interview-candidates) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1821-find-customers-with-positive-revenue-this-year) |
+| [1831-maximum-transaction-each-day](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1831-maximum-transaction-each-day) |
 | [1917-leetcodify-friends-recommendations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1917-leetcodify-friends-recommendations) |
 ## Nearest Pair of Points
 |  |
