@@ -1750,6 +1750,7 @@
 | [1843-suspicious-bank-accounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1843-suspicious-bank-accounts) |
 | [1853-convert-date-format](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1853-convert-date-format) |
 | [1867-orders-with-maximum-quantity-above-average](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1867-orders-with-maximum-quantity-above-average) |
+| [1875-group-employees-of-the-same-salary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1875-group-employees-of-the-same-salary) |
 | [1917-leetcodify-friends-recommendations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1917-leetcodify-friends-recommendations) |
 ## Nearest Pair of Points
 |  |
