@@ -144,6 +144,7 @@
 | [1852-distinct-numbers-in-each-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1858-longest-word-with-all-prefixes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1858-longest-word-with-all-prefixes) |
 | [1868-product-of-two-run-length-encoded-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1868-product-of-two-run-length-encoded-arrays) |
+| [1874-minimize-product-sum-of-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -403,6 +404,7 @@
 | [1580-put-boxes-into-the-warehouse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1580-put-boxes-into-the-warehouse-ii) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [1772-sort-features-by-popularity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1772-sort-features-by-popularity) |
+| [1874-minimize-product-sum-of-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
@@ -755,6 +757,7 @@
 | [1708-largest-subarray-length-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1708-largest-subarray-length-k) |
 | [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [1794-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1794-count-pairs-of-equal-substrings-with-minimum-difference) |
+| [1874-minimize-product-sum-of-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
