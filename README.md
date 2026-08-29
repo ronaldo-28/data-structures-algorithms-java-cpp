@@ -137,6 +137,7 @@
 | [1762-buildings-with-an-ocean-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1762-buildings-with-an-ocean-view) |
 | [1772-sort-features-by-popularity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1772-sort-features-by-popularity) |
 | [1778-shortest-path-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1778-shortest-path-in-a-hidden-grid) |
+| [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -317,6 +318,7 @@
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1772-sort-features-by-popularity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1772-sort-features-by-popularity) |
+| [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -736,6 +738,7 @@
 | [1564-put-boxes-into-the-warehouse-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1564-put-boxes-into-the-warehouse-i) |
 | [1580-put-boxes-into-the-warehouse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1580-put-boxes-into-the-warehouse-ii) |
 | [1708-largest-subarray-length-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1708-largest-subarray-length-k) |
+| [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
@@ -1198,6 +1201,7 @@
 | [0370-range-addition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0370-range-addition) |
 | [0548-split-array-with-equal-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0548-split-array-with-equal-sum) |
 | [0644-maximum-average-subarray-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0644-maximum-average-subarray-ii) |
+| [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [2848-points-that-intersect-with-cars](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2848-points-that-intersect-with-cars) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2874-maximum-value-of-an-ordered-triplet-ii) |
