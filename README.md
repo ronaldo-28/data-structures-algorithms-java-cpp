@@ -147,6 +147,7 @@
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
+| [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -879,6 +880,7 @@
 | [1666-change-the-root-of-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1666-change-the-root-of-a-binary-tree) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1740-find-distance-in-a-binary-tree) |
+| [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -1147,6 +1149,7 @@
 | [0635-design-log-storage-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0635-design-log-storage-system) |
 | [0683-k-empty-slots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0683-k-empty-slots) |
 | [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
+| [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Monotonic Stack
@@ -1511,6 +1514,7 @@
 | [1666-change-the-root-of-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1666-change-the-root-of-a-binary-tree) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1740-find-distance-in-a-binary-tree) |
+| [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
 ## Interactive
 |  |
 | ------- |
@@ -1607,6 +1611,7 @@
 | [0776-split-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0776-split-bst) |
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1586-binary-search-tree-iterator-ii) |
+| [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
 ## Sqrt Decomposition
 |  |
 | ------- |
