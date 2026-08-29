@@ -139,6 +139,7 @@
 | [1778-shortest-path-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1778-shortest-path-in-a-hidden-grid) |
 | [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [1810-minimum-path-cost-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1810-minimum-path-cost-in-a-hidden-grid) |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -922,6 +923,7 @@
 | [1740-find-distance-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1778-shortest-path-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1778-shortest-path-in-a-hidden-grid) |
 | [1810-minimum-path-cost-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1810-minimum-path-cost-in-a-hidden-grid) |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -1086,6 +1088,7 @@
 | [1730-shortest-path-to-get-food](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1730-shortest-path-to-get-food) |
 | [1778-shortest-path-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1778-shortest-path-in-a-hidden-grid) |
 | [1810-minimum-path-cost-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1810-minimum-path-cost-in-a-hidden-grid) |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2906-construct-product-matrix) |
@@ -1280,6 +1283,7 @@
 | [1548-the-most-similar-path-in-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-the-most-similar-path-in-a-graph) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [1810-minimum-path-cost-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1810-minimum-path-cost-in-a-hidden-grid) |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 | [2924-find-champion-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2924-find-champion-ii) |
@@ -1767,6 +1771,7 @@
 |  |
 | ------- |
 | [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
 ## Successive Shortest Path Algorithm
 |  |
 | ------- |
@@ -1775,6 +1780,7 @@
 |  |
 | ------- |
 | [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
 ## Minimum-Cost Flow
 |  |
 | ------- |
@@ -1783,6 +1789,7 @@
 |  |
 | ------- |
 | [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1846,4 +1853,28 @@
 |  |
 | ------- |
 | [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
+## Maximum Flow
+|  |
+| ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+## Maximum Matching
+|  |
+| ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+## Edmonds–Karp Algorithm
+|  |
+| ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+## MPM Algorithm
+|  |
+| ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+## Push-Relabel Algorithm
+|  |
+| ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+## Dinic's Algorithm
+|  |
+| ------- |
+| [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
 <!---LeetCode Topics End-->
