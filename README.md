@@ -146,6 +146,7 @@
 | [1868-product-of-two-run-length-encoded-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1868-product-of-two-run-length-encoded-arrays) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
+| [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -813,6 +814,7 @@
 | [1533-find-the-index-of-the-large-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1533-find-the-index-of-the-large-integer) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
+| [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
