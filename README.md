@@ -141,6 +141,7 @@
 | [1810-minimum-path-cost-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1810-minimum-path-cost-in-a-hidden-grid) |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
 | [1826-faulty-sensor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1826-faulty-sensor) |
+| [1852-distinct-numbers-in-each-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -325,6 +326,7 @@
 | [1794-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1794-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
+| [1852-distinct-numbers-in-each-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -654,6 +656,7 @@
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [1176-diet-plan-performance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1176-diet-plan-performance) |
+| [1852-distinct-numbers-in-each-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2831-find-the-longest-equal-subarray) |
