@@ -324,6 +324,7 @@
 | [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [1794-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1794-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1804-implement-trie-ii-prefix-tree) |
+| [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -944,6 +945,7 @@
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
 | [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
+| [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
