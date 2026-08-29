@@ -140,6 +140,7 @@
 | [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [1810-minimum-path-cost-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1810-minimum-path-cost-in-a-hidden-grid) |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+| [1826-faulty-sensor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1826-faulty-sensor) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -1184,6 +1185,7 @@
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1826-faulty-sensor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1826-faulty-sensor) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
