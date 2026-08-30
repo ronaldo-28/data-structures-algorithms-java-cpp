@@ -893,6 +893,7 @@
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -957,6 +958,7 @@
 | [1810-minimum-path-cost-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1810-minimum-path-cost-in-a-hidden-grid) |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
 | [1858-longest-word-with-all-prefixes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1858-longest-word-with-all-prefixes) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2872-maximum-number-of-k-divisible-components) |
@@ -1536,6 +1538,7 @@
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 ## Interactive
 |  |
