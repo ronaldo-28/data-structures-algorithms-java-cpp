@@ -1768,6 +1768,7 @@
 | [1875-group-employees-of-the-same-salary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1875-group-employees-of-the-same-salary) |
 | [1892-page-recommendations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1892-page-recommendations-ii) |
 | [1917-leetcodify-friends-recommendations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1917-leetcodify-friends-recommendations) |
+| [2020-number-of-accounts-that-did-not-stream](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2020-number-of-accounts-that-did-not-stream) |
 | [2026-low-quality-problems](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2026-low-quality-problems) |
 ## Nearest Pair of Points
 |  |
