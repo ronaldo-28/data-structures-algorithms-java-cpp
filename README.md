@@ -148,6 +148,7 @@
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
+| [1983-widest-pair-of-indices-with-equal-range-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1983-widest-pair-of-indices-with-equal-range-sum) |
 | [1989-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1989-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
@@ -337,6 +338,7 @@
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1852-distinct-numbers-in-each-subarray) |
+| [1983-widest-pair-of-indices-with-equal-range-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1983-widest-pair-of-indices-with-equal-range-sum) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2784-check-if-array-is-good) |
@@ -1255,6 +1257,7 @@
 | [0548-split-array-with-equal-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0548-split-array-with-equal-sum) |
 | [0644-maximum-average-subarray-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0644-maximum-average-subarray-ii) |
 | [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
+| [1983-widest-pair-of-indices-with-equal-range-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1983-widest-pair-of-indices-with-equal-range-sum) |
 | [2848-points-that-intersect-with-cars](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2848-points-that-intersect-with-cars) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2874-maximum-value-of-an-ordered-triplet-ii) |
