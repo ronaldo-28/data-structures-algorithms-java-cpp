@@ -148,6 +148,7 @@
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
+| [1989-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1989-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
@@ -770,6 +771,7 @@
 | [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [1794-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1794-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1874-minimize-product-sum-of-two-arrays) |
+| [1989-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1989-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
@@ -1221,6 +1223,7 @@
 | [1842-next-palindrome-using-same-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1842-next-palindrome-using-same-digits) |
 | [1868-product-of-two-run-length-encoded-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1868-product-of-two-run-length-encoded-arrays) |
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
+| [1989-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1989-maximum-number-of-people-that-can-be-caught-in-tag) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
