@@ -1789,6 +1789,7 @@
 | [1875-group-employees-of-the-same-salary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1875-group-employees-of-the-same-salary) |
 | [1892-page-recommendations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1892-page-recommendations-ii) |
 | [1917-leetcodify-friends-recommendations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1917-leetcodify-friends-recommendations) |
+| [1972-first-and-last-call-on-the-same-day](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1972-first-and-last-call-on-the-same-day) |
 | [1988-find-cutoff-score-for-each-school](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1988-find-cutoff-score-for-each-school) |
 | [1990-count-the-number-of-experiments](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1990-count-the-number-of-experiments) |
 | [2004-the-number-of-seniors-and-juniors-to-join-the-company](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2004-the-number-of-seniors-and-juniors-to-join-the-company) |
