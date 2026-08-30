@@ -148,6 +148,7 @@
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
+| [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [1950-maximum-of-minimum-values-in-all-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1950-maximum-of-minimum-values-in-all-subarrays) |
 | [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
@@ -342,6 +343,7 @@
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1852-distinct-numbers-in-each-subarray) |
+| [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [1983-widest-pair-of-indices-with-equal-range-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1983-widest-pair-of-indices-with-equal-range-sum) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2780-minimum-index-of-a-valid-split) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
@@ -1201,6 +1203,7 @@
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
+| [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [2833-furthest-point-from-origin](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2833-furthest-point-from-origin) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2870-minimum-number-of-operations-to-make-array-empty) |
