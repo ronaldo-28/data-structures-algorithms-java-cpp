@@ -249,6 +249,7 @@
 | [0681-next-closest-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0681-next-closest-time) |
 | [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1999-smallest-greater-multiple-made-of-two-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1999-smallest-greater-multiple-made-of-two-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
 | [2843-count-symmetric-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2843-count-symmetric-integers) |
@@ -475,6 +476,7 @@
 | [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
+| [1999-smallest-greater-multiple-made-of-two-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1999-smallest-greater-multiple-made-of-two-digits) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2806-account-balance-after-rounded-purchase) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
