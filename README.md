@@ -1780,6 +1780,7 @@
 | [1875-group-employees-of-the-same-salary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1875-group-employees-of-the-same-salary) |
 | [1892-page-recommendations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1892-page-recommendations-ii) |
 | [1917-leetcodify-friends-recommendations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1917-leetcodify-friends-recommendations) |
+| [1990-count-the-number-of-experiments](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1990-count-the-number-of-experiments) |
 | [2004-the-number-of-seniors-and-juniors-to-join-the-company](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2004-the-number-of-seniors-and-juniors-to-join-the-company) |
 | [2010-the-number-of-seniors-and-juniors-to-join-the-company-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2010-the-number-of-seniors-and-juniors-to-join-the-company-ii) |
 | [2020-number-of-accounts-that-did-not-stream](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2020-number-of-accounts-that-did-not-stream) |
