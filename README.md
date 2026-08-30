@@ -148,6 +148,7 @@
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
+| [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [1983-widest-pair-of-indices-with-equal-range-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1983-widest-pair-of-indices-with-equal-range-sum) |
 | [1989-maximum-number-of-people-that-can-be-caught-in-tag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1989-maximum-number-of-people-that-can-be-caught-in-tag) |
@@ -252,6 +253,7 @@
 | [0681-next-closest-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0681-next-closest-time) |
 | [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [1999-smallest-greater-multiple-made-of-two-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1999-smallest-greater-multiple-made-of-two-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2778-sum-of-squares-of-special-elements) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2800-shortest-string-that-contains-three-strings) |
@@ -480,6 +482,7 @@
 | [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
+| [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [1999-smallest-greater-multiple-made-of-two-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1999-smallest-greater-multiple-made-of-two-digits) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2806-account-balance-after-rounded-purchase) |
@@ -677,6 +680,7 @@
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [1176-diet-plan-performance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1176-diet-plan-performance) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1852-distinct-numbers-in-each-subarray) |
+| [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2831-find-the-longest-equal-subarray) |
@@ -829,6 +833,7 @@
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
+| [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
@@ -1169,6 +1174,7 @@
 | [0683-k-empty-slots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0683-k-empty-slots) |
 | [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
+| [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2021-brightest-position-on-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2021-brightest-position-on-street) |
@@ -1672,6 +1678,7 @@
 |  |
 | ------- |
 | [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
+| [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 ## Shortest Path
 |  |
 | ------- |
