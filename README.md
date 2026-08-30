@@ -149,6 +149,7 @@
 | [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
 | [1918-kth-smallest-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1918-kth-smallest-subarray-sum) |
+| [1924-erect-the-fence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1924-erect-the-fence-ii) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [1950-maximum-of-minimum-values-in-all-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1950-maximum-of-minimum-values-in-all-subarrays) |
 | [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
@@ -486,6 +487,7 @@
 | [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
+| [1924-erect-the-fence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1924-erect-the-fence-ii) |
 | [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [1999-smallest-greater-multiple-made-of-two-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1999-smallest-greater-multiple-made-of-two-digits) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
@@ -1687,6 +1689,7 @@
 |  |
 | ------- |
 | [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
+| [1924-erect-the-fence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1924-erect-the-fence-ii) |
 | [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 ## Shortest Path
 |  |
@@ -1974,4 +1977,8 @@
 |  |
 | ------- |
 | [1950-maximum-of-minimum-values-in-all-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1950-maximum-of-minimum-values-in-all-subarrays) |
+## Minimum Enclosing Circle
+|  |
+| ------- |
+| [1924-erect-the-fence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1924-erect-the-fence-ii) |
 <!---LeetCode Topics End-->
