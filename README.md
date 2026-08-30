@@ -148,6 +148,7 @@
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
+| [1918-kth-smallest-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1918-kth-smallest-subarray-sum) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [1950-maximum-of-minimum-values-in-all-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1950-maximum-of-minimum-values-in-all-subarrays) |
 | [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
@@ -683,6 +684,7 @@
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [1176-diet-plan-performance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1176-diet-plan-performance) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1852-distinct-numbers-in-each-subarray) |
+| [1918-kth-smallest-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1918-kth-smallest-subarray-sum) |
 | [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2799-count-complete-subarrays-in-an-array) |
@@ -836,6 +838,7 @@
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
+| [1918-kth-smallest-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1918-kth-smallest-subarray-sum) |
 | [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2790-maximum-number-of-groups-with-increasing-length) |
