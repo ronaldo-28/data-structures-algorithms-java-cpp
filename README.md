@@ -1806,6 +1806,7 @@
 | [1875-group-employees-of-the-same-salary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1875-group-employees-of-the-same-salary) |
 | [1892-page-recommendations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1892-page-recommendations-ii) |
 | [1917-leetcodify-friends-recommendations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1917-leetcodify-friends-recommendations) |
+| [1939-users-that-actively-request-confirmation-messages](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1939-users-that-actively-request-confirmation-messages) |
 | [1949-strong-friendship](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1949-strong-friendship) |
 | [1951-all-the-pairs-with-the-maximum-number-of-common-followers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1951-all-the-pairs-with-the-maximum-number-of-common-followers) |
 | [1972-first-and-last-call-on-the-same-day](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1972-first-and-last-call-on-the-same-day) |
