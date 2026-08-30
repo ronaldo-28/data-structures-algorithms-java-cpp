@@ -1825,6 +1825,7 @@
 | [2010-the-number-of-seniors-and-juniors-to-join-the-company-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2010-the-number-of-seniors-and-juniors-to-join-the-company-ii) |
 | [2020-number-of-accounts-that-did-not-stream](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2020-number-of-accounts-that-did-not-stream) |
 | [2026-low-quality-problems](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2026-low-quality-problems) |
+| [2041-accepted-candidates-from-the-interviews](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2041-accepted-candidates-from-the-interviews) |
 ## Nearest Pair of Points
 |  |
 | ------- |
