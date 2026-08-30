@@ -148,6 +148,7 @@
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
+| [1950-maximum-of-minimum-values-in-all-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1950-maximum-of-minimum-values-in-all-subarrays) |
 | [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [1983-widest-pair-of-indices-with-equal-range-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1983-widest-pair-of-indices-with-equal-range-sum) |
@@ -1159,6 +1160,7 @@
 | [1597-build-binary-expression-tree-from-infix-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1597-build-binary-expression-tree-from-infix-expression) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1762-buildings-with-an-ocean-view) |
+| [1950-maximum-of-minimum-values-in-all-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1950-maximum-of-minimum-values-in-all-subarrays) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
@@ -1184,6 +1186,7 @@
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [1063-number-of-valid-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1063-number-of-valid-subarrays) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1762-buildings-with-an-ocean-view) |
+| [1950-maximum-of-minimum-values-in-all-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1950-maximum-of-minimum-values-in-all-subarrays) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [2818-apply-operations-to-maximize-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2818-apply-operations-to-maximize-score) |
 | [2865-beautiful-towers-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2865-beautiful-towers-i) |
@@ -1958,4 +1961,8 @@
 |  |
 | ------- |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1950-maximum-of-minimum-values-in-all-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1950-maximum-of-minimum-values-in-all-subarrays) |
 <!---LeetCode Topics End-->
