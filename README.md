@@ -250,6 +250,7 @@
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2113-elements-in-array-after-removing-and-replacing-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2113-elements-in-array-after-removing-and-replacing-elements) |
 | [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
+| [2128-remove-all-ones-with-row-and-column-flips](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2128-remove-all-ones-with-row-and-column-flips) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -532,6 +533,7 @@
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2029-stone-game-ix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2029-stone-game-ix) |
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
+| [2128-remove-all-ones-with-row-and-column-flips](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2128-remove-all-ones-with-row-and-column-flips) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -566,6 +568,7 @@
 | [2939-maximum-xor-product](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2939-maximum-xor-product) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [2128-remove-all-ones-with-row-and-column-flips](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2128-remove-all-ones-with-row-and-column-flips) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -1173,6 +1176,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2965-find-missing-and-repeated-values) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
+| [2128-remove-all-ones-with-row-and-column-flips](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2128-remove-all-ones-with-row-and-column-flips) |
 ## Stack
 |  |
 | ------- |
