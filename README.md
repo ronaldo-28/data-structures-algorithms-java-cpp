@@ -380,6 +380,7 @@
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [2983-palindrome-rearrangement-queries](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2983-palindrome-rearrangement-queries) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -669,6 +670,7 @@
 | [2983-palindrome-rearrangement-queries](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2983-palindrome-rearrangement-queries) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2999-count-the-number-of-powerful-integers) |
 | [2052-minimum-cost-to-separate-sentence-into-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2052-minimum-cost-to-separate-sentence-into-rows) |
+| [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -703,6 +705,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2968-apply-operations-to-maximize-frequency-score) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -1224,6 +1227,7 @@
 | [2960-count-tested-devices-after-test-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2960-count-tested-devices-after-test-operations) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [2029-stone-game-ix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2029-stone-game-ix) |
+| [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
