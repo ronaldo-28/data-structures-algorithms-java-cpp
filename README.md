@@ -254,6 +254,7 @@
 | [2137-pour-water-between-buckets-to-make-water-levels-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-pour-water-between-buckets-to-make-water-levels-equal) |
 | [2143-choose-numbers-from-two-arrays-in-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2143-choose-numbers-from-two-arrays-in-range) |
 | [2152-minimum-number-of-lines-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2152-minimum-number-of-lines-to-cover-points) |
+| [2158-amount-of-new-area-painted-each-day](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2158-amount-of-new-area-painted-each-day) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -1226,6 +1227,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2021-brightest-position-on-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2021-brightest-position-on-street) |
+| [2158-amount-of-new-area-painted-each-day](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2158-amount-of-new-area-painted-each-day) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1447,6 +1449,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2926-maximum-balanced-subsequence-sum) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
+| [2158-amount-of-new-area-painted-each-day](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2158-amount-of-new-area-painted-each-day) |
 ## 0-1 Knapsack
 |  |
 | ------- |
