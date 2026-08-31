@@ -1369,6 +1369,7 @@
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 | [2924-find-champion-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2924-find-champion-ii) |
+| [2077-paths-in-maze-that-lead-to-same-room](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2077-paths-in-maze-that-lead-to-same-room) |
 ## Topological Sort
 |  |
 | ------- |
