@@ -249,6 +249,7 @@
 | [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2113-elements-in-array-after-removing-and-replacing-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2113-elements-in-array-after-removing-and-replacing-elements) |
+| [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -999,6 +1000,7 @@
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2973-find-number-of-coins-to-place-in-tree-nodes) |
+| [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -1170,6 +1172,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2965-find-missing-and-repeated-values) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
+| [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -1384,6 +1387,7 @@
 | [2924-find-champion-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2924-find-champion-ii) |
 | [2077-paths-in-maze-that-lead-to-same-room](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2077-paths-in-maze-that-lead-to-same-room) |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
+| [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1926,6 +1930,7 @@
 | ------- |
 | [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+| [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -2001,18 +2006,22 @@
 |  |
 | ------- |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+| [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 ## MPM Algorithm
 |  |
 | ------- |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+| [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 ## Push-Relabel Algorithm
 |  |
 | ------- |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+| [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 ## Dinic's Algorithm
 |  |
 | ------- |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
+| [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 ## Cartesian Tree
 |  |
 | ------- |
