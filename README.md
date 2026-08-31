@@ -1826,6 +1826,7 @@
 | [2020-number-of-accounts-that-did-not-stream](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2020-number-of-accounts-that-did-not-stream) |
 | [2026-low-quality-problems](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2026-low-quality-problems) |
 | [2041-accepted-candidates-from-the-interviews](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2041-accepted-candidates-from-the-interviews) |
+| [2153-the-number-of-passengers-in-each-bus-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2153-the-number-of-passengers-in-each-bus-ii) |
 ## Nearest Pair of Points
 |  |
 | ------- |
