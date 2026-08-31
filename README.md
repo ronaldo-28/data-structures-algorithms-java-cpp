@@ -1840,6 +1840,7 @@
 | [2041-accepted-candidates-from-the-interviews](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2041-accepted-candidates-from-the-interviews) |
 | [2051-the-category-of-each-member-in-the-store](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2051-the-category-of-each-member-in-the-store) |
 | [2066-account-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2066-account-balance) |
+| [2072-the-winner-university](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2072-the-winner-university) |
 | [2153-the-number-of-passengers-in-each-bus-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2153-the-number-of-passengers-in-each-bus-ii) |
 ## Nearest Pair of Points
 |  |
