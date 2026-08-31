@@ -1861,6 +1861,7 @@
 | [2082-the-number-of-rich-customers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2082-the-number-of-rich-customers) |
 | [2084-drop-type-1-orders-for-customers-with-type-0-orders](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2084-drop-type-1-orders-for-customers-with-type-0-orders) |
 | [2112-the-airport-with-the-most-traffic](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2112-the-airport-with-the-most-traffic) |
+| [2118-build-the-equation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2118-build-the-equation) |
 | [2153-the-number-of-passengers-in-each-bus-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2153-the-number-of-passengers-in-each-bus-ii) |
 ## Nearest Pair of Points
 |  |
