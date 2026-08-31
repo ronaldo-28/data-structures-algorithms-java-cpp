@@ -444,6 +444,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2015-average-height-of-buildings-in-each-segment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2015-average-height-of-buildings-in-each-segment) |
 | [2021-brightest-position-on-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2021-brightest-position-on-street) |
+| [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
@@ -998,6 +999,7 @@
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
+| [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -1260,6 +1262,7 @@
 | [2938-separate-black-and-white-balls](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2938-separate-black-and-white-balls) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2972-count-the-number-of-incremovable-subarrays-ii) |
+| [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
