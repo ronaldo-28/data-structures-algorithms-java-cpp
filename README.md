@@ -667,6 +667,7 @@
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [2983-palindrome-rearrangement-queries](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2983-palindrome-rearrangement-queries) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2999-count-the-number-of-powerful-integers) |
+| [2052-minimum-cost-to-separate-sentence-into-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2052-minimum-cost-to-separate-sentence-into-rows) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -764,6 +765,7 @@
 | [2999-count-the-number-of-powerful-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2999-count-the-number-of-powerful-integers) |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2036-maximum-alternating-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2036-maximum-alternating-subarray-sum) |
+| [2052-minimum-cost-to-separate-sentence-into-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2052-minimum-cost-to-separate-sentence-into-rows) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
