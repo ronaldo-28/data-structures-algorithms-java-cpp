@@ -381,6 +381,7 @@
 | [2983-palindrome-rearrangement-queries](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2983-palindrome-rearrangement-queries) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
+| [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -524,6 +525,7 @@
 | [2999-count-the-number-of-powerful-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2999-count-the-number-of-powerful-integers) |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2029-stone-game-ix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2029-stone-game-ix) |
+| [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -671,6 +673,7 @@
 | [2999-count-the-number-of-powerful-integers](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2999-count-the-number-of-powerful-integers) |
 | [2052-minimum-cost-to-separate-sentence-into-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2052-minimum-cost-to-separate-sentence-into-rows) |
 | [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
+| [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -1228,6 +1231,7 @@
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [2029-stone-game-ix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2029-stone-game-ix) |
 | [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
+| [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
@@ -1309,6 +1313,7 @@
 | [2983-palindrome-rearrangement-queries](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2983-palindrome-rearrangement-queries) |
 | [2015-average-height-of-buildings-in-each-segment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2015-average-height-of-buildings-in-each-segment) |
 | [2021-brightest-position-on-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2021-brightest-position-on-street) |
+| [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 ## Backtracking
 |  |
 | ------- |
