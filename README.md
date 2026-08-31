@@ -1124,6 +1124,7 @@
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2974-minimum-number-game](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2974-minimum-number-game) |
 | [2015-average-height-of-buildings-in-each-segment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2015-average-height-of-buildings-in-each-segment) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 ## Matrix
 |  |
 | ------- |
@@ -1375,6 +1376,7 @@
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 | [2924-find-champion-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2924-find-champion-ii) |
 | [2077-paths-in-maze-that-lead-to-same-room](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2077-paths-in-maze-that-lead-to-same-room) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1717,12 +1719,14 @@
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
 | [1810-minimum-path-cost-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1810-minimum-path-cost-in-a-hidden-grid) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0499-the-maze-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0505-the-maze-ii) |
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 ## Heuristic Search
 |  |
 | ------- |
