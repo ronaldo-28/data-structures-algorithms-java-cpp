@@ -263,6 +263,7 @@
 | [2229-check-if-an-array-is-consecutive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2237-count-positions-on-street-with-required-brightness](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2237-count-positions-on-street-with-required-brightness) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
+| [2277-closest-node-to-path-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2277-closest-node-to-path-in-tree) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -978,6 +979,7 @@
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
+| [2277-closest-node-to-path-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2277-closest-node-to-path-in-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1046,6 +1048,7 @@
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 | [2204-distance-to-a-cycle-in-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2204-distance-to-a-cycle-in-undirected-graph) |
+| [2277-closest-node-to-path-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2277-closest-node-to-path-in-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -1136,6 +1139,7 @@
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [2174-remove-all-ones-with-row-and-column-flips-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-remove-all-ones-with-row-and-column-flips-ii) |
 | [2204-distance-to-a-cycle-in-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2204-distance-to-a-cycle-in-undirected-graph) |
+| [2277-closest-node-to-path-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2277-closest-node-to-path-in-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
