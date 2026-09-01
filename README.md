@@ -264,6 +264,7 @@
 | [2237-count-positions-on-street-with-required-brightness](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2237-count-positions-on-street-with-required-brightness) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [2277-closest-node-to-path-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2277-closest-node-to-path-in-tree) |
+| [2291-maximum-profit-from-trading-stocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -821,6 +822,7 @@
 | [2189-number-of-ways-to-build-house-of-cards](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [2247-maximum-cost-of-trip-with-k-highways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2247-maximum-cost-of-trip-with-k-highways) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
+| [2291-maximum-profit-from-trading-stocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
