@@ -1934,6 +1934,7 @@
 | [2205-the-number-of-users-that-are-eligible-for-discount](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2205-the-number-of-users-that-are-eligible-for-discount) |
 | [2228-users-with-two-purchases-within-seven-days](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2228-users-with-two-purchases-within-seven-days) |
 | [2230-the-users-that-are-eligible-for-discount](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2230-the-users-that-are-eligible-for-discount) |
+| [2238-number-of-times-a-driver-was-a-passenger](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2238-number-of-times-a-driver-was-a-passenger) |
 ## Nearest Pair of Points
 |  |
 | ------- |
