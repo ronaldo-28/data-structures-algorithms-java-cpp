@@ -1922,6 +1922,7 @@
 | [2173-longest-winning-streak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2173-longest-winning-streak) |
 | [2175-the-change-in-global-rankings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2175-the-change-in-global-rankings) |
 | [2199-finding-the-topic-of-each-post](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2199-finding-the-topic-of-each-post) |
+| [2205-the-number-of-users-that-are-eligible-for-discount](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2205-the-number-of-users-that-are-eligible-for-discount) |
 ## Nearest Pair of Points
 |  |
 | ------- |
