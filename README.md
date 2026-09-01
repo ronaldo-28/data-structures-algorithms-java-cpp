@@ -1917,6 +1917,7 @@
 | [2159-order-two-columns-independently](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2159-order-two-columns-independently) |
 | [2173-longest-winning-streak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2173-longest-winning-streak) |
 | [2175-the-change-in-global-rankings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2175-the-change-in-global-rankings) |
+| [2199-finding-the-topic-of-each-post](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2199-finding-the-topic-of-each-post) |
 ## Nearest Pair of Points
 |  |
 | ------- |
