@@ -262,6 +262,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3731-find-missing-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
 |  |
@@ -399,6 +400,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3731-find-missing-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -581,6 +583,7 @@
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -1105,6 +1108,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -1191,6 +1195,7 @@
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 | [2128-remove-all-ones-with-row-and-column-flips](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2128-remove-all-ones-with-row-and-column-flips) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
