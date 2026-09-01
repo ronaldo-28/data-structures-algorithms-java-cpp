@@ -405,6 +405,7 @@
 | [2152-minimum-number-of-lines-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2152-minimum-number-of-lines-to-cover-points) |
 | [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2229-check-if-an-array-is-consecutive) |
+| [2254-design-video-sharing-platform](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2254-design-video-sharing-platform) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -1177,6 +1178,7 @@
 | [2974-minimum-number-game](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2974-minimum-number-game) |
 | [2015-average-height-of-buildings-in-each-segment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2015-average-height-of-buildings-in-each-segment) |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
+| [2254-design-video-sharing-platform](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2254-design-video-sharing-platform) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 ## Matrix
 |  |
@@ -1703,6 +1705,7 @@
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1804-implement-trie-ii-prefix-tree) |
+| [2254-design-video-sharing-platform](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2254-design-video-sharing-platform) |
 ## Data Stream
 |  |
 | ------- |
