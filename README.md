@@ -1031,6 +1031,7 @@
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
+| [2204-distance-to-a-cycle-in-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2204-distance-to-a-cycle-in-undirected-graph) |
 ## Linked List
 |  |
 | ------- |
@@ -1120,6 +1121,7 @@
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [2174-remove-all-ones-with-row-and-column-flips-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-remove-all-ones-with-row-and-column-flips-ii) |
+| [2204-distance-to-a-cycle-in-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2204-distance-to-a-cycle-in-undirected-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -1430,6 +1432,7 @@
 | [2077-paths-in-maze-that-lead-to-same-room](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2077-paths-in-maze-that-lead-to-same-room) |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
+| [2204-distance-to-a-cycle-in-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2204-distance-to-a-cycle-in-undirected-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1440,6 +1443,7 @@
 | [1136-parallel-courses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1136-parallel-courses) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
+| [2204-distance-to-a-cycle-in-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2204-distance-to-a-cycle-in-undirected-graph) |
 ## Memoization
 |  |
 | ------- |
