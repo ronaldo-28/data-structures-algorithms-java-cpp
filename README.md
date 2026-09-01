@@ -406,6 +406,7 @@
 | [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2254-design-video-sharing-platform](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2254-design-video-sharing-platform) |
+| [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -475,6 +476,7 @@
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2229-check-if-an-array-is-consecutive) |
+| [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
@@ -711,6 +713,7 @@
 | [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
+| [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -869,6 +872,7 @@
 | [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
 | [2214-minimum-health-to-beat-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2214-minimum-health-to-beat-game) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
+| [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1295,6 +1299,7 @@
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [2198-number-of-single-divisor-triplets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2198-number-of-single-divisor-triplets) |
+| [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
