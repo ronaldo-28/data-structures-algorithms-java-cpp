@@ -546,6 +546,7 @@
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2128-remove-all-ones-with-row-and-column-flips](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2128-remove-all-ones-with-row-and-column-flips) |
 | [2152-minimum-number-of-lines-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2152-minimum-number-of-lines-to-cover-points) |
+| [2189-number-of-ways-to-build-house-of-cards](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -803,6 +804,7 @@
 | [2143-choose-numbers-from-two-arrays-in-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2143-choose-numbers-from-two-arrays-in-range) |
 | [2152-minimum-number-of-lines-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2152-minimum-number-of-lines-to-cover-points) |
 | [2184-number-of-ways-to-build-sturdy-brick-wall](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2184-number-of-ways-to-build-sturdy-brick-wall) |
+| [2189-number-of-ways-to-build-house-of-cards](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
