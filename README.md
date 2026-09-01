@@ -261,6 +261,7 @@
 | [2214-minimum-health-to-beat-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2214-minimum-health-to-beat-game) |
 | [2219-maximum-sum-score-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2219-maximum-sum-score-of-array) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2229-check-if-an-array-is-consecutive) |
+| [2237-count-positions-on-street-with-required-brightness](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2237-count-positions-on-street-with-required-brightness) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1373,6 +1374,7 @@
 | [2021-brightest-position-on-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2021-brightest-position-on-street) |
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2219-maximum-sum-score-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2219-maximum-sum-score-of-array) |
+| [2237-count-positions-on-street-with-required-brightness](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2237-count-positions-on-street-with-required-brightness) |
 ## Backtracking
 |  |
 | ------- |
