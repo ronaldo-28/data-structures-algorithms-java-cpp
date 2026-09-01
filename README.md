@@ -260,6 +260,7 @@
 | [2198-number-of-single-divisor-triplets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2198-number-of-single-divisor-triplets) |
 | [2214-minimum-health-to-beat-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2214-minimum-health-to-beat-game) |
 | [2219-maximum-sum-score-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2219-maximum-sum-score-of-array) |
+| [2229-check-if-an-array-is-consecutive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -402,6 +403,7 @@
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2152-minimum-number-of-lines-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2152-minimum-number-of-lines-to-cover-points) |
 | [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
+| [2229-check-if-an-array-is-consecutive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2229-check-if-an-array-is-consecutive) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -470,6 +472,7 @@
 | [2021-brightest-position-on-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2021-brightest-position-on-street) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
+| [2229-check-if-an-array-is-consecutive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2229-check-if-an-array-is-consecutive) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
