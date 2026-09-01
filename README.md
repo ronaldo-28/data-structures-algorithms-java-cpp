@@ -395,6 +395,7 @@
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2152-minimum-number-of-lines-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2152-minimum-number-of-lines-to-cover-points) |
+| [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -694,6 +695,7 @@
 | [2052-minimum-cost-to-separate-sentence-into-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2052-minimum-cost-to-separate-sentence-into-rows) |
 | [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
+| [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -1267,6 +1269,7 @@
 | [2029-stone-game-ix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2029-stone-game-ix) |
 | [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
+| [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
@@ -1553,6 +1556,7 @@
 | [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
 | [1554-strings-differ-by-one-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1554-strings-differ-by-one-character) |
 | [1698-number-of-distinct-substrings-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1698-number-of-distinct-substrings-in-a-string) |
+| [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
@@ -1563,6 +1567,7 @@
 | [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
 | [1554-strings-differ-by-one-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1554-strings-differ-by-one-character) |
 | [1698-number-of-distinct-substrings-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1698-number-of-distinct-substrings-in-a-string) |
+| [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Z Algorithm
