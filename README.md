@@ -1907,6 +1907,7 @@
 | [2153-the-number-of-passengers-in-each-bus-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2153-the-number-of-passengers-in-each-bus-ii) |
 | [2159-order-two-columns-independently](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2159-order-two-columns-independently) |
 | [2173-longest-winning-streak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2173-longest-winning-streak) |
+| [2175-the-change-in-global-rankings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2175-the-change-in-global-rankings) |
 ## Nearest Pair of Points
 |  |
 | ------- |
