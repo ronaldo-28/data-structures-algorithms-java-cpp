@@ -2009,6 +2009,7 @@
 | [2339-all-the-matches-of-the-league](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2339-all-the-matches-of-the-league) |
 | [2346-compute-the-rank-as-a-percentage](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2346-compute-the-rank-as-a-percentage) |
 | [2362-generate-the-invoice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2362-generate-the-invoice) |
+| [2372-calculate-the-influence-of-each-salesperson](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2372-calculate-the-influence-of-each-salesperson) |
 ## Nearest Pair of Points
 |  |
 | ------- |
