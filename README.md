@@ -267,6 +267,7 @@
 | [2282-number-of-people-that-can-be-seen-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2282-number-of-people-that-can-be-seen-in-a-grid) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2297-jump-game-viii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2297-jump-game-viii) |
+| [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2355-maximum-number-of-books-you-can-take) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -719,6 +720,7 @@
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
+| [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -1058,6 +1060,7 @@
 | [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 | [2204-distance-to-a-cycle-in-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2204-distance-to-a-cycle-in-undirected-graph) |
 | [2277-closest-node-to-path-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2277-closest-node-to-path-in-tree) |
+| [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2378-choose-edges-to-maximize-score-in-a-tree) |
 ## Linked List
 |  |
@@ -1167,6 +1170,7 @@
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
+| [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1475,6 +1479,7 @@
 | [2204-distance-to-a-cycle-in-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2204-distance-to-a-cycle-in-undirected-graph) |
 | [2247-maximum-cost-of-trip-with-k-highways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2247-maximum-cost-of-trip-with-k-highways) |
 | [2297-jump-game-viii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2297-jump-game-viii) |
+| [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 ## Topological Sort
 |  |
 | ------- |
