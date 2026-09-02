@@ -829,6 +829,7 @@
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2297-jump-game-viii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2297-jump-game-viii) |
+| [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2355-maximum-number-of-books-you-can-take) |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2378-choose-edges-to-maximize-score-in-a-tree) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
@@ -990,6 +991,7 @@
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2277-closest-node-to-path-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2277-closest-node-to-path-in-tree) |
+| [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2378-choose-edges-to-maximize-score-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -1061,6 +1063,7 @@
 | [2204-distance-to-a-cycle-in-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2204-distance-to-a-cycle-in-undirected-graph) |
 | [2277-closest-node-to-path-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2277-closest-node-to-path-in-tree) |
 | [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
+| [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2378-choose-edges-to-maximize-score-in-a-tree) |
 ## Linked List
 |  |
@@ -1690,6 +1693,7 @@
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
+| [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 ## Interactive
 |  |
 | ------- |
