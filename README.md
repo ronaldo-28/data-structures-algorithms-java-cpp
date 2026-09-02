@@ -1989,6 +1989,7 @@
 | [2308-arrange-table-by-gender](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2308-arrange-table-by-gender) |
 | [2314-the-first-day-of-the-maximum-recorded-degree-in-each-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2314-the-first-day-of-the-maximum-recorded-degree-in-each-city) |
 | [2324-product-sales-analysis-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2324-product-sales-analysis-iv) |
+| [2329-product-sales-analysis-v](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2329-product-sales-analysis-v) |
 ## Nearest Pair of Points
 |  |
 | ------- |
