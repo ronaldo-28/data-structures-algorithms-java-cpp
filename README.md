@@ -272,6 +272,7 @@
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2355-maximum-number-of-books-you-can-take) |
+| [2361-minimum-costs-using-the-train-line](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2361-minimum-costs-using-the-train-line) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -837,6 +838,7 @@
 | [2297-jump-game-viii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2297-jump-game-viii) |
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2355-maximum-number-of-books-you-can-take) |
+| [2361-minimum-costs-using-the-train-line](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2361-minimum-costs-using-the-train-line) |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2378-choose-edges-to-maximize-score-in-a-tree) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
