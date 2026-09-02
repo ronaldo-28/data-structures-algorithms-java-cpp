@@ -1988,6 +1988,7 @@
 | [2298-tasks-count-in-the-weekend](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2298-tasks-count-in-the-weekend) |
 | [2308-arrange-table-by-gender](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2308-arrange-table-by-gender) |
 | [2314-the-first-day-of-the-maximum-recorded-degree-in-each-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2314-the-first-day-of-the-maximum-recorded-degree-in-each-city) |
+| [2324-product-sales-analysis-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2324-product-sales-analysis-iv) |
 ## Nearest Pair of Points
 |  |
 | ------- |
