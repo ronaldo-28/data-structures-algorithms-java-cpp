@@ -1979,6 +1979,7 @@
 | [2253-dynamic-unpivoting-of-a-table](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2253-dynamic-unpivoting-of-a-table) |
 | [2292-products-with-three-or-more-orders-in-two-consecutive-years](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2292-products-with-three-or-more-orders-in-two-consecutive-years) |
 | [2298-tasks-count-in-the-weekend](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2298-tasks-count-in-the-weekend) |
+| [2308-arrange-table-by-gender](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2308-arrange-table-by-gender) |
 ## Nearest Pair of Points
 |  |
 | ------- |
