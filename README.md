@@ -2002,6 +2002,7 @@
 | [2329-product-sales-analysis-v](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2329-product-sales-analysis-v) |
 | [2339-all-the-matches-of-the-league](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2339-all-the-matches-of-the-league) |
 | [2346-compute-the-rank-as-a-percentage](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2346-compute-the-rank-as-a-percentage) |
+| [2362-generate-the-invoice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2362-generate-the-invoice) |
 ## Nearest Pair of Points
 |  |
 | ------- |
