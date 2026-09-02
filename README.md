@@ -2014,6 +2014,7 @@
 | [2362-generate-the-invoice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2362-generate-the-invoice) |
 | [2372-calculate-the-influence-of-each-salesperson](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2372-calculate-the-influence-of-each-salesperson) |
 | [2377-sort-the-olympic-table](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2377-sort-the-olympic-table) |
+| [2388-change-null-values-in-a-table-to-the-previous-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2388-change-null-values-in-a-table-to-the-previous-value) |
 ## Nearest Pair of Points
 |  |
 | ------- |
