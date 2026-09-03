@@ -2061,6 +2061,7 @@
 | [2388-change-null-values-in-a-table-to-the-previous-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2388-change-null-values-in-a-table-to-the-previous-value) |
 | [2394-employees-with-deductions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2394-employees-with-deductions) |
 | [2474-customers-with-strictly-increasing-purchases](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2474-customers-with-strictly-increasing-purchases) |
+| [2480-form-a-chemical-bond](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2480-form-a-chemical-bond) |
 ## Nearest Pair of Points
 |  |
 | ------- |
