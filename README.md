@@ -286,6 +286,7 @@
 | [2473-minimum-cost-to-buy-apples](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2473-minimum-cost-to-buy-apples) |
 | [2495-number-of-subarrays-having-even-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2495-number-of-subarrays-having-even-product) |
 | [2505-bitwise-or-of-all-subsequence-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -878,6 +879,7 @@
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2464-minimum-subarrays-in-a-valid-split](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2464-minimum-subarrays-in-a-valid-split) |
 | [2495-number-of-subarrays-having-even-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2495-number-of-subarrays-having-even-product) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1310,6 +1312,7 @@
 | [2282-number-of-people-that-can-be-seen-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2282-number-of-people-that-can-be-seen-in-a-grid) |
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
