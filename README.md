@@ -281,6 +281,7 @@
 | [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
+| [2459-sort-array-by-moving-items-to-empty-space](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2459-sort-array-by-moving-items-to-empty-space) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -427,6 +428,7 @@
 | [2229-check-if-an-array-is-consecutive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2254-design-video-sharing-platform](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2254-design-video-sharing-platform) |
 | [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
+| [2459-sort-array-by-moving-items-to-empty-space](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2459-sort-array-by-moving-items-to-empty-space) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -500,6 +502,7 @@
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2371-minimize-maximum-value-in-a-grid) |
+| [2459-sort-array-by-moving-items-to-empty-space](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2459-sort-array-by-moving-items-to-empty-space) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
