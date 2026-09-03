@@ -2067,6 +2067,7 @@
 | [2474-customers-with-strictly-increasing-purchases](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2474-customers-with-strictly-increasing-purchases) |
 | [2480-form-a-chemical-bond](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2480-form-a-chemical-bond) |
 | [2494-merge-overlapping-events-in-the-same-hall](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2494-merge-overlapping-events-in-the-same-hall) |
+| [2504-concatenate-the-name-and-the-profession](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2504-concatenate-the-name-and-the-profession) |
 ## Nearest Pair of Points
 |  |
 | ------- |
