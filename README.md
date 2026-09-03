@@ -431,6 +431,7 @@
 | [2254-design-video-sharing-platform](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2254-design-video-sharing-platform) |
 | [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
 | [2459-sort-array-by-moving-items-to-empty-space](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2459-sort-array-by-moving-items-to-empty-space) |
+| [2489-number-of-substrings-with-fixed-ratio](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2489-number-of-substrings-with-fixed-ratio) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -592,6 +593,7 @@
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2450-number-of-distinct-binary-strings-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2450-number-of-distinct-binary-strings-after-applying-operations) |
 | [2464-minimum-subarrays-in-a-valid-split](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2464-minimum-subarrays-in-a-valid-split) |
+| [2489-number-of-substrings-with-fixed-ratio](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2489-number-of-substrings-with-fixed-ratio) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -752,6 +754,7 @@
 | [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 | [2330-valid-palindrome-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2330-valid-palindrome-iv) |
 | [2450-number-of-distinct-binary-strings-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2450-number-of-distinct-binary-strings-after-applying-operations) |
+| [2489-number-of-substrings-with-fixed-ratio](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2489-number-of-substrings-with-fixed-ratio) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -1470,6 +1473,7 @@
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2219-maximum-sum-score-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2219-maximum-sum-score-of-array) |
 | [2237-count-positions-on-street-with-required-brightness](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2237-count-positions-on-street-with-required-brightness) |
+| [2489-number-of-substrings-with-fixed-ratio](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2489-number-of-substrings-with-fixed-ratio) |
 ## Backtracking
 |  |
 | ------- |
