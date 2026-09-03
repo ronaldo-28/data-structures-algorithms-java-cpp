@@ -585,6 +585,7 @@
 | [2393-count-strictly-increasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2393-count-strictly-increasing-subarrays) |
 | [2417-closest-fair-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2417-closest-fair-integer) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2450-number-of-distinct-binary-strings-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2450-number-of-distinct-binary-strings-after-applying-operations) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -744,6 +745,7 @@
 | [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
 | [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 | [2330-valid-palindrome-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2330-valid-palindrome-iv) |
+| [2450-number-of-distinct-binary-strings-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2450-number-of-distinct-binary-strings-after-applying-operations) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
