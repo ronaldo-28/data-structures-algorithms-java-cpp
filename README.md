@@ -885,6 +885,7 @@
 | [2464-minimum-subarrays-in-a-valid-split](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2464-minimum-subarrays-in-a-valid-split) |
 | [2495-number-of-subarrays-having-even-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2495-number-of-subarrays-having-even-product) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
+| [2533-number-of-good-binary-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2533-number-of-good-binary-strings) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
