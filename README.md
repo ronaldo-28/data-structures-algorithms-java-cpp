@@ -1037,6 +1037,7 @@
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2378-choose-edges-to-maximize-score-in-a-tree) |
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
+| [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1110,6 +1111,7 @@
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2378-choose-edges-to-maximize-score-in-a-tree) |
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
+| [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
 ## Linked List
 |  |
 | ------- |
@@ -1542,6 +1544,7 @@
 | [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2473-minimum-cost-to-buy-apples) |
+| [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1629,6 +1632,7 @@
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1858-longest-word-with-all-prefixes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1858-longest-word-with-all-prefixes) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2932-maximum-strong-pair-xor-i) |
+| [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
 ## Queue
 |  |
 | ------- |
