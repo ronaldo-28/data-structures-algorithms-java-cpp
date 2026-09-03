@@ -276,6 +276,7 @@
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [2393-count-strictly-increasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2393-count-strictly-increasing-subarrays) |
+| [2403-minimum-time-to-kill-all-monsters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2403-minimum-time-to-kill-all-monsters) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -616,6 +617,7 @@
 | [2174-remove-all-ones-with-row-and-column-flips-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-remove-all-ones-with-row-and-column-flips-ii) |
 | [2184-number-of-ways-to-build-sturdy-brick-wall](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2184-number-of-ways-to-build-sturdy-brick-wall) |
 | [2247-maximum-cost-of-trip-with-k-highways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2247-maximum-cost-of-trip-with-k-highways) |
+| [2403-minimum-time-to-kill-all-monsters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2403-minimum-time-to-kill-all-monsters) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -848,6 +850,7 @@
 | [2361-minimum-costs-using-the-train-line](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2361-minimum-costs-using-the-train-line) |
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2378-choose-edges-to-maximize-score-in-a-tree) |
 | [2393-count-strictly-increasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2393-count-strictly-increasing-subarrays) |
+| [2403-minimum-time-to-kill-all-monsters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2403-minimum-time-to-kill-all-monsters) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1469,6 +1472,7 @@
 | [2152-minimum-number-of-lines-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2152-minimum-number-of-lines-to-cover-points) |
 | [2184-number-of-ways-to-build-sturdy-brick-wall](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2184-number-of-ways-to-build-sturdy-brick-wall) |
 | [2247-maximum-cost-of-trip-with-k-highways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2247-maximum-cost-of-trip-with-k-highways) |
+| [2403-minimum-time-to-kill-all-monsters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2403-minimum-time-to-kill-all-monsters) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 ## String Matching
 |  |
