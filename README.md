@@ -277,6 +277,7 @@
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [2393-count-strictly-increasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2393-count-strictly-increasing-subarrays) |
 | [2403-minimum-time-to-kill-all-monsters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2403-minimum-time-to-kill-all-monsters) |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -908,6 +909,7 @@
 | [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1403,6 +1405,7 @@
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2330-valid-palindrome-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2330-valid-palindrome-iv) |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
