@@ -287,6 +287,7 @@
 | [2495-number-of-subarrays-having-even-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2495-number-of-subarrays-having-even-product) |
 | [2505-bitwise-or-of-all-subsequence-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -988,6 +989,7 @@
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [2137-pour-water-between-buckets-to-make-water-levels-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-pour-water-between-buckets-to-make-water-levels-equal) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -1359,6 +1361,7 @@
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2021-brightest-position-on-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2021-brightest-position-on-street) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2158-amount-of-new-area-painted-each-day) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1606,6 +1609,7 @@
 | [2926-maximum-balanced-subsequence-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2926-maximum-balanced-subsequence-sum) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2158-amount-of-new-area-painted-each-day) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -1618,6 +1622,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2926-maximum-balanced-subsequence-sum) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 ## DP on Trees
 |  |
 | ------- |
@@ -2179,6 +2184,7 @@
 | ------- |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -2249,4 +2255,8 @@
 |  |
 | ------- |
 | [2505-bitwise-or-of-all-subsequence-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
+## Merge Sort
+|  |
+| ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 <!---LeetCode Topics End-->
