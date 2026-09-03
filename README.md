@@ -279,6 +279,7 @@
 | [2403-minimum-time-to-kill-all-monsters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2403-minimum-time-to-kill-all-monsters) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
+| [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -582,6 +583,7 @@
 | [2189-number-of-ways-to-build-house-of-cards](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [2393-count-strictly-increasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2393-count-strictly-increasing-subarrays) |
 | [2417-closest-fair-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2417-closest-fair-integer) |
+| [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -856,6 +858,7 @@
 | [2393-count-strictly-increasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2393-count-strictly-increasing-subarrays) |
 | [2403-minimum-time-to-kill-all-monsters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2403-minimum-time-to-kill-all-monsters) |
 | [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
+| [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -912,6 +915,7 @@
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
+| [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1119,6 +1123,7 @@
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2947-count-beautiful-substrings-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2949-count-beautiful-substrings-ii) |
+| [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
@@ -2196,4 +2201,8 @@
 |  |
 | ------- |
 | [1924-erect-the-fence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1924-erect-the-fence-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 <!---LeetCode Topics End-->
