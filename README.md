@@ -307,6 +307,7 @@
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2198-number-of-single-divisor-triplets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2198-number-of-single-divisor-triplets) |
+| [2417-closest-fair-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2417-closest-fair-integer) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3345-smallest-divisible-digit-product-i) |
@@ -578,6 +579,7 @@
 | [2152-minimum-number-of-lines-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2152-minimum-number-of-lines-to-cover-points) |
 | [2189-number-of-ways-to-build-house-of-cards](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [2393-count-strictly-increasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2393-count-strictly-increasing-subarrays) |
+| [2417-closest-fair-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2417-closest-fair-integer) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
