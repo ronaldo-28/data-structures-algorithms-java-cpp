@@ -291,6 +291,7 @@
 | [2524-maximum-frequency-score-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2524-maximum-frequency-score-of-a-subarray) |
 | [2534-time-taken-to-cross-the-door](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2534-time-taken-to-cross-the-door) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
+| [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -515,6 +516,7 @@
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [2459-sort-array-by-moving-items-to-empty-space](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2459-sort-array-by-moving-items-to-empty-space) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
+| [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
@@ -948,6 +950,7 @@
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
+| [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -999,6 +1002,7 @@
 | [2137-pour-water-between-buckets-to-make-water-levels-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-pour-water-between-buckets-to-make-water-levels-equal) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
+| [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
