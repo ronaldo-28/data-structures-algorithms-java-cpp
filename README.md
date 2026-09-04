@@ -298,6 +298,7 @@
 | [2604-minimum-time-to-eat-all-grains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2604-minimum-time-to-eat-all-grains) |
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
 | [2638-count-the-number-of-k-free-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2638-count-the-number-of-k-free-subsets) |
+| [2647-color-the-triangle-red](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2647-color-the-triangle-red) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -622,6 +623,7 @@
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
 | [2638-count-the-number-of-k-free-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2638-count-the-number-of-k-free-subsets) |
+| [2647-color-the-triangle-red](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2647-color-the-triangle-red) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
