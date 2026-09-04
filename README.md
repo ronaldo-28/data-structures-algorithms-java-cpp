@@ -2145,6 +2145,7 @@
 | [2669-count-artist-occurrences-on-spotify-ranking-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2669-count-artist-occurrences-on-spotify-ranking-list) |
 | [2686-immediate-food-delivery-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2686-immediate-food-delivery-iii) |
 | [2687-bikes-last-time-used](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2687-bikes-last-time-used) |
+| [2688-find-active-users](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2688-find-active-users) |
 ## Nearest Pair of Points
 |  |
 | ------- |
