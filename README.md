@@ -735,6 +735,7 @@
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1842-next-palindrome-using-same-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1842-next-palindrome-using-same-digits) |
 | [1858-longest-word-with-all-prefixes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1858-longest-word-with-all-prefixes) |
+| [1933-check-if-string-is-decomposable-into-value-equal-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1933-check-if-string-is-decomposable-into-value-equal-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2781-length-of-the-longest-valid-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2785-sort-vowels-in-a-string) |
