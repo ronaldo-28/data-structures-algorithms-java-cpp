@@ -1090,6 +1090,7 @@
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2378-choose-edges-to-maximize-score-in-a-tree) |
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
 | [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1164,6 +1165,7 @@
 | [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2378-choose-edges-to-maximize-score-in-a-tree) |
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
 | [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -1833,6 +1835,7 @@
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 ## Interactive
 |  |
 | ------- |
