@@ -1181,6 +1181,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
+| [2674-split-a-circular-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2674-split-a-circular-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -1491,6 +1492,7 @@
 | [2330-valid-palindrome-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2330-valid-palindrome-iv) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2604-minimum-time-to-eat-all-grains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2604-minimum-time-to-eat-all-grains) |
+| [2674-split-a-circular-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2674-split-a-circular-linked-list) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
