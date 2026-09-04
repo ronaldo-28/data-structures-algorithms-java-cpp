@@ -293,6 +293,7 @@
 | [2534-time-taken-to-cross-the-door](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2534-time-taken-to-cross-the-door) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
+| [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -442,6 +443,7 @@
 | [2489-number-of-substrings-with-fixed-ratio](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2489-number-of-substrings-with-fixed-ratio) |
 | [2524-maximum-frequency-score-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2524-maximum-frequency-score-of-a-subarray) |
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
+| [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -518,6 +520,7 @@
 | [2459-sort-array-by-moving-items-to-empty-space](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2459-sort-array-by-moving-items-to-empty-space) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
+| [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
@@ -775,6 +778,7 @@
 | [2450-number-of-distinct-binary-strings-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2450-number-of-distinct-binary-strings-after-applying-operations) |
 | [2489-number-of-substrings-with-fixed-ratio](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2489-number-of-substrings-with-fixed-ratio) |
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
+| [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -1852,6 +1856,7 @@
 | [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [2254-design-video-sharing-platform](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2254-design-video-sharing-platform) |
+| [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
 ## Data Stream
 |  |
 | ------- |
