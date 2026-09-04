@@ -2140,6 +2140,7 @@
 | [2494-merge-overlapping-events-in-the-same-hall](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2494-merge-overlapping-events-in-the-same-hall) |
 | [2504-concatenate-the-name-and-the-profession](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2504-concatenate-the-name-and-the-profession) |
 | [2668-find-latest-salaries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2668-find-latest-salaries) |
+| [2669-count-artist-occurrences-on-spotify-ranking-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2669-count-artist-occurrences-on-spotify-ranking-list) |
 ## Nearest Pair of Points
 |  |
 | ------- |
