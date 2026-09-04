@@ -294,6 +294,7 @@
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
+| [2599-make-the-prefix-sum-non-negative](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2599-make-the-prefix-sum-non-negative) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -960,6 +961,7 @@
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
+| [2599-make-the-prefix-sum-non-negative](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2599-make-the-prefix-sum-non-negative) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1293,6 +1295,7 @@
 | [2254-design-video-sharing-platform](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2254-design-video-sharing-platform) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2473-minimum-cost-to-buy-apples) |
+| [2599-make-the-prefix-sum-non-negative](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2599-make-the-prefix-sum-non-negative) |
 ## Matrix
 |  |
 | ------- |
