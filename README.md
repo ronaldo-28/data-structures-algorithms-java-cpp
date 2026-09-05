@@ -2155,6 +2155,7 @@
 | [2687-bikes-last-time-used](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2687-bikes-last-time-used) |
 | [2688-find-active-users](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2688-find-active-users) |
 | [2701-consecutive-transactions-with-increasing-amounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2701-consecutive-transactions-with-increasing-amounts) |
+| [2720-popularity-percentage](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2720-popularity-percentage) |
 ## Nearest Pair of Points
 |  |
 | ------- |
