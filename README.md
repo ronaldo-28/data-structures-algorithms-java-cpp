@@ -630,6 +630,7 @@
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
 | [2638-count-the-number-of-k-free-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2638-count-the-number-of-k-free-subsets) |
 | [2647-color-the-triangle-red](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2647-color-the-triangle-red) |
+| [2739-total-distance-traveled](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2739-total-distance-traveled) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1219,6 +1220,7 @@
 | [2974-minimum-number-game](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2974-minimum-number-game) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2534-time-taken-to-cross-the-door](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2534-time-taken-to-cross-the-door) |
+| [2739-total-distance-traveled](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2739-total-distance-traveled) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Breadth-First Search
 |  |
