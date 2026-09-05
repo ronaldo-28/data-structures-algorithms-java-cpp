@@ -454,6 +454,7 @@
 | [2524-maximum-frequency-score-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2524-maximum-frequency-score-of-a-subarray) |
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
 | [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
+| [2743-count-substrings-without-repeating-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2743-count-substrings-without-repeating-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -797,6 +798,7 @@
 | [2489-number-of-substrings-with-fixed-ratio](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2489-number-of-substrings-with-fixed-ratio) |
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
 | [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
+| [2743-count-substrings-without-repeating-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2743-count-substrings-without-repeating-character) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -834,6 +836,7 @@
 | [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2524-maximum-frequency-score-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2524-maximum-frequency-score-of-a-subarray) |
+| [2743-count-substrings-without-repeating-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2743-count-substrings-without-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
