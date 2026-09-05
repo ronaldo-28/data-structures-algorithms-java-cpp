@@ -2168,6 +2168,7 @@
 | [2701-consecutive-transactions-with-increasing-amounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2701-consecutive-transactions-with-increasing-amounts) |
 | [2720-popularity-percentage](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2720-popularity-percentage) |
 | [2738-count-occurrences-in-text](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2738-count-occurrences-in-text) |
+| [2752-customers-with-maximum-number-of-transactions-on-consecutive-days](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2752-customers-with-maximum-number-of-transactions-on-consecutive-days) |
 ## Nearest Pair of Points
 |  |
 | ------- |
