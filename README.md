@@ -303,6 +303,7 @@
 | [2664-the-knights-tour](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2664-the-knights-tour) |
 | [2702-minimum-operations-to-make-numbers-non-positive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2702-minimum-operations-to-make-numbers-non-positive) |
 | [2728-count-houses-in-a-circular-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2728-count-houses-in-a-circular-street) |
+| [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -1318,6 +1319,7 @@
 | [2473-minimum-cost-to-buy-apples](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2473-minimum-cost-to-buy-apples) |
 | [2599-make-the-prefix-sum-non-negative](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2599-make-the-prefix-sum-non-negative) |
 | [2714-find-shortest-path-with-k-hops](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2714-find-shortest-path-with-k-hops) |
+| [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
 ## Matrix
 |  |
 | ------- |
@@ -1620,6 +1622,7 @@
 | [2473-minimum-cost-to-buy-apples](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2473-minimum-cost-to-buy-apples) |
 | [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
 | [2714-find-shortest-path-with-k-hops](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2714-find-shortest-path-with-k-hops) |
+| [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1987,6 +1990,7 @@
 | [2297-jump-game-viii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2297-jump-game-viii) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2473-minimum-cost-to-buy-apples) |
 | [2714-find-shortest-path-with-k-hops](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2714-find-shortest-path-with-k-hops) |
+| [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
