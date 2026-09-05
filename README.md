@@ -1295,6 +1295,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2371-minimize-maximum-value-in-a-grid) |
+| [2782-number-of-unique-categories](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2782-number-of-unique-categories) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1464,6 +1465,7 @@
 | [2198-number-of-single-divisor-triplets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2198-number-of-single-divisor-triplets) |
 | [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
+| [2782-number-of-unique-categories](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2782-number-of-unique-categories) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
@@ -1873,6 +1875,7 @@
 | [1778-shortest-path-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1778-shortest-path-in-a-hidden-grid) |
 | [1810-minimum-path-cost-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1810-minimum-path-cost-in-a-hidden-grid) |
 | [2728-count-houses-in-a-circular-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2728-count-houses-in-a-circular-street) |
+| [2782-number-of-unique-categories](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2782-number-of-unique-categories) |
 ## Design
 |  |
 | ------- |
