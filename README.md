@@ -2149,6 +2149,7 @@
 | [2686-immediate-food-delivery-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2686-immediate-food-delivery-iii) |
 | [2687-bikes-last-time-used](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2687-bikes-last-time-used) |
 | [2688-find-active-users](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2688-find-active-users) |
+| [2701-consecutive-transactions-with-increasing-amounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2701-consecutive-transactions-with-increasing-amounts) |
 ## Nearest Pair of Points
 |  |
 | ------- |
