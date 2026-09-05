@@ -1100,6 +1100,7 @@
 | [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
+| [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1176,6 +1177,7 @@
 | [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
+| [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -1273,6 +1275,7 @@
 | [2204-distance-to-a-cycle-in-undirected-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2204-distance-to-a-cycle-in-undirected-graph) |
 | [2277-closest-node-to-path-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2277-closest-node-to-path-in-tree) |
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
+| [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -1853,6 +1856,7 @@
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
+| [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
 ## Interactive
 |  |
 | ------- |
