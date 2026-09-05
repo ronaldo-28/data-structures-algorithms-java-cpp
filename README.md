@@ -1099,6 +1099,7 @@
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
 | [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
+| [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1174,6 +1175,7 @@
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
 | [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
+| [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -1406,6 +1408,7 @@
 | [2345-finding-the-number-of-visible-mountains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2355-maximum-number-of-books-you-can-take) |
 | [2524-maximum-frequency-score-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2524-maximum-frequency-score-of-a-subarray) |
+| [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1849,6 +1852,7 @@
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
+| [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
 ## Interactive
 |  |
 | ------- |
