@@ -2162,6 +2162,7 @@
 | [2688-find-active-users](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2688-find-active-users) |
 | [2701-consecutive-transactions-with-increasing-amounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2701-consecutive-transactions-with-increasing-amounts) |
 | [2720-popularity-percentage](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2720-popularity-percentage) |
+| [2738-count-occurrences-in-text](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2738-count-occurrences-in-text) |
 ## Nearest Pair of Points
 |  |
 | ------- |
