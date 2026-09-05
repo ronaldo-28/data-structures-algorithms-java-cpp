@@ -1101,6 +1101,7 @@
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
 | [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
+| [2792-count-nodes-that-are-great-enough](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2792-count-nodes-that-are-great-enough) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1178,6 +1179,7 @@
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
 | [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
+| [2792-count-nodes-that-are-great-enough](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2792-count-nodes-that-are-great-enough) |
 ## Linked List
 |  |
 | ------- |
@@ -1859,6 +1861,7 @@
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
 | [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
+| [2792-count-nodes-that-are-great-enough](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2792-count-nodes-that-are-great-enough) |
 ## Interactive
 |  |
 | ------- |
@@ -2284,6 +2287,7 @@
 | [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
+| [2792-count-nodes-that-are-great-enough](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2792-count-nodes-that-are-great-enough) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
