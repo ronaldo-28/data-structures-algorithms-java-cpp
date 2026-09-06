@@ -310,6 +310,7 @@
 | [2832-maximal-range-that-each-element-is-maximum-in-it](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2832-maximal-range-that-each-element-is-maximum-in-it) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
+| [2863-maximum-length-of-semi-decreasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2863-maximum-length-of-semi-decreasing-subarrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -546,6 +547,7 @@
 | [2655-find-maximal-uncovered-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2655-find-maximal-uncovered-ranges) |
 | [2819-minimum-relative-loss-after-buying-chocolates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2819-minimum-relative-loss-after-buying-chocolates) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
+| [2863-maximum-length-of-semi-decreasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2863-maximum-length-of-semi-decreasing-subarrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
@@ -1440,6 +1442,7 @@
 | [2524-maximum-frequency-score-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2524-maximum-frequency-score-of-a-subarray) |
 | [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
 | [2832-maximal-range-that-each-element-is-maximum-in-it](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2832-maximal-range-that-each-element-is-maximum-in-it) |
+| [2863-maximum-length-of-semi-decreasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2863-maximum-length-of-semi-decreasing-subarrays) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1473,6 +1476,7 @@
 | [2345-finding-the-number-of-visible-mountains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2355-maximum-number-of-books-you-can-take) |
 | [2832-maximal-range-that-each-element-is-maximum-in-it](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2832-maximal-range-that-each-element-is-maximum-in-it) |
+| [2863-maximum-length-of-semi-decreasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2863-maximum-length-of-semi-decreasing-subarrays) |
 ## Counting Sort
 |  |
 | ------- |
