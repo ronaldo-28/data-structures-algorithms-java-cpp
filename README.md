@@ -309,6 +309,7 @@
 | [2819-minimum-relative-loss-after-buying-chocolates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2819-minimum-relative-loss-after-buying-chocolates) |
 | [2832-maximal-range-that-each-element-is-maximum-in-it](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2832-maximal-range-that-each-element-is-maximum-in-it) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -461,6 +462,7 @@
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
 | [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
 | [2743-count-substrings-without-repeating-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2743-count-substrings-without-repeating-character) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -1196,6 +1198,7 @@
 | [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
 | [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
 | [2792-count-nodes-that-are-great-enough](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2792-count-nodes-that-are-great-enough) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 ## Linked List
 |  |
 | ------- |
@@ -1295,6 +1298,7 @@
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
 | [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
 | [2814-minimum-time-takes-to-reach-destination-without-drowning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2814-minimum-time-takes-to-reach-destination-without-drowning) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -1315,6 +1319,7 @@
 | [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [2782-number-of-unique-categories](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2782-number-of-unique-categories) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1397,6 +1402,7 @@
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2664-the-knights-tour](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2664-the-knights-tour) |
 | [2814-minimum-time-takes-to-reach-destination-without-drowning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2814-minimum-time-takes-to-reach-destination-without-drowning) |
+| [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
