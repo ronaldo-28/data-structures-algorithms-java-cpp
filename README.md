@@ -311,6 +311,7 @@
 | [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2863-maximum-length-of-semi-decreasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2863-maximum-length-of-semi-decreasing-subarrays) |
+| [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
 | [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -647,6 +648,7 @@
 | [2739-total-distance-traveled](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2739-total-distance-traveled) |
 | [2802-find-the-k-th-lucky-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2802-find-the-k-th-lucky-number) |
 | [2847-smallest-number-with-given-digit-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2847-smallest-number-with-given-digit-product) |
+| [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -816,6 +818,7 @@
 | [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
 | [2743-count-substrings-without-repeating-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2743-count-substrings-without-repeating-character) |
 | [2802-find-the-k-th-lucky-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2802-find-the-k-th-lucky-number) |
+| [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -1002,6 +1005,7 @@
 | [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [2599-make-the-prefix-sum-non-negative](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2599-make-the-prefix-sum-non-negative) |
 | [2847-smallest-number-with-given-digit-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2847-smallest-number-with-given-digit-product) |
+| [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
 | [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1551,6 +1555,7 @@
 | [2604-minimum-time-to-eat-all-grains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2604-minimum-time-to-eat-all-grains) |
 | [2674-split-a-circular-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2674-split-a-circular-linked-list) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
+| [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1703,6 +1708,7 @@
 | [1908-game-of-nim](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1908-game-of-nim) |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2029-stone-game-ix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2029-stone-game-ix) |
+| [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
 ## Knapsack Problem
 |  |
 | ------- |
