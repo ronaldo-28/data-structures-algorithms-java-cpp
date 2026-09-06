@@ -305,6 +305,7 @@
 | [2702-minimum-operations-to-make-numbers-non-positive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2702-minimum-operations-to-make-numbers-non-positive) |
 | [2728-count-houses-in-a-circular-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2728-count-houses-in-a-circular-street) |
 | [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
+| [2814-minimum-time-takes-to-reach-destination-without-drowning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2814-minimum-time-takes-to-reach-destination-without-drowning) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -1284,6 +1285,7 @@
 | [2277-closest-node-to-path-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2277-closest-node-to-path-in-tree) |
 | [2445-number-of-nodes-with-value-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2445-number-of-nodes-with-value-one) |
 | [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
+| [2814-minimum-time-takes-to-reach-destination-without-drowning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2814-minimum-time-takes-to-reach-destination-without-drowning) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -1385,6 +1387,7 @@
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2664-the-knights-tour](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2664-the-knights-tour) |
+| [2814-minimum-time-takes-to-reach-destination-without-drowning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2814-minimum-time-takes-to-reach-destination-without-drowning) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
