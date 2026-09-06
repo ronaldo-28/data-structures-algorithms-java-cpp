@@ -2203,6 +2203,7 @@
 | [2738-count-occurrences-in-text](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2738-count-occurrences-in-text) |
 | [2752-customers-with-maximum-number-of-transactions-on-consecutive-days](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2752-customers-with-maximum-number-of-transactions-on-consecutive-days) |
 | [2783-flight-occupancy-and-waitlist-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2783-flight-occupancy-and-waitlist-analysis) |
+| [2837-total-traveled-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2837-total-traveled-distance) |
 ## Nearest Pair of Points
 |  |
 | ------- |
