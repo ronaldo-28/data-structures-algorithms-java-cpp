@@ -311,6 +311,7 @@
 | [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2863-maximum-length-of-semi-decreasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2863-maximum-length-of-semi-decreasing-subarrays) |
+| [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -939,6 +940,7 @@
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2533-number-of-good-binary-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2533-number-of-good-binary-strings) |
 | [2638-count-the-number-of-k-free-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2638-count-the-number-of-k-free-subsets) |
+| [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1000,6 +1002,7 @@
 | [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [2599-make-the-prefix-sum-non-negative](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2599-make-the-prefix-sum-non-negative) |
 | [2847-smallest-number-with-given-digit-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2847-smallest-number-with-given-digit-product) |
+| [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
