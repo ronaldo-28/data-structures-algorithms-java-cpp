@@ -2218,6 +2218,7 @@
 | [2783-flight-occupancy-and-waitlist-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2783-flight-occupancy-and-waitlist-analysis) |
 | [2837-total-traveled-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2837-total-traveled-distance) |
 | [2853-highest-salaries-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2853-highest-salaries-difference) |
+| [2854-rolling-average-steps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2854-rolling-average-steps) |
 ## Nearest Pair of Points
 |  |
 | ------- |
