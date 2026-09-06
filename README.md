@@ -2217,6 +2217,7 @@
 | [2752-customers-with-maximum-number-of-transactions-on-consecutive-days](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2752-customers-with-maximum-number-of-transactions-on-consecutive-days) |
 | [2783-flight-occupancy-and-waitlist-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2783-flight-occupancy-and-waitlist-analysis) |
 | [2837-total-traveled-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2837-total-traveled-distance) |
+| [2853-highest-salaries-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2853-highest-salaries-difference) |
 ## Nearest Pair of Points
 |  |
 | ------- |
