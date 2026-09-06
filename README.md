@@ -308,6 +308,7 @@
 | [2814-minimum-time-takes-to-reach-destination-without-drowning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2814-minimum-time-takes-to-reach-destination-without-drowning) |
 | [2819-minimum-relative-loss-after-buying-chocolates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2819-minimum-relative-loss-after-buying-chocolates) |
 | [2832-maximal-range-that-each-element-is-maximum-in-it](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2832-maximal-range-that-each-element-is-maximum-in-it) |
+| [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -542,6 +543,7 @@
 | [2638-count-the-number-of-k-free-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2638-count-the-number-of-k-free-subsets) |
 | [2655-find-maximal-uncovered-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2655-find-maximal-uncovered-ranges) |
 | [2819-minimum-relative-loss-after-buying-chocolates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2819-minimum-relative-loss-after-buying-chocolates) |
+| [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
@@ -1048,6 +1050,7 @@
 | [2604-minimum-time-to-eat-all-grains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2604-minimum-time-to-eat-all-grains) |
 | [2702-minimum-operations-to-make-numbers-non-positive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2702-minimum-operations-to-make-numbers-non-positive) |
 | [2819-minimum-relative-loss-after-buying-chocolates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2819-minimum-relative-loss-after-buying-chocolates) |
+| [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -1532,6 +1535,7 @@
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2604-minimum-time-to-eat-all-grains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2604-minimum-time-to-eat-all-grains) |
 | [2674-split-a-circular-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2674-split-a-circular-linked-list) |
+| [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1577,6 +1581,7 @@
 | [2489-number-of-substrings-with-fixed-ratio](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2489-number-of-substrings-with-fixed-ratio) |
 | [2505-bitwise-or-of-all-subsequence-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
 | [2819-minimum-relative-loss-after-buying-chocolates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2819-minimum-relative-loss-after-buying-chocolates) |
+| [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
 ## Backtracking
 |  |
 | ------- |
