@@ -245,6 +245,7 @@
 | [2015-average-height-of-buildings-in-each-segment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2015-average-height-of-buildings-in-each-segment) |
 | [2021-brightest-position-on-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2021-brightest-position-on-street) |
 | [2029-stone-game-ix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2029-stone-game-ix) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2036-maximum-alternating-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2036-maximum-alternating-subarray-sum) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2098-subsequence-of-size-k-with-the-largest-even-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2098-subsequence-of-size-k-with-the-largest-even-sum) |
@@ -441,6 +442,7 @@
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [2983-palindrome-rearrangement-queries](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2983-palindrome-rearrangement-queries) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2067-number-of-equal-count-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2067-number-of-equal-count-substrings) |
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
@@ -1031,6 +1033,7 @@
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2137-pour-water-between-buckets-to-make-water-levels-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-pour-water-between-buckets-to-make-water-levels-equal) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
@@ -1426,6 +1429,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2213-longest-substring-of-one-repeating-character) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2021-brightest-position-on-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2021-brightest-position-on-street) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2158-amount-of-new-area-painted-each-day) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
@@ -1685,6 +1689,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2926-maximum-balanced-subsequence-sum) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2158-amount-of-new-area-painted-each-day) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 ## 0-1 Knapsack
@@ -1699,6 +1704,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2926-maximum-balanced-subsequence-sum) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 ## DP on Trees
 |  |
@@ -2285,6 +2291,7 @@
 | ------- |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1756-design-most-recently-used-queue](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1756-design-most-recently-used-queue) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
 | [2792-count-nodes-that-are-great-enough](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2792-count-nodes-that-are-great-enough) |
@@ -2362,5 +2369,6 @@
 ## Merge Sort
 |  |
 | ------- |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 <!---LeetCode Topics End-->
