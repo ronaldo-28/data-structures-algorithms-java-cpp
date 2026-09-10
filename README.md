@@ -1241,6 +1241,7 @@
 | [2792-count-nodes-that-are-great-enough](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2792-count-nodes-that-are-great-enough) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
+| [3313-find-the-last-marked-nodes-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3313-find-the-last-marked-nodes-in-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1322,6 +1323,7 @@
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
+| [3313-find-the-last-marked-nodes-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3313-find-the-last-marked-nodes-in-tree) |
 ## Linked List
 |  |
 | ------- |
