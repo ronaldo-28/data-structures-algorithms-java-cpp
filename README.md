@@ -346,6 +346,7 @@
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
+| [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -710,6 +711,7 @@
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
+| [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1030,6 +1032,7 @@
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
+| [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -1694,6 +1697,7 @@
 | [2912-number-of-ways-to-reach-destination-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2912-number-of-ways-to-reach-destination-in-the-grid) |
 | [2927-distribute-candies-among-children-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2927-distribute-candies-among-children-iii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3518-smallest-palindromic-rearrangement-ii) |
+| [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 ## Prefix Sum
 |  |
 | ------- |
