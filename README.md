@@ -2451,6 +2451,7 @@
 | [3262-find-overlapping-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3262-find-overlapping-shifts) |
 | [3268-find-overlapping-shifts-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3268-find-overlapping-shifts-ii) |
 | [3278-find-candidates-for-data-scientist-position-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3278-find-candidates-for-data-scientist-position-ii) |
+| [3293-calculate-product-final-price](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3293-calculate-product-final-price) |
 ## Nearest Pair of Points
 |  |
 | ------- |
