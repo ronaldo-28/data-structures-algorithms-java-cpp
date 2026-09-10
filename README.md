@@ -2433,6 +2433,7 @@
 | [3230-customer-purchasing-behavior-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3230-customer-purchasing-behavior-analysis) |
 | [3236-ceo-subordinate-hierarchy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3236-ceo-subordinate-hierarchy) |
 | [3246-premier-league-table-ranking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3246-premier-league-table-ranking) |
+| [3252-premier-league-table-ranking-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3252-premier-league-table-ranking-ii) |
 ## Nearest Pair of Points
 |  |
 | ------- |
