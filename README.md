@@ -2422,6 +2422,7 @@
 | [3204-bitwise-user-permissions-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3204-bitwise-user-permissions-analysis) |
 | [3214-year-on-year-growth-rate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3214-year-on-year-growth-rate) |
 | [3230-customer-purchasing-behavior-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3230-customer-purchasing-behavior-analysis) |
+| [3236-ceo-subordinate-hierarchy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3236-ceo-subordinate-hierarchy) |
 ## Nearest Pair of Points
 |  |
 | ------- |
