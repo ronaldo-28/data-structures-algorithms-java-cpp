@@ -2414,6 +2414,7 @@
 | [3188-find-top-scoring-students-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3188-find-top-scoring-students-ii) |
 | [3198-find-cities-in-each-state](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3198-find-cities-in-each-state) |
 | [3204-bitwise-user-permissions-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3204-bitwise-user-permissions-analysis) |
+| [3214-year-on-year-growth-rate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3214-year-on-year-growth-rate) |
 ## Nearest Pair of Points
 |  |
 | ------- |
