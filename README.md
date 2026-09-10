@@ -2428,6 +2428,7 @@
 | [3214-year-on-year-growth-rate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3214-year-on-year-growth-rate) |
 | [3230-customer-purchasing-behavior-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3230-customer-purchasing-behavior-analysis) |
 | [3236-ceo-subordinate-hierarchy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3236-ceo-subordinate-hierarchy) |
+| [3246-premier-league-table-ranking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3246-premier-league-table-ranking) |
 ## Nearest Pair of Points
 |  |
 | ------- |
