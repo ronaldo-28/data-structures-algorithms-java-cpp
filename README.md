@@ -2438,6 +2438,7 @@
 | [3246-premier-league-table-ranking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3246-premier-league-table-ranking) |
 | [3252-premier-league-table-ranking-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3252-premier-league-table-ranking-ii) |
 | [3262-find-overlapping-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3262-find-overlapping-shifts) |
+| [3268-find-overlapping-shifts-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3268-find-overlapping-shifts-ii) |
 ## Nearest Pair of Points
 |  |
 | ------- |
