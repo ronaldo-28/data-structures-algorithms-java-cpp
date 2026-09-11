@@ -2480,6 +2480,7 @@
 | [3328-find-cities-in-each-state-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3328-find-cities-in-each-state-ii) |
 | [3338-second-highest-salary-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3338-second-highest-salary-ii) |
 | [3358-books-with-null-ratings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3358-books-with-null-ratings) |
+| [3368-first-letter-capitalization](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3368-first-letter-capitalization) |
 ## Nearest Pair of Points
 |  |
 | ------- |
