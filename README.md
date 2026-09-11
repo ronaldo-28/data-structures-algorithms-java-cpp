@@ -357,6 +357,7 @@
 | [3353-minimum-total-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3353-minimum-total-operations) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
+| [3385-minimum-time-to-break-locks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3385-minimum-time-to-break-locks-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -1452,6 +1453,7 @@
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
+| [3385-minimum-time-to-break-locks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3385-minimum-time-to-break-locks-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -1856,6 +1858,7 @@
 | [2714-find-shortest-path-with-k-hops](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2714-find-shortest-path-with-k-hops) |
 | [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
+| [3385-minimum-time-to-break-locks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3385-minimum-time-to-break-locks-ii) |
 ## Topological Sort
 |  |
 | ------- |
