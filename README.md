@@ -923,6 +923,7 @@
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
+| [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1734,6 +1735,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
+| [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
 ## Combinatorics
 |  |
 | ------- |
