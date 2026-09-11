@@ -2497,6 +2497,7 @@
 | [3358-books-with-null-ratings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3358-books-with-null-ratings) |
 | [3368-first-letter-capitalization](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3368-first-letter-capitalization) |
 | [3384-team-dominance-by-pass-success](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3384-team-dominance-by-pass-success) |
+| [3390-longest-team-pass-streak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3390-longest-team-pass-streak) |
 ## Nearest Pair of Points
 |  |
 | ------- |
