@@ -2461,6 +2461,7 @@
 | [3278-find-candidates-for-data-scientist-position-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3278-find-candidates-for-data-scientist-position-ii) |
 | [3293-calculate-product-final-price](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3293-calculate-product-final-price) |
 | [3308-find-top-performing-driver](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3308-find-top-performing-driver) |
+| [3322-premier-league-table-ranking-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3322-premier-league-table-ranking-iii) |
 ## Nearest Pair of Points
 |  |
 | ------- |
