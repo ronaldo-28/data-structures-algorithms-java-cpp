@@ -1051,6 +1051,7 @@
 | [3269-constructing-two-increasing-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3269-constructing-two-increasing-arrays) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
+| [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
 ## Greedy
 |  |
 | ------- |
