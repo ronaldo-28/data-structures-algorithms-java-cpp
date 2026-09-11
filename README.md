@@ -2475,6 +2475,7 @@
 | [3322-premier-league-table-ranking-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3322-premier-league-table-ranking-iii) |
 | [3328-find-cities-in-each-state-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3328-find-cities-in-each-state-ii) |
 | [3338-second-highest-salary-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3338-second-highest-salary-ii) |
+| [3358-books-with-null-ratings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3358-books-with-null-ratings) |
 ## Nearest Pair of Points
 |  |
 | ------- |
