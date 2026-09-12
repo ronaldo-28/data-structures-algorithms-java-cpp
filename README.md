@@ -377,6 +377,7 @@
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
+| [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -1615,6 +1616,7 @@
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
+| [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
@@ -2254,6 +2256,7 @@
 | [0772-basic-calculator-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0772-basic-calculator-iii) |
 | [0776-split-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0776-split-bst) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
+| [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 ## Iterator
 |  |
 | ------- |
