@@ -374,6 +374,7 @@
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3526-range-xor-queries-with-subarray-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3526-range-xor-queries-with-subarray-reversals) |
+| [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -1828,6 +1829,7 @@
 | [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
+| [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 ## Backtracking
 |  |
 | ------- |
