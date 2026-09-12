@@ -382,6 +382,7 @@
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
+| [3631-sort-threats-by-severity-and-exploitability](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3631-sort-threats-by-severity-and-exploitability) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
 |  |
@@ -650,6 +651,7 @@
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
+| [3631-sort-threats-by-severity-and-exploitability](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3631-sort-threats-by-severity-and-exploitability) |
 ## Math
 |  |
 | ------- |
