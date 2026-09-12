@@ -371,6 +371,7 @@
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
+| [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -1162,6 +1163,7 @@
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
+| [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -1823,6 +1825,7 @@
 | [2950-number-of-divisible-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2950-number-of-divisible-substrings) |
 | [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
+| [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 ## Backtracking
 |  |
 | ------- |
