@@ -385,6 +385,7 @@
 | [3631-sort-threats-by-severity-and-exploitability](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3631-sort-threats-by-severity-and-exploitability) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
+| [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
 |  |
@@ -1114,6 +1115,7 @@
 | [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
+| [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 ## Greedy
 |  |
 | ------- |
