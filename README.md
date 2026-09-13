@@ -388,6 +388,7 @@
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
+| [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
 |  |
@@ -564,6 +565,7 @@
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
+| [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -1016,6 +1018,7 @@
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
+| [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1708,6 +1711,7 @@
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
+| [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1766,6 +1770,7 @@
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
+| [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
