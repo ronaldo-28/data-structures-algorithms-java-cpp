@@ -1,0 +1,104 @@
+public class Solution {
+    public  List<Boolean> getResults(int[][] queries) {
+        
+        int m = queries.length;
+        int[] pos = new int[m + 1];
+        int size = 0;
+        pos[size++] = 0;
+        
+        int max = 0;
+        for (int[] q : queries) {
+            max = Math.max(max, q[1]);
+            if (q[0] == 1) 
+                pos[size++] = q[1];
+        }
+        
+        Arrays.sort(pos, 0, size);
+        
+        max++;
+        UnionFind left = new UnionFind(max + 1);
+        UnionFind right = new UnionFind(max + 1);
+        
+        BIT bit = new BIT(max);
+        
+        for (int i = 1; i < size; i++) {
+            int pre = pos[i-1], cur = pos[i];
+            
+            bit.update(cur, cur - pre);
+            for (int j = pre + 1; j < cur; j++) {
+                left.parent[j] = pre; // 删除 j
+                right.parent[j] = cur;
+            }
+        }
+        
+        for (int j = pos[size - 1] + 1; j < max; j++) {
+            left.parent[j] = pos[size - 1]; // 删除 i
+            right.parent[j] = max;
+        }
+
+        Boolean[] ans = new Boolean[m - size + 1];
+        int index = ans.length - 1;
+        
+        for (int i = m - 1; i >= 0; i--) {
+            int[] q = queries[i];
+            int x = q[1];
+            int pre = left.find(x - 1); // x 左侧最近障碍物的位置
+            if (q[0] == 1) {
+                int next = right.find(x + 1); // x 右侧最近障碍物的位置                
+                left.parent[x] = pre; // 删除 x
+                right.parent[x] = next;
+                bit.update(next, next - pre); // 更新 d[next] = next - pre
+            } else {
+                // 最大长度要么是 [0, pre] 中的最大 d，要么是 [pre, x] 这一段的长度
+                int maxGap = Math.max(bit.query(pre), x - pre);
+                ans[index--] = maxGap >= q[2];
+            }
+        }
+        
+        return List.of(ans);
+    }
+
+    class BIT {
+        int n;
+        int[] tree;
+
+        public BIT(int n) {
+            this.n = n;
+            tree = new int[n];
+        }
+
+        public void update(int i, int v) {
+            
+            while(i < n){
+                tree[i] = Math.max(tree[i], v);
+                i += i & -i;
+            }
+        }
+
+        public int query(int i) {
+            int result = 0;
+            while(i > 0){
+                result = Math.max(result, tree[i]);
+                i &= i - 1;
+            }
+            return result;
+        }
+    }
+
+    class UnionFind {
+        public int[] parent;
+
+        public UnionFind(int n) {
+            parent = new int[n];
+            for (int i = 1; i < n; i++)
+                parent[i] = i;
+        }
+
+        public int find(int x) {
+            if (parent[x] != x)
+                parent[x] = find(parent[x]);
+          
+            return parent[x];
+        }
+    }
+}
