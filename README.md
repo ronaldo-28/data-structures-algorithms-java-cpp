@@ -1681,6 +1681,7 @@
 | [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
 | [2814-minimum-time-takes-to-reach-destination-without-drowning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2814-minimum-time-takes-to-reach-destination-without-drowning) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
@@ -2047,6 +2048,7 @@
 | [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [2950-number-of-divisible-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2950-number-of-divisible-substrings) |
 | [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
@@ -2140,6 +2142,7 @@
 | [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
 | [2714-find-shortest-path-with-k-hops](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2714-find-shortest-path-with-k-hops) |
 | [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3385-minimum-time-to-break-locks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3385-minimum-time-to-break-locks-ii) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
