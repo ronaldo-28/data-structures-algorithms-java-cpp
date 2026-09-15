@@ -2049,6 +2049,7 @@
 | [2950-number-of-divisible-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2950-number-of-divisible-substrings) |
 | [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
@@ -2143,6 +2144,7 @@
 | [2714-find-shortest-path-with-k-hops](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2714-find-shortest-path-with-k-hops) |
 | [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3385-minimum-time-to-break-locks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3385-minimum-time-to-break-locks-ii) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
