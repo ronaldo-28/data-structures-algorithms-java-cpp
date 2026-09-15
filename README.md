@@ -1029,6 +1029,7 @@
 | [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 | [2330-valid-palindrome-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2330-valid-palindrome-iv) |
 | [2450-number-of-distinct-binary-strings-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2450-number-of-distinct-binary-strings-after-applying-operations) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2489-number-of-substrings-with-fixed-ratio](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2489-number-of-substrings-with-fixed-ratio) |
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
 | [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
@@ -1198,6 +1199,7 @@
 | [2431-maximize-total-tastiness-of-purchased-fruits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2431-maximize-total-tastiness-of-purchased-fruits) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2464-minimum-subarrays-in-a-valid-split](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2464-minimum-subarrays-in-a-valid-split) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2495-number-of-subarrays-having-even-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2495-number-of-subarrays-having-even-product) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2533-number-of-good-binary-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2533-number-of-good-binary-strings) |
@@ -1285,6 +1287,7 @@
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
 | [2599-make-the-prefix-sum-non-negative](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2599-make-the-prefix-sum-non-negative) |
@@ -1966,6 +1969,7 @@
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2330-valid-palindrome-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2330-valid-palindrome-iv) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2604-minimum-time-to-eat-all-grains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2604-minimum-time-to-eat-all-grains) |
 | [2674-split-a-circular-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2674-split-a-circular-linked-list) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
