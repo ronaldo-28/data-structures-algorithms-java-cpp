@@ -336,6 +336,7 @@
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3011-find-if-array-can-be-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3011-find-if-array-can-be-sorted) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3018-maximum-number-of-removal-queries-that-can-be-processed-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3018-maximum-number-of-removal-queries-that-can-be-processed-i) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
@@ -584,6 +585,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3731-find-missing-elements) |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3063-linked-list-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3063-linked-list-frequency) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
@@ -1111,6 +1113,7 @@
 | [2524-maximum-frequency-score-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2524-maximum-frequency-score-of-a-subarray) |
 | [2743-count-substrings-without-repeating-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2743-count-substrings-without-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
@@ -1747,6 +1750,7 @@
 | [2714-find-shortest-path-with-k-hops](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2714-find-shortest-path-with-k-hops) |
 | [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
 | [2969-minimum-number-of-coins-for-fruits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2969-minimum-number-of-coins-for-fruits-ii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
