@@ -334,6 +334,7 @@
 | [3731-find-missing-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3731-find-missing-elements) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
+| [3011-find-if-array-can-be-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3011-find-if-array-can-be-sorted) |
 | [3018-maximum-number-of-removal-queries-that-can-be-processed-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3018-maximum-number-of-removal-queries-that-can-be-processed-i) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
@@ -703,6 +704,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3731-find-missing-elements) |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
+| [3011-find-if-array-can-be-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3011-find-if-array-can-be-sorted) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
@@ -897,6 +899,7 @@
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3011-find-if-array-can-be-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3011-find-if-array-can-be-sorted) |
 | [3064-guess-the-number-using-bitwise-questions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3064-guess-the-number-using-bitwise-questions-i) |
 | [3094-guess-the-number-using-bitwise-questions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3094-guess-the-number-using-bitwise-questions-ii) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
