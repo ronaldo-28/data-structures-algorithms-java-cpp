@@ -383,6 +383,7 @@
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
+| [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3526-range-xor-queries-with-subarray-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3526-range-xor-queries-with-subarray-reversals) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
@@ -846,6 +847,7 @@
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
+| [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
@@ -1236,6 +1238,7 @@
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
+| [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
