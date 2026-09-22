@@ -429,6 +429,7 @@
 | [4004-minimum-moves-to-balance-circular-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4004-minimum-moves-to-balance-circular-array-ii) |
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
 | [4018-total-sum-of-interaction-cost-in-tree-groups-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4018-total-sum-of-interaction-cost-in-tree-groups-ii) |
+| [4020-elevator-requests-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4020-elevator-requests-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -1637,6 +1638,7 @@
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3792-sum-of-increasing-product-blocks) |
+| [4020-elevator-requests-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4020-elevator-requests-i) |
 ## Breadth-First Search
 |  |
 | ------- |
