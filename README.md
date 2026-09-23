@@ -930,6 +930,7 @@
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
 | [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
+| [4030-check-ascii-palindromic](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4030-check-ascii-palindromic) |
 ## String
 |  |
 | ------- |
@@ -1099,6 +1100,7 @@
 | [4019-merge-close-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4019-merge-close-characters-ii) |
 | [4026-maximum-gap-between-stations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4026-maximum-gap-between-stations) |
 | [4028-minimum-operations-to-make-a-rotated-palindrome-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4028-minimum-operations-to-make-a-rotated-palindrome-ii) |
+| [4030-check-ascii-palindromic](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4030-check-ascii-palindromic) |
 ## Sliding Window
 |  |
 | ------- |
@@ -2021,6 +2023,7 @@
 | [3865-reverse-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3865-reverse-k-subarrays) |
 | [3991-sort-array-using-prefix-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3991-sort-array-using-prefix-reversals) |
 | [4026-maximum-gap-between-stations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4026-maximum-gap-between-stations) |
+| [4030-check-ascii-palindromic](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4030-check-ascii-palindromic) |
 ## Combinatorics
 |  |
 | ------- |
