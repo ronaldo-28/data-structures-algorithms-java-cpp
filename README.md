@@ -342,6 +342,7 @@
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3024-type-of-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3024-type-of-triangle) |
+| [3028-ant-on-the-boundary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3028-ant-on-the-boundary) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
@@ -1652,6 +1653,7 @@
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2534-time-taken-to-cross-the-door](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2534-time-taken-to-cross-the-door) |
 | [2739-total-distance-traveled](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2739-total-distance-traveled) |
+| [3028-ant-on-the-boundary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
@@ -2083,6 +2085,7 @@
 | [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
+| [3028-ant-on-the-boundary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3028-ant-on-the-boundary) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
