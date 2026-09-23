@@ -432,6 +432,7 @@
 | [4020-elevator-requests-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4020-elevator-requests-i) |
 | [4023-elevator-requests-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4023-elevator-requests-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Enumeration
 |  |
 | ------- |
@@ -1335,6 +1336,7 @@
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3851-maximum-requests-without-violating-the-limit) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Binary Search
 |  |
 | ------- |
