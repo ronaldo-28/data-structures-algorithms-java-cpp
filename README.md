@@ -341,6 +341,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
+| [3024-type-of-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3024-type-of-triangle) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
@@ -719,6 +720,7 @@
 | [3731-find-missing-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3731-find-missing-elements) |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3011-find-if-array-can-be-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3011-find-if-array-can-be-sorted) |
+| [3024-type-of-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3024-type-of-triangle) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
@@ -851,6 +853,7 @@
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3021-alice-and-bob-playing-flower-game) |
+| [3024-type-of-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3024-type-of-triangle) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
@@ -2350,6 +2353,7 @@
 | ------- |
 | [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2971-find-polygon-with-the-largest-perimeter) |
+| [3024-type-of-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3024-type-of-triangle) |
 | [3053-classifying-triangles-by-lengths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3053-classifying-triangles-by-lengths) |
 ## Rolling Hash
 |  |
