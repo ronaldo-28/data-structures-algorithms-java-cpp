@@ -431,6 +431,7 @@
 | [4018-total-sum-of-interaction-cost-in-tree-groups-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4018-total-sum-of-interaction-cost-in-tree-groups-ii) |
 | [4020-elevator-requests-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4020-elevator-requests-i) |
 | [4023-elevator-requests-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4023-elevator-requests-ii) |
+| [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 ## Enumeration
 |  |
 | ------- |
@@ -459,6 +460,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
+| [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
 | ------- |
