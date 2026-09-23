@@ -433,6 +433,7 @@
 | [4023-elevator-requests-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4023-elevator-requests-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -737,6 +738,7 @@
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
 | [4018-total-sum-of-interaction-cost-in-tree-groups-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4018-total-sum-of-interaction-cost-in-tree-groups-ii) |
 | [4023-elevator-requests-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4023-elevator-requests-ii) |
+| [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 ## Math
 |  |
 | ------- |
@@ -927,6 +929,7 @@
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
+| [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 ## String
 |  |
 | ------- |
@@ -1255,6 +1258,7 @@
 | [3967-finish-time-of-tasks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3967-finish-time-of-tasks-ii) |
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
 | [4023-elevator-requests-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4023-elevator-requests-ii) |
+| [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -2116,6 +2120,7 @@
 | [2403-minimum-time-to-kill-all-monsters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2403-minimum-time-to-kill-all-monsters) |
 | [2992-number-of-self-divisible-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2992-number-of-self-divisible-permutations) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
+| [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 ## String Matching
 |  |
 | ------- |
