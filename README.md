@@ -849,6 +849,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3536-maximum-product-of-two-digits) |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
