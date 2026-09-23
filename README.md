@@ -1078,6 +1078,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3518-smallest-palindromic-rearrangement-ii) |
 | [3019-number-of-changing-keys](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3019-number-of-changing-keys) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
@@ -2143,6 +2144,7 @@
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 ## Graph Theory
 |  |
@@ -2368,6 +2370,7 @@
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 ## Hash Function
@@ -2382,6 +2385,7 @@
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
