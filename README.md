@@ -1094,6 +1094,7 @@
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 | [3860-unique-email-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3860-unique-email-groups) |
 | [4019-merge-close-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4019-merge-close-characters-ii) |
+| [4026-maximum-gap-between-stations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4026-maximum-gap-between-stations) |
 | [4028-minimum-operations-to-make-a-rotated-palindrome-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4028-minimum-operations-to-make-a-rotated-palindrome-ii) |
 ## Sliding Window
 |  |
@@ -1337,6 +1338,7 @@
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3851-maximum-requests-without-violating-the-limit) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4026-maximum-gap-between-stations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4026-maximum-gap-between-stations) |
 ## Binary Search
 |  |
 | ------- |
@@ -2014,6 +2016,7 @@
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3865-reverse-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3865-reverse-k-subarrays) |
 | [3991-sort-array-using-prefix-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3991-sort-array-using-prefix-reversals) |
+| [4026-maximum-gap-between-stations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4026-maximum-gap-between-stations) |
 ## Combinatorics
 |  |
 | ------- |
