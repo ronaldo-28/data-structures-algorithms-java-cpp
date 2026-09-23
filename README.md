@@ -339,6 +339,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3018-maximum-number-of-removal-queries-that-can-be-processed-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3018-maximum-number-of-removal-queries-that-can-be-processed-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -918,6 +919,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3011-find-if-array-can-be-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3011-find-if-array-can-be-sorted) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3064-guess-the-number-using-bitwise-questions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3064-guess-the-number-using-bitwise-questions-i) |
 | [3094-guess-the-number-using-bitwise-questions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3094-guess-the-number-using-bitwise-questions-ii) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
@@ -1329,6 +1331,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
