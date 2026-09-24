@@ -347,6 +347,7 @@
 | [3033-modify-the-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3033-modify-the-matrix) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3035-maximum-palindromes-after-operations) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
@@ -2161,6 +2162,7 @@
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 ## Graph Theory
 |  |
@@ -2389,6 +2391,7 @@
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 ## Hash Function
@@ -2406,6 +2409,7 @@
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
