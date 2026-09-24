@@ -392,6 +392,7 @@
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -865,6 +866,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
