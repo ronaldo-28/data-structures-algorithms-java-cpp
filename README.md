@@ -447,6 +447,7 @@
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4033-valid-k-unique-subarrays-i) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Enumeration
 |  |
 | ------- |
@@ -896,6 +897,7 @@
 | [4004-minimum-moves-to-balance-circular-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4004-minimum-moves-to-balance-circular-array-ii) |
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
 | [4028-minimum-operations-to-make-a-rotated-palindrome-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4028-minimum-operations-to-make-a-rotated-palindrome-ii) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Bit Manipulation
 |  |
 | ------- |
