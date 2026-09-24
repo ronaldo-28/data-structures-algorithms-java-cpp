@@ -349,6 +349,7 @@
 | [3035-maximum-palindromes-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3035-maximum-palindromes-after-operations) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
@@ -1667,6 +1668,7 @@
 | [2534-time-taken-to-cross-the-door](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2534-time-taken-to-cross-the-door) |
 | [2739-total-distance-traveled](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2739-total-distance-traveled) |
 | [3028-ant-on-the-boundary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3028-ant-on-the-boundary) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
