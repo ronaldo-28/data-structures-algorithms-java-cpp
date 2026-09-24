@@ -344,6 +344,7 @@
 | [3024-type-of-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3028-ant-on-the-boundary) |
 | [3030-find-the-grid-of-region-average](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3030-find-the-grid-of-region-average) |
+| [3033-modify-the-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3033-modify-the-matrix) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
@@ -1847,6 +1848,7 @@
 | [2814-minimum-time-takes-to-reach-destination-without-drowning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2814-minimum-time-takes-to-reach-destination-without-drowning) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3030-find-the-grid-of-region-average](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3030-find-the-grid-of-region-average) |
+| [3033-modify-the-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3033-modify-the-matrix) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
