@@ -351,6 +351,7 @@
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
@@ -1264,6 +1265,7 @@
 | [3004-maximum-subtree-of-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3018-maximum-number-of-removal-queries-that-can-be-processed-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3018-maximum-number-of-removal-queries-that-can-be-processed-i) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3032-count-numbers-with-unique-digits-ii) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
@@ -2237,6 +2239,7 @@
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2876-count-visited-nodes-in-a-directed-graph) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## Game Theory
 |  |
 | ------- |
