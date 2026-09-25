@@ -518,6 +518,7 @@
 | [0758-bold-words-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0758-bold-words-in-string) |
 | [0760-find-anagram-mappings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0760-find-anagram-mappings) |
 | [1086-high-five](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1086-high-five) |
+| [1096-brace-expansion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1096-brace-expansion-ii) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1133-largest-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1133-largest-unique-number) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1152-analyze-user-website-visit-pattern) |
@@ -672,6 +673,7 @@
 | [1065-index-pairs-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1065-index-pairs-of-a-string) |
 | [1086-high-five](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1086-high-five) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
+| [1096-brace-expansion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1096-brace-expansion-ii) |
 | [1099-two-sum-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1099-two-sum-less-than-k) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1133-largest-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1133-largest-unique-number) |
@@ -1012,6 +1014,7 @@
 | [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
 | [1065-index-pairs-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1065-index-pairs-of-a-string) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
+| [1096-brace-expansion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1096-brace-expansion-ii) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1119-remove-vowels-from-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1119-remove-vowels-from-a-string) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1152-analyze-user-website-visit-pattern) |
@@ -1710,6 +1713,7 @@
 | [0737-sentence-similarity-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0737-sentence-similarity-ii) |
 | [0742-closest-leaf-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
+| [1096-brace-expansion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1096-brace-expansion-ii) |
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
 | [1197-minimum-knight-moves](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1197-minimum-knight-moves) |
 | [1215-stepping-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1215-stepping-numbers) |
@@ -1888,6 +1892,7 @@
 | [0772-basic-calculator-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0772-basic-calculator-iii) |
 | [1063-number-of-valid-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1063-number-of-valid-subarrays) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
+| [1096-brace-expansion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1096-brace-expansion-ii) |
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1586-binary-search-tree-iterator-ii) |
@@ -2141,6 +2146,7 @@
 | [1066-campus-bikes-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1066-campus-bikes-ii) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
 | [1088-confusing-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1088-confusing-number-ii) |
+| [1096-brace-expansion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1096-brace-expansion-ii) |
 | [1215-stepping-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1215-stepping-numbers) |
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2850-minimum-moves-to-spread-stones-over-grid) |
