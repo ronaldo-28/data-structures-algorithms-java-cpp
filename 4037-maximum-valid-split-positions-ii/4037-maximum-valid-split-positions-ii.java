@@ -1,49 +1,83 @@
+// https://www.youtube.com/@0x3f
 class Solution {
-    public int solve(int[] pre, int[] suff, int skip, int[] a) {
-        int n = a.length;
-        for (int i = 1; i <= n; i++) {
-            if (i - 1 == skip) {
-                pre[i] = pre[i - 1];
-                continue;
-            }
-            pre[i] = gcd(pre[i - 1], a[i - 1]);
+    public int maxValidSplits(int[] nums) {
+        int n = nums.length;
+        int[] preGcd = new int[n];
+        int g = 0;
+        for (int i = 0; i < n; i++) {
+            g = gcd(g, nums[i]);
+            preGcd[i] = g;
         }
+
+        int[] sufGcd = new int[n + 1];
         for (int i = n - 1; i >= 0; i--) {
-            if (i == skip) {
-                suff[i] = suff[i + 1];
+            sufGcd[i] = gcd(sufGcd[i + 1], nums[i]);
+        }
+
+        // 不删任何数
+        int allGcd = sufGcd[0];
+        int p = 0;
+        while (preGcd[p] != allGcd) {
+            p++;
+        }
+        int q = n - 1;
+        while (sufGcd[q] != allGcd) {
+            q--;
+        }
+        int ans = Math.max(q - p, 0); // 满足 i >= p 且 i+1 <= q 的 i 的个数
+
+        for (int i = 0; i < n; i++) {
+            if (i > 0 && preGcd[i] == preGcd[i - 1]) {
                 continue;
             }
-            suff[i] = gcd(suff[i + 1], a[i]);
+
+            // 删除 nums[i]
+            int newG = i > 0 ? gcd(preGcd[i - 1], sufGcd[i + 1]) : sufGcd[i + 1];
+            if (newG == allGcd) {
+                continue;
+            }
+
+            g = 0;
+            for (int j = 0; j < n; j++) {
+                if (j == i) {
+                    continue;
+                }
+                g = gcd(g, nums[j]);
+                if (g == newG) {
+                    p = j;
+                    break;
+                }
+            }
+
+            g = 0;
+            for (int j = n - 1; j >= 0; j--) {
+                if (j == i) {
+                    continue;
+                }
+                g = gcd(g, nums[j]);
+                if (g == newG) {
+                    q = j;
+                    break;
+                }
+            }
+
+            int res = q - p;
+            if (p <= i && i < q) {
+                res--; // 因为删除了 nums[i]，少一个有效分割
+            }
+            ans = Math.max(ans, res);
+            break;
         }
-        int curr = 0;
-        for (int i = 0; i < n - 1; i++) {
-            if (i == skip) continue;
-            if (pre[i + 1] == suff[i + 1]) curr++;
-        }
-        return curr;
+
+        return ans;
     }
 
     private int gcd(int a, int b) {
-        while (b != 0) {
-            int t = b;
-            b = a % b;
-            a = t;
+        while (a != 0) {
+            int tmp = a;
+            a = b % a;
+            b = tmp;
         }
-        return a;
-    }
-
-    public int maxValidSplits(int[] a) {
-        int n = a.length, ans = 0;
-        int[] premain = new int[n + 1];
-        for (int i = 1; i <= n; i++)
-            premain[i] = gcd(premain[i - 1], a[i - 1]);
-        for (int i = 0; i <= n; i++) {
-            if (i > 0 && premain[i] == premain[i - 1]) continue;
-            int skip = i - 1;
-            int[] pre = new int[n + 1];
-            int[] suff = new int[n + 1];
-            ans = Math.max(ans, solve(pre, suff, i - 1, a));
-        }
-        return ans;
+        return b;
     }
 }
