@@ -352,6 +352,7 @@
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
@@ -739,6 +740,7 @@
 | [3024-type-of-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3024-type-of-triangle) |
 | [3035-maximum-palindromes-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
@@ -1273,6 +1275,7 @@
 | [3018-maximum-number-of-removal-queries-that-can-be-processed-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3018-maximum-number-of-removal-queries-that-can-be-processed-i) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
