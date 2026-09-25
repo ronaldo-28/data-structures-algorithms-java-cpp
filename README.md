@@ -355,6 +355,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
@@ -1109,6 +1110,7 @@
 | [3035-maximum-palindromes-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3035-maximum-palindromes-after-operations) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
@@ -2192,6 +2194,7 @@
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -2351,6 +2354,7 @@
 | [2479-maximum-xor-of-two-non-overlapping-subtrees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2479-maximum-xor-of-two-non-overlapping-subtrees) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3758-convert-number-words-to-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3758-convert-number-words-to-digits) |
@@ -2427,6 +2431,7 @@
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 ## Hash Function
 |  |
@@ -2446,6 +2451,7 @@
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 | [3991-sort-array-using-prefix-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3991-sort-array-using-prefix-reversals) |
@@ -2455,6 +2461,7 @@
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
