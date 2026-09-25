@@ -1,25 +1,30 @@
 class Solution {
     public int countSpecialIntegers(int[] nums) {
-        Map<Integer, Integer> mp = new HashMap<>();
+        boolean[] seen = new boolean[101];
+        boolean[] bad = new boolean[101];
 
-        int n = nums.length;
+        for (int i = 0; i < nums.length; i++) {
 
-        mp.put(nums[0], 1);
+            // New block starts
+            if (i == 0 || nums[i] != nums[i - 1]) {
 
-        for(int i = 1; i < n; i++){
-            if(nums[i] != nums[i - 1]){
-                mp.put(nums[i], mp.getOrDefault(nums[i], 0) + 1);
+                // Number already had a block
+                if (seen[nums[i]]) {
+                    bad[nums[i]] = true;
+                }
+
+                seen[nums[i]] = true;
             }
         }
 
-        int cnt = 0;
+        int ans = 0;
 
-        for(Map.Entry<Integer, Integer> p : mp.entrySet()){
-            if(p.getValue() == 1){
-                cnt++;
+        for (int i = 1; i <= 100; i++) {
+            if (seen[i] && !bad[i]) {
+                ans++;
             }
         }
 
-        return cnt;
+        return ans;
     }
 }
