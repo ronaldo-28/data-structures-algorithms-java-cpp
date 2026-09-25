@@ -459,6 +459,7 @@
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 | [4037-maximum-valid-split-positions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4037-maximum-valid-split-positions-ii) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Enumeration
 |  |
 | ------- |
@@ -665,6 +666,7 @@
 | [3991-sort-array-using-prefix-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3991-sort-array-using-prefix-reversals) |
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
 | [4019-merge-close-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4019-merge-close-characters-ii) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Sorting
 |  |
 | ------- |
@@ -2038,6 +2040,7 @@
 | [3773-maximum-number-of-equal-length-runs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3773-maximum-number-of-equal-length-runs) |
 | [3837-delayed-count-of-equal-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3837-delayed-count-of-equal-elements) |
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Two Pointers
 |  |
 | ------- |
