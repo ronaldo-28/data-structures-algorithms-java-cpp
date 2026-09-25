@@ -358,6 +358,7 @@
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3046-split-the-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3046-split-the-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
@@ -1452,6 +1453,7 @@
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
