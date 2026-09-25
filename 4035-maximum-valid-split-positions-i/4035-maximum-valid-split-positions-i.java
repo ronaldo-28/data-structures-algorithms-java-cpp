@@ -1,51 +1,36 @@
 class Solution {
     public int maxValidSplits(int[] nums) {
         int n = nums.length;
-        int ans = 0;
+        int[] pref = new int[n + 1], suf = new int[n + 1];
+        for (int k = 0; k < n; k++) pref[k + 1] = gcd(pref[k], nums[k]);  // gcd(nums[:k])
+        for (int k = n - 1; k >= 0; k--) suf[k] = gcd(suf[k + 1], nums[k]);  // gcd(nums[k:])
 
-        for(int i = -1; i < n; i++){
+        int total = pref[n], best = 0;
+        for (int k = 0; k <= n; k++) if (pref[k] == suf[k]) best++;  // remove nothing
 
-            List<Integer> arr = new ArrayList<>();
-
-            for(int j = 0; j < n; j++){
-                if(i == j) continue;
-                arr.add(nums[j]);
-            }
-
-            int m = arr.size();
-
-            if(m < 2) continue;
-
-            int[] prefix = new int[m];
-            int[] suffix = new int[m];
-
-            prefix[0] = arr.get(0);
-
-            for(int j = 1; j < m; j++){
-                prefix[j] = gcd(prefix[j - 1], arr.get(j));
-            }
-
-            suffix[m - 1] = arr.get(m - 1);
-
-            for(int j = m - 2; j >= 0; j--){
-                suffix[j] = gcd(suffix[j + 1], arr.get(j));
-            }
-
-            int score = 0;
-
-            for(int j = 0; j < m - 1; j++){
-                if(prefix[j] == suffix[j + 1]){
-                    score++;
-                }
-            }
-
-            ans = Math.max(ans, score);
+        for (int i = 0; i < n; i++) {
+            int g = gcd(pref[i], suf[i + 1]);  // gcd once i is gone
+            if (g == total) continue;  // removing i changes nothing
+            int l = pref[i] == g ? walk(nums, 0, 0, 1, g) : walk(nums, i + 1, pref[i], 1, g);
+            int r = suf[i + 1] == g ? walk(nums, n - 1, 0, -1, g) : walk(nums, i - 1, suf[i + 1], -1, g);
+            best = Math.max(best, r - l + 2 - (l <= i && i <= r ? 1 : 0));
         }
 
-        return ans;
+        return best;
     }
-
-    private int gcd(int a, int b){
-        return b == 0 ? a : gcd(b, a % b);
+    private static int walk(int[] nums, int k, int cur, int step, int g) {   // extend until it reaches g
+        while (cur != g) { 
+            cur = gcd(cur, nums[k]); 
+            k += step; 
+        }
+        return k;
+    }
+    static int gcd(int a, int b) { 
+        while (b != 0) { 
+            int t = a % b; 
+            a = b; 
+            b = t; 
+        } 
+        return a; 
     }
 }
