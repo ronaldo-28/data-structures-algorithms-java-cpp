@@ -1,38 +1,31 @@
 class Solution {
-
     public String[] largestString(int[] nums) {
+        //aaaaaa - 6
+        //bbb
+        //cb
+        //110 - 6 in binary
+        //cba - answer corresponds to the binary
+        
         int n = nums.length;
-        int idx = 0;
+        String[] ans = new String[n];
+        for(int i = 0; i < n; i++) {
+            int num = nums[i];
+            
+            int mask = num & 0b1111111111111111111111111;
+            int zCount = num >>> 25;
+            
+            char[] arr = new char[Integer.bitCount(mask) + zCount];
+            for(int j = 0; j < zCount; j++) arr[j] = 'z';
 
-        String[] res = new String[n];
-
-        for (int x : nums) {
-            res[idx++] = fn(x);
-        }
-
-        return res;
-    }
-
-    private String fn(int n) {
-        int[] freq = new int[26];
-        int i = 'a';
-
-        for (i = 'a'; i < 'z' && n >= 2; i++, n = n / 2) {
-            if (n % 2 == 1) {
-                freq[i - 'a']++;
+            int index = arr.length - 1;
+            char c = 'a';
+            while(mask > 0) {
+                if((mask & 1) == 1) arr[index--] = c;
+                c++;
+                mask >>>= 1;
             }
+            ans[i] = String.valueOf(arr);
         }
-
-        freq[i - 'a'] = n;
-
-        StringBuilder res = new StringBuilder();
-
-        for (i = 25; i >= 0; i--) {
-            while (freq[i]-- != 0) {
-                res.append(String.valueOf((char)(i + 'a')));
-            }
-        }
-
-        return res.toString();
+        return ans;
     }
 }
