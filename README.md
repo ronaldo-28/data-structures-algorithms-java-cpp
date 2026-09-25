@@ -359,6 +359,7 @@
 | [3046-split-the-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3046-split-the-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3049-earliest-second-to-mark-indices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
@@ -1377,6 +1378,7 @@
 | [3012-minimize-length-of-array-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3035-maximum-palindromes-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3035-maximum-palindromes-after-operations) |
+| [3049-earliest-second-to-mark-indices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
@@ -1454,6 +1456,7 @@
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3049-earliest-second-to-mark-indices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
@@ -1829,6 +1832,7 @@
 | [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
 | [2969-minimum-number-of-coins-for-fruits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2969-minimum-number-of-coins-for-fruits-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3049-earliest-second-to-mark-indices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
