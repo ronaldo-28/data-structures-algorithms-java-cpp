@@ -468,6 +468,7 @@
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4039-sum-of-decoded-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4039-sum-of-decoded-numbers) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
+| [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -1335,6 +1336,7 @@
 | [4023-elevator-requests-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4023-elevator-requests-ii) |
 | [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
+| [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
 ## Greedy
 |  |
 | ------- |
