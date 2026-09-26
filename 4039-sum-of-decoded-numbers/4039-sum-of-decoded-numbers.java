@@ -1,41 +1,43 @@
 class Solution {
+    static int mod = (int)1e9 + 7;
+    static int N = 16;
+    static long[] pow10 = new long[N];
     public int sumDecoded(long[] nums) {
-        int n=nums.length;
-        long  sum=0;
-        long MOD = 1000000007L;
-        for(int i=0;i<n;i++){
-            long width =nums[i] %10;
-            long d = nums[i] / 10;
 
-            long t = d;
-            int digits = 0;
-            while (t>0) {
-                digits++;
-                t /= 10;
-            }
+        if(pow10[0] == 0){
+            pow10[0] = 1;
+            for(int i = 1; i < N; ++i)
+                pow10[i] = pow10[i - 1] * 10;
+        }
+
+        long sum = 0;
+        for(long num:nums){
+
+            int w = (int) (num % 10);
+            long v = num / 10;
+
+            int len = 1;
+            while(v >= pow10[len])
+                len++;
             
-            long divisor =1;
-            for(int j=0;j<digits-width;j++){
-                divisor *= 10;
-            }
-
-            long y = d % divisor;
-            long x = d / divisor;
-
-            long power = calculatePower(x, y, MOD);
-            sum = (sum + power) % MOD;
+            long base =  pow10[len - w];
+            long x = v /base, y = v % base;
+            sum += pow(x, y);
         }
-        return (int)sum;
+
+        return (int)(sum % mod);
     }
-    private long calculatePower(long x, long y, long MOD) {
+
+    long pow(long x, long n){
         long result = 1;
-        while (y > 0) {
-            if (y % 2 == 1) {
-                result = (result * x) % MOD;
-            }
-            x = (x * x) % MOD;
-            y = y / 2;
+        while(n > 0){
+            if((n & 1) == 1)
+                result = result * x % mod;
+            
+            x = x * x % mod;
+            n >>= 1;
         }
+
         return result;
     }
 }
