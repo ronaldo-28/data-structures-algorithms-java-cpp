@@ -500,6 +500,7 @@
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
 | [4037-maximum-valid-split-positions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4037-maximum-valid-split-positions-ii) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -1172,6 +1173,7 @@
 | [4028-minimum-operations-to-make-a-rotated-palindrome-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4028-minimum-operations-to-make-a-rotated-palindrome-ii) |
 | [4030-check-ascii-palindromic](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4030-check-ascii-palindromic) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1213,6 +1215,7 @@
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3851-maximum-requests-without-violating-the-limit) |
 | [3972-valid-subarrays-with-matching-sum-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3972-valid-subarrays-with-matching-sum-digits-ii) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
