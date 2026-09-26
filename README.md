@@ -362,6 +362,7 @@
 | [3048-earliest-second-to-mark-indices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
@@ -1718,6 +1719,7 @@
 | [2739-total-distance-traveled](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2739-total-distance-traveled) |
 | [3028-ant-on-the-boundary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
@@ -1851,6 +1853,7 @@
 | [2969-minimum-number-of-coins-for-fruits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2969-minimum-number-of-coins-for-fruits-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3049-earliest-second-to-mark-indices-ii) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
