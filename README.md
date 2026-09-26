@@ -366,6 +366,7 @@
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
@@ -1921,6 +1922,7 @@
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3030-find-the-grid-of-region-average](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3030-find-the-grid-of-region-average) |
 | [3033-modify-the-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3033-modify-the-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
@@ -2172,6 +2174,7 @@
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3028-ant-on-the-boundary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3028-ant-on-the-boundary) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
