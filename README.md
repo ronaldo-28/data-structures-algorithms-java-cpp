@@ -467,6 +467,7 @@
 | [4037-maximum-valid-split-positions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4037-maximum-valid-split-positions-ii) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4039-sum-of-decoded-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4039-sum-of-decoded-numbers) |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -1333,6 +1334,7 @@
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
 | [4023-elevator-requests-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4023-elevator-requests-ii) |
 | [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 ## Greedy
 |  |
 | ------- |
