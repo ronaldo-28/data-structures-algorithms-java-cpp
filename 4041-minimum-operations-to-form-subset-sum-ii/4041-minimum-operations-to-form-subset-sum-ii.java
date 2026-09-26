@@ -1,47 +1,44 @@
 class Solution {
+    static int INF = (int)1e9;    
     public int minOperations(int[] nums, int sum) {
-        int INF = Integer.MAX_VALUE / 2;
 
-        int[] dp = new int[sum+1];
+
+        int[] dp = new int[sum + 1];
         Arrays.fill(dp, INF);
         dp[0] = 0;
 
-        for(int x: nums){
-            List<int[]> options = new ArrayList<>();
-            int value = x;
-            int divCost = 0;
+        for (int num : nums) {
 
-            while(value > 0){
-                long curr = value;
-                int cost = divCost;
+            int[] cost = new int[sum + 1];
+            Arrays.fill(cost, INF);
 
-                while(curr<=sum){
-                    options.add(new int[]{(int)curr, cost});
-
-                    curr*=2;
-                    cost++;
+            int v = num;
+            int k = 0;
+            while (v > 0) {
+                int t = v;
+                int m = 0;
+                while (t <= sum) {
+                    if (k + m < cost[t]) cost[t] = k + m;
+                    t *= 2;
+                    m++;
                 }
-
-                value/=2;
-                divCost++;
+                v /= 2;
+                k++;
             }
 
-            int[] newDp = dp.clone();
-
-            for(int[] option: options){
-                int val = option[0];
-                int ops = option[1];
-
-                for(int s=0 ; s+val<=sum; s++){
-                    if(dp[s]!=INF){
-                        newDp[s + val] = Math.min(newDp[s + val], dp[s] + ops);
-                    }
+            int[] ndp = dp.clone();
+            for (int t = 1; t <= sum; t++) {
+                int c = cost[t];
+                if (c >= INF) continue;
+                for (int j = sum; j >= t; j--) {
+                    int cur = dp[j - t] + c;
+                    if (cur < ndp[j]) ndp[j] = cur;
                 }
             }
-
-            dp = newDp;
+            dp = ndp;
+            if(dp[sum] == 0) return 0;
         }
 
-        return dp[sum] == INF ? -1: dp[sum];
+        return dp[sum] >= INF ? -1 : dp[sum];        
     }
 }
