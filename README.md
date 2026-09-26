@@ -143,6 +143,7 @@
 | [1772-sort-features-by-popularity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1772-sort-features-by-popularity) |
 | [1778-shortest-path-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1778-shortest-path-in-a-hidden-grid) |
 | [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1810-minimum-path-cost-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1810-minimum-path-cost-in-a-hidden-grid) |
 | [1820-maximum-number-of-accepted-invitations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1820-maximum-number-of-accepted-invitations) |
 | [1826-faulty-sensor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1826-faulty-sensor) |
@@ -563,6 +564,7 @@
 | [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [1794-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1794-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1804-implement-trie-ii-prefix-tree) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
@@ -1062,6 +1064,7 @@
 | [1772-sort-features-by-popularity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1772-sort-features-by-popularity) |
 | [1794-count-pairs-of-equal-substrings-with-minimum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1794-count-pairs-of-equal-substrings-with-minimum-difference) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1804-implement-trie-ii-prefix-tree) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1842-next-palindrome-using-same-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1842-next-palindrome-using-same-digits) |
 | [1858-longest-word-with-all-prefixes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1858-longest-word-with-all-prefixes) |
 | [1933-check-if-string-is-decomposable-into-value-equal-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1933-check-if-string-is-decomposable-into-value-equal-substrings) |
