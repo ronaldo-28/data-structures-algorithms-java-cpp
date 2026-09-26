@@ -466,6 +466,7 @@
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 | [4037-maximum-valid-split-positions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4037-maximum-valid-split-positions-ii) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4039-sum-of-decoded-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4039-sum-of-decoded-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -929,6 +930,7 @@
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
 | [4037-maximum-valid-split-positions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4037-maximum-valid-split-positions-ii) |
+| [4039-sum-of-decoded-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4039-sum-of-decoded-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1739,6 +1741,7 @@
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3792-sum-of-increasing-product-blocks) |
 | [4020-elevator-requests-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4020-elevator-requests-i) |
+| [4039-sum-of-decoded-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4039-sum-of-decoded-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
