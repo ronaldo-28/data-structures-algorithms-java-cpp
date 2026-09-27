@@ -367,6 +367,7 @@
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
@@ -642,6 +643,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3046-split-the-array) |
 | [3063-linked-list-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3063-linked-list-frequency) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
@@ -1934,6 +1936,7 @@
 | [3030-find-the-grid-of-region-average](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3030-find-the-grid-of-region-average) |
 | [3033-modify-the-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3033-modify-the-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
@@ -2060,6 +2063,7 @@
 | [3039-apply-operations-to-make-string-empty](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3046-split-the-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3046-split-the-array) |
 | [3063-linked-list-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3063-linked-list-frequency) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
