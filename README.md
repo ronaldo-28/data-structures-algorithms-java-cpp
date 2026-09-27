@@ -375,6 +375,7 @@
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
@@ -651,6 +652,7 @@
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
@@ -779,6 +781,7 @@
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
@@ -1756,6 +1759,7 @@
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
@@ -1890,6 +1894,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
