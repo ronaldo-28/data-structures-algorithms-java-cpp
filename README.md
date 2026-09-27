@@ -478,6 +478,7 @@
 | [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
 | [4044-count-good-cyclic-rotations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4044-count-good-cyclic-rotations) |
 | [4045-count-robot-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4045-count-robot-groups) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -690,6 +691,7 @@
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
 | [4019-merge-close-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4019-merge-close-characters-ii) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Sorting
 |  |
 | ------- |
