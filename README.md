@@ -1059,6 +1059,7 @@
 | [1166-design-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1166-design-file-system) |
 | [1180-count-substrings-with-only-one-distinct-letter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1180-count-substrings-with-only-one-distinct-letter) |
 | [1181-before-and-after-puzzle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1181-before-and-after-puzzle) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1216-valid-palindrome-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1216-valid-palindrome-iii) |
 | [1236-web-crawler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1236-web-crawler) |
 | [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
@@ -1955,6 +1956,7 @@
 | [1063-number-of-valid-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1063-number-of-valid-subarrays) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
 | [1096-brace-expansion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1214-two-sum-bsts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1214-two-sum-bsts) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1586-binary-search-tree-iterator-ii) |
@@ -3191,4 +3193,8 @@
 |  |
 | ------- |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
