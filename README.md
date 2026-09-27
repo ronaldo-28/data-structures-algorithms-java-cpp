@@ -476,6 +476,7 @@
 | [4039-sum-of-decoded-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4039-sum-of-decoded-numbers) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
+| [4044-count-good-cyclic-rotations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4044-count-good-cyclic-rotations) |
 ## Enumeration
 |  |
 | ------- |
@@ -1232,6 +1233,7 @@
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3851-maximum-requests-without-violating-the-limit) |
 | [3972-valid-subarrays-with-matching-sum-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3972-valid-subarrays-with-matching-sum-digits-ii) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4044-count-good-cyclic-rotations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4044-count-good-cyclic-rotations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2219,6 +2221,7 @@
 | [3929-minimum-partition-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3929-minimum-partition-score-ii) |
 | [3972-valid-subarrays-with-matching-sum-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3972-valid-subarrays-with-matching-sum-digits-ii) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4033-valid-k-unique-subarrays-i) |
+| [4044-count-good-cyclic-rotations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4044-count-good-cyclic-rotations) |
 ## Backtracking
 |  |
 | ------- |
