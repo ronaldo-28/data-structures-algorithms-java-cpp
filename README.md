@@ -477,6 +477,7 @@
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
 | [4044-count-good-cyclic-rotations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4044-count-good-cyclic-rotations) |
+| [4045-count-robot-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4045-count-robot-groups) |
 ## Enumeration
 |  |
 | ------- |
@@ -2008,6 +2009,7 @@
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
+| [4045-count-robot-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4045-count-robot-groups) |
 ## Ordered Set
 |  |
 | ------- |
@@ -2051,6 +2053,7 @@
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
+| [4045-count-robot-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4045-count-robot-groups) |
 ## Counting Sort
 |  |
 | ------- |
