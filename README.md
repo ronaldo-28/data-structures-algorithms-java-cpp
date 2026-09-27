@@ -374,6 +374,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
@@ -913,6 +914,7 @@
 | [3024-type-of-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3024-type-of-triangle) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
