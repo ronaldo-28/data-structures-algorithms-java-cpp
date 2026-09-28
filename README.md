@@ -376,6 +376,7 @@
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3080-mark-elements-on-array-by-performing-queries) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
@@ -1343,6 +1344,7 @@
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
@@ -2374,6 +2376,7 @@
 | ------- |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 ## Multiple Knapsack
 |  |
@@ -2404,6 +2407,7 @@
 |  |
 | ------- |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 ## Binary Indexed Tree
 |  |
 | ------- |
