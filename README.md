@@ -958,6 +958,7 @@
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
 | [4037-maximum-valid-split-positions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4037-maximum-valid-split-positions-ii) |
 | [4039-sum-of-decoded-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4039-sum-of-decoded-numbers) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1373,6 +1374,7 @@
 | [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Greedy
 |  |
 | ------- |
