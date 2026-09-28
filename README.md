@@ -1088,6 +1088,7 @@
 | [1548-the-most-similar-path-in-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-the-most-similar-path-in-a-graph) |
 | [1554-strings-differ-by-one-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1554-strings-differ-by-one-character) |
 | [1597-build-binary-expression-tree-from-infix-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1597-build-binary-expression-tree-from-infix-expression) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1682-longest-palindromic-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1682-longest-palindromic-subsequence-ii) |
 | [1698-number-of-distinct-substrings-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1698-number-of-distinct-substrings-in-a-string) |
@@ -1987,6 +1988,7 @@
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1597-build-binary-expression-tree-from-infix-expression](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1597-build-binary-expression-tree-from-infix-expression) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1762-buildings-with-an-ocean-view) |
 | [1950-maximum-of-minimum-values-in-all-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1950-maximum-of-minimum-values-in-all-subarrays) |
@@ -3230,4 +3232,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
