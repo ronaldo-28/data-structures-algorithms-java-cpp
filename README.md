@@ -481,6 +481,7 @@
 | [4044-count-good-cyclic-rotations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4044-count-good-cyclic-rotations) |
 | [4045-count-robot-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4045-count-robot-groups) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Enumeration
 |  |
 | ------- |
@@ -1790,6 +1791,7 @@
 | [3792-sum-of-increasing-product-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3792-sum-of-increasing-product-blocks) |
 | [4020-elevator-requests-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4020-elevator-requests-i) |
 | [4039-sum-of-decoded-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4039-sum-of-decoded-numbers) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1984,6 +1986,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Stack
 |  |
 | ------- |
