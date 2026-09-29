@@ -379,6 +379,7 @@
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
@@ -1009,6 +1010,7 @@
 | [3064-guess-the-number-using-bitwise-questions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3064-guess-the-number-using-bitwise-questions-i) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3094-guess-the-number-using-bitwise-questions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3094-guess-the-number-using-bitwise-questions-ii) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
@@ -1243,6 +1245,7 @@
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
