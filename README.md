@@ -938,6 +938,7 @@
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3099-harshad-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3099-harshad-number) |
+| [3100-water-bottles-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3100-water-bottles-ii) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
@@ -1798,6 +1799,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3080-mark-elements-on-array-by-performing-queries) |
+| [3100-water-bottles-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3100-water-bottles-ii) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
