@@ -380,6 +380,7 @@
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
@@ -2249,6 +2250,7 @@
 | [3028-ant-on-the-boundary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3028-ant-on-the-boundary) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
