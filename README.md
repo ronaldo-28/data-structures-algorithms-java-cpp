@@ -271,6 +271,7 @@
 | [2229-check-if-an-array-is-consecutive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2237-count-positions-on-street-with-required-brightness](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2237-count-positions-on-street-with-required-brightness) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2277-closest-node-to-path-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2277-closest-node-to-path-in-tree) |
 | [2282-number-of-people-that-can-be-seen-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2282-number-of-people-that-can-be-seen-in-a-grid) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2291-maximum-profit-from-trading-stocks) |
@@ -1322,6 +1323,7 @@
 | [2189-number-of-ways-to-build-house-of-cards](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [2247-maximum-cost-of-trip-with-k-highways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2247-maximum-cost-of-trip-with-k-highways) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2297-jump-game-viii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2297-jump-game-viii) |
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
@@ -1968,6 +1970,7 @@
 | [2123-minimum-operations-to-remove-adjacent-ones-in-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2123-minimum-operations-to-remove-adjacent-ones-in-matrix) |
 | [2128-remove-all-ones-with-row-and-column-flips](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2128-remove-all-ones-with-row-and-column-flips) |
 | [2174-remove-all-ones-with-row-and-column-flips-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-remove-all-ones-with-row-and-column-flips-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2282-number-of-people-that-can-be-seen-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2282-number-of-people-that-can-be-seen-in-a-grid) |
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [2387-median-of-a-row-wise-sorted-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2387-median-of-a-row-wise-sorted-matrix) |
@@ -3257,4 +3260,5 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
