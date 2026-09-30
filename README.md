@@ -383,6 +383,7 @@
 | [3096-minimum-levels-to-gain-more-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3098-find-the-sum-of-subsequence-powers) |
+| [3102-minimize-manhattan-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3102-minimize-manhattan-distances) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
@@ -801,6 +802,7 @@
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3098-find-the-sum-of-subsequence-powers) |
+| [3102-minimize-manhattan-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3102-minimize-manhattan-distances) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
@@ -940,6 +942,7 @@
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3099-harshad-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3099-harshad-number) |
 | [3100-water-bottles-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3100-water-bottles-ii) |
+| [3102-minimize-manhattan-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3102-minimize-manhattan-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
@@ -2070,6 +2073,7 @@
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
+| [3102-minimize-manhattan-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3102-minimize-manhattan-distances) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
@@ -2821,6 +2825,7 @@
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3102-minimize-manhattan-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3102-minimize-manhattan-distances) |
 ## Shortest Path
 |  |
 | ------- |
