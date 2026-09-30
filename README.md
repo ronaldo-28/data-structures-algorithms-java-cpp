@@ -1197,6 +1197,7 @@
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
+| [3110-score-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3110-score-of-a-string) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
