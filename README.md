@@ -384,6 +384,7 @@
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3102-minimize-manhattan-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3102-minimize-manhattan-distances) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
