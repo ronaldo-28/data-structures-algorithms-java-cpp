@@ -387,6 +387,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
@@ -812,6 +813,7 @@
 | [3102-minimize-manhattan-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3102-minimize-manhattan-distances) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
@@ -1486,6 +1488,7 @@
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
