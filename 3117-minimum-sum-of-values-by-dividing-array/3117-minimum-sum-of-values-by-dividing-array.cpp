@@ -1,89 +1,77 @@
+// Author: Alexander Picon
+// GitHub: https://github.com/alexpicon
+// LinkedIn: https://www.linkedin.com/in/alexpicon/
+// Web: https://chaski.ai/
+
+
 class Solution {
-public:
-    //foxed
-    
-    int dp[10][10000];
-    int prefix[10001][20];
+   public:
+    // NOLINTNEXTLINE(readability-identifier-naming)
+    static auto minimumValueSum(std::vector<int>& nums,
+                                std::vector<int>& and_values) -> int {
+        const int nums_size = static_cast<int>(nums.size());
+        const int parts = static_cast<int>(and_values.size());
 
-    int solve(int index, int ind, vector<int>& nums, vector<int>& andV)
-    {
-       if(index==nums.size())
-       {
-        if(ind == andV.size() )return 0;
-        return 1e9;
-       }
-       if(ind == andV.size())
-       {
-         if( (nums[index]& andV[ind-1])  == andV[ind-1])
-         return solve(index+1, ind, nums, andV) - nums[index-1]+nums[index];
+        std::vector<int> prev(nums_size + 1, INF);
+        std::vector<int> curr(nums_size + 1, INF);
+        prev[0] = 0;
 
-         else return 1e9;
-       }
+        Stack read;
+        Stack write;
 
-       if(dp[ind][index]!=-1)
-       return dp[ind][index];
-       
-       int mini= 1e9;
+        for (int col = 1; col <= parts; ++col) {
+            const Element base{.target = and_values[col - 1]};
+            std::ranges::fill(curr, INF);
+            read.clear();
 
-       
-       if( ind>0 && (andV[ind-1] == (andV[ind-1] & nums[index])) )
-       mini= min(mini, solve(index+1, ind, nums, andV)+ nums[index]- nums[index-1]);
+            const int max_idx = nums_size - (parts - col);
+            for (int idx = col; idx <= max_idx; ++idx) {
+                const Element element{.and_value = nums[idx - 1],
+                                      .cost = prev[idx - 1],
+                                      .target = base.target};
+                const int min_cost = build_next_stack(read, element, write);
 
-
-       int low=index+1, high=nums.size();
-       int l=high+1;
-
-       while(low<=high){
-          int mid= (low+high)>>1;
-          int val=0;
-
-          for(int bit=0; bit<20; bit++)
-          {
-             if(prefix[mid][bit]-prefix[index][bit] == mid-index)
-             val |=(1<<bit);
-          }
-
-          if(val < andV[ind])
-           high=mid-1;
-          else if(val > andV[ind])
-          low=mid+1;
-          else{
-            l= min(l,mid);
-            high=mid-1;
-          }
-       }
-       
-       if(l<nums.size()+1)
-       {
-         mini= min(mini, solve(l, ind+1, nums, andV) + nums[l-1]);
-       }
-
-       return dp[ind][index]= mini;
-    }
-
-    int minimumValueSum(vector<int>& nums, vector<int>& andValues) {
-        
-        int n= nums.size();
-
-        memset(prefix, 0, sizeof(prefix));
-
-        for(int i=1; i<=n; i++)
-        {
-            for(int bit=0; bit<20; bit++)
-            {
-                if(nums[i-1]&(1<<bit))
-                prefix[i][bit]++;
+                curr[idx] = min_cost < INF ? min_cost + element.and_value : INF;
+                std::swap(read, write);
             }
-            for(int bit=0; bit<20; bit++)
-            prefix[i][bit]+= prefix[i-1][bit];
+            std::swap(prev, curr);
         }
 
-        memset(dp, -1, sizeof(dp));
+        const int answer = prev[nums_size];
+        return answer >= INF ? -1 : answer;
+    }
 
-        int fox= solve(0,0,nums,andValues);
+   private:
+    static constexpr int INF = 0x3f3f3f3f;
 
-        if(fox==1e9)
-        return -1;
-        return fox;
+    struct Element {
+        int and_value = 0;
+        int cost = 0;
+        int target = 0;
+    };
+
+    using Stack = std::vector<std::pair<int, int>>;
+
+    static auto build_next_stack(const Stack& read, const Element& element,
+                                 Stack& write) -> int {
+        int min_cost = INF;
+        write.clear();
+        write.emplace_back(element.and_value, element.cost);
+        if (element.and_value == element.target) {
+            min_cost = std::min(min_cost, element.cost);
+        }
+
+        for (const auto& [prev_and, prev_cost] : read) {
+            const int folded = prev_and & element.and_value;
+            if (folded == write.back().first) {
+                write.back().second = std::min(write.back().second, prev_cost);
+            } else {
+                write.emplace_back(folded, prev_cost);
+            }
+            if (write.back().first == element.target) {
+                min_cost = std::min(min_cost, write.back().second);
+            }
+        }
+        return min_cost;
     }
 };
