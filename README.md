@@ -391,6 +391,7 @@
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3115-maximum-prime-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3115-maximum-prime-difference) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
@@ -958,6 +959,7 @@
 | [3100-water-bottles-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3100-water-bottles-ii) |
 | [3102-minimize-manhattan-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3102-minimize-manhattan-distances) |
 | [3115-maximum-prime-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3115-maximum-prime-difference) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
@@ -1037,6 +1039,7 @@
 | [3094-guess-the-number-using-bitwise-questions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3094-guess-the-number-using-bitwise-questions-ii) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
@@ -1575,6 +1578,7 @@
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
@@ -1797,6 +1801,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3115-maximum-prime-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3115-maximum-prime-difference) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -2254,6 +2259,7 @@
 | [2912-number-of-ways-to-reach-destination-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2912-number-of-ways-to-reach-destination-in-the-grid) |
 | [2927-distribute-candies-among-children-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2927-distribute-candies-among-children-iii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3518-smallest-palindromic-rearrangement-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
