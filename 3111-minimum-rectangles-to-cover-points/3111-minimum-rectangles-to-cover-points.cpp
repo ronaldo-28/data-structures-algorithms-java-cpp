@@ -1,15 +1,22 @@
 class Solution {
 public:
-    int minRectanglesToCoverPoints(vector<vector<int>>& points, int w) {
-        int ans = 1;
-        sort(points.begin(), points.end());
-        int idx = points[0][0]; // starting point of rectangle
-        for(int i = 1; i < points.size(); i++){
-            if(points[i][0] - idx > w){
-                ans++; // increment the recangle needed by one
-                idx = points[i][0]; // update the starting point
-            }
+    int minRectanglesToCoverPoints(const vector<vector<int>>& points, int w) {
+        const int n = points.size();
+
+        vector<int> xvalue(n);
+        for (int i = 0; i < n; ++i) {
+            xvalue[i] = points[i][0];
         }
-        return ans;
+        sort(xvalue.begin(), xvalue.end());
+        
+        int rect = 0, covered = -1;
+        for (int i = 0; i < n; ++i) {
+            if (xvalue[i] <= covered) continue;
+
+            covered = xvalue[i] + w;
+            ++rect;
+        }
+
+        return rect;
     }
 };
