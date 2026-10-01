@@ -1,17 +1,25 @@
 class Solution {
     public int minRectanglesToCoverPoints(int[][] points, int w) {
-        Arrays.sort(points, (a,b) -> a[0]-b[0]);
-        int count=0;
-        for(int i=0;i<points.length;i++)
-        {
-            int j=i;
-            while((j < points.length) && (points[j][0] - points[i][0] <= w) && (points[i][1] >= 0))
-            {
-                j++;
-            }
+
+        Arrays.sort(points, (a, b) -> Integer.compare(a[0], b[0]));
+
+        int count = 0;
+        int i = 0;
+
+        while (i < points.length) {
+
+            // Start rectangle at the first uncovered point
+            int limit = points[i][0] + w;
+
             count++;
-            i=j-1;
+
+            // Cover all points that fit
+            while (i < points.length &&
+                   points[i][0] <= limit) {
+                i++;
+            }
         }
+
         return count;
     }
 }
