@@ -492,6 +492,7 @@
 | [4052-cyclically-shift-rows-and-columns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4054-count-shadow-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4054-count-shadow-pairs-i) |
 | [4062-transform-array-using-pair-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4062-transform-array-using-pair-operations) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -708,6 +709,7 @@
 | [4019-merge-close-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4019-merge-close-characters-ii) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Sorting
 |  |
 | ------- |
@@ -2288,6 +2290,7 @@
 | [3972-valid-subarrays-with-matching-sum-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3972-valid-subarrays-with-matching-sum-digits-ii) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4033-valid-k-unique-subarrays-i) |
 | [4044-count-good-cyclic-rotations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4044-count-good-cyclic-rotations) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Backtracking
 |  |
 | ------- |
