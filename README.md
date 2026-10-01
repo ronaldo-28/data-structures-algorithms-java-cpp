@@ -491,6 +491,7 @@
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4054-count-shadow-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4054-count-shadow-pairs-i) |
+| [4062-transform-array-using-pair-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4062-transform-array-using-pair-operations) |
 ## Enumeration
 |  |
 | ------- |
@@ -3270,6 +3271,7 @@
 | [1908-game-of-nim](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1908-game-of-nim) |
 | [2505-bitwise-or-of-all-subsequence-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
+| [4062-transform-array-using-pair-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4062-transform-array-using-pair-operations) |
 ## Merge Sort
 |  |
 | ------- |
