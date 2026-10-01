@@ -1,42 +1,35 @@
 class Solution {
 public:
-    vector<int> minimumTime(int n, vector<vector<int>>& v, vector<int>& d) {
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>q;
-        vector<pair<int,int>>adj[n];
-        for(int i=0;i<v.size();i++) {
-            int a=v[i][0],b=v[i][1],t=v[i][2];
-            if(a==b)
-                continue;
-            adj[a].push_back({b,t});
-            adj[b].push_back({a,t});
+    vector<int> minimumTime(int n, vector<vector<int>>& edges, vector<int>& disappear) {
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        vector<vector<pair<int,int>>>adj(n);
+        for(auto&it:edges){
+            int u = it[0];
+            int v = it[1];
+            int w = it[2];
+            adj[u].push_back({v,w});
+            adj[v].push_back({u,w});
         }
-        q.push({0,0});
-        vector<int>dist(n,INT_MAX);
-        vector<bool>vis(n,0);
-        dist[0]=0;
-        while(!q.empty()) {
-            pair<int,int>p=q.top();
-            q.pop();
-            int t=p.first,s=p.second;
-            if(vis[s]==1)
-                continue;
-            if(t>=d[s])
-                continue;
-            vis[s]=1;
-            for(auto i:adj[s]) {
-                if(t+i.second<dist[i.first] && t+i.second<=d[i.first]) {
-                    dist[i.first]=t+i.second;
-                    q.push({t+i.second,i.first});
+        vector<int>dist(n,1e8);
+        dist[0] = 0;
+        pq.push({0,0});
+        while(!pq.empty()){
+            auto it = pq.top();
+            pq.pop();
+            if(it.first!=dist[it.second]) continue;
+            for(auto&itt :adj[it.second]){
+                int newNode= itt.first;
+                int wt = itt.second;
+                if(it.first + wt >= disappear[newNode]) continue;
+                if(it.first+wt<dist[newNode]){
+                    dist[newNode]= it.first+ wt;
+                    pq.push({dist[newNode],newNode});
                 }
             }
         }
-        vector<int>ans;
-        for(int i=0;i<n;i++) {
-            if(dist[i]<d[i]) 
-                ans.push_back(dist[i]);
-            else
-                ans.push_back(-1);
-        }
-        return ans;
+    for(int i =0;i<n;i++){
+        if(dist[i]==1e8) dist[i]= -1;
+    }
+    return dist;
     }
 };
