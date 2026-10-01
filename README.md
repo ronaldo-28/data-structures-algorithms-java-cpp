@@ -389,6 +389,7 @@
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
@@ -1569,6 +1570,7 @@
 | [3048-earliest-second-to-mark-indices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
@@ -2070,6 +2072,7 @@
 | [2764-is-array-a-preorder-of-some-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2764-is-array-a-preorder-of-some-binary-tree) |
 | [2832-maximal-range-that-each-element-is-maximum-in-it](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2832-maximal-range-that-each-element-is-maximum-in-it) |
 | [2863-maximum-length-of-semi-decreasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2863-maximum-length-of-semi-decreasing-subarrays) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
@@ -2117,6 +2120,7 @@
 | [2355-maximum-number-of-books-you-can-take](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2355-maximum-number-of-books-you-can-take) |
 | [2832-maximal-range-that-each-element-is-maximum-in-it](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2832-maximal-range-that-each-element-is-maximum-in-it) |
 | [2863-maximum-length-of-semi-decreasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2863-maximum-length-of-semi-decreasing-subarrays) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
