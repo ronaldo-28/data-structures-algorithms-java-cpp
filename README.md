@@ -493,6 +493,7 @@
 | [4054-count-shadow-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4054-count-shadow-pairs-i) |
 | [4062-transform-array-using-pair-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4062-transform-array-using-pair-operations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -710,6 +711,7 @@
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -1574,6 +1576,7 @@
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
 | [3929-minimum-partition-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3929-minimum-partition-score-ii) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Tree
 |  |
 | ------- |
@@ -2291,6 +2294,7 @@
 | [4033-valid-k-unique-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4033-valid-k-unique-subarrays-i) |
 | [4044-count-good-cyclic-rotations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4044-count-good-cyclic-rotations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Backtracking
 |  |
 | ------- |
