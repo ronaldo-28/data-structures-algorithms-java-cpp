@@ -1042,6 +1042,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0020-valid-parentheses) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0161-one-edit-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0186-reverse-words-in-a-string-ii) |
@@ -2020,6 +2021,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0020-valid-parentheses) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0364-nested-list-weight-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0364-nested-list-weight-sum-ii) |
@@ -3290,6 +3292,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
