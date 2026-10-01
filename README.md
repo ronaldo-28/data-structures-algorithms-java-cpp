@@ -390,6 +390,7 @@
 | [3111-minimum-rectangles-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3115-maximum-prime-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3115-maximum-prime-difference) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
@@ -956,6 +957,7 @@
 | [3099-harshad-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3099-harshad-number) |
 | [3100-water-bottles-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3100-water-bottles-ii) |
 | [3102-minimize-manhattan-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3102-minimize-manhattan-distances) |
+| [3115-maximum-prime-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3115-maximum-prime-difference) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
@@ -1794,6 +1796,7 @@
 | [2992-number-of-self-divisible-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2992-number-of-self-divisible-permutations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3115-maximum-prime-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3115-maximum-prime-difference) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -3318,4 +3321,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
