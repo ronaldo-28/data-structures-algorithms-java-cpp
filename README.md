@@ -1762,6 +1762,7 @@
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3123-find-edges-in-shortest-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3123-find-edges-in-shortest-paths) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3313-find-the-last-marked-nodes-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3313-find-the-last-marked-nodes-in-tree) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
@@ -1907,6 +1908,7 @@
 | [2814-minimum-time-takes-to-reach-destination-without-drowning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2814-minimum-time-takes-to-reach-destination-without-drowning) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3123-find-edges-in-shortest-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3123-find-edges-in-shortest-paths) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
@@ -1982,6 +1984,7 @@
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3123-find-edges-in-shortest-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3123-find-edges-in-shortest-paths) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
@@ -2421,6 +2424,7 @@
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3123-find-edges-in-shortest-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3123-find-edges-in-shortest-paths) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3385-minimum-time-to-break-locks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3385-minimum-time-to-break-locks-ii) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
@@ -2889,6 +2893,7 @@
 | [2714-find-shortest-path-with-k-hops](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2714-find-shortest-path-with-k-hops) |
 | [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3123-find-edges-in-shortest-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3123-find-edges-in-shortest-paths) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
