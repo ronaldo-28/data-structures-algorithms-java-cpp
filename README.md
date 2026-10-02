@@ -683,6 +683,7 @@
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
@@ -1220,6 +1221,7 @@
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
