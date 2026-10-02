@@ -393,6 +393,7 @@
 | [3115-maximum-prime-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
@@ -1402,6 +1403,7 @@
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
@@ -2042,6 +2044,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
