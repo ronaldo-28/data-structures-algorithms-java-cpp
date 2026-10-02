@@ -395,6 +395,7 @@
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3127-make-a-square-with-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3127-make-a-square-with-the-same-color) |
+| [3128-right-triangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3128-right-triangles) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
@@ -687,6 +688,7 @@
 | [3104-find-longest-self-contained-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3104-find-longest-self-contained-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3128-right-triangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3128-right-triangles) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
@@ -966,6 +968,7 @@
 | [3102-minimize-manhattan-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3102-minimize-manhattan-distances) |
 | [3115-maximum-prime-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3128-right-triangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3128-right-triangles) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
@@ -2190,6 +2193,7 @@
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
+| [3128-right-triangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3128-right-triangles) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
@@ -2277,6 +2281,7 @@
 | [2927-distribute-candies-among-children-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2927-distribute-candies-among-children-iii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3518-smallest-palindromic-rearrangement-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3128-right-triangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3128-right-triangles) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
