@@ -1410,6 +1410,7 @@
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
@@ -2326,6 +2327,7 @@
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
