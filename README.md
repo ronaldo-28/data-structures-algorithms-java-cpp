@@ -397,6 +397,7 @@
 | [3127-make-a-square-with-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3127-make-a-square-with-the-same-color) |
 | [3128-right-triangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3128-right-triangles) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
@@ -534,6 +535,7 @@
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3127-make-a-square-with-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3127-make-a-square-with-the-same-color) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -830,6 +832,7 @@
 | [3111-minimum-rectangles-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
@@ -2258,6 +2261,7 @@
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
