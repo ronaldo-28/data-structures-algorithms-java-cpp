@@ -399,6 +399,7 @@
 | [3131-find-the-integer-added-to-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3134-find-the-median-of-the-uniqueness-array) |
+| [3139-minimum-cost-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
@@ -537,6 +538,7 @@
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3127-make-a-square-with-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3127-make-a-square-with-the-same-color) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3132-find-the-integer-added-to-array-ii) |
+| [3139-minimum-cost-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -1527,6 +1529,7 @@
 | [3111-minimum-rectangles-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
+| [3139-minimum-cost-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
