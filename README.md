@@ -1054,6 +1054,7 @@
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3133-minimum-array-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3133-minimum-array-end) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
