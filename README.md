@@ -694,6 +694,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3128-right-triangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3128-right-triangles) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3134-find-the-median-of-the-uniqueness-array) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
@@ -1238,6 +1239,7 @@
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3136-valid-word](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3136-valid-word) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
@@ -2206,6 +2208,7 @@
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3088-make-string-anti-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3088-make-string-anti-palindrome) |
 | [3128-right-triangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3128-right-triangles) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
