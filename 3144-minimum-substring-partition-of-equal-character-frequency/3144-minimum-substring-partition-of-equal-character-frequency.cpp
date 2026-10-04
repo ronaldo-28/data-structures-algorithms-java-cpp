@@ -1,28 +1,23 @@
 class Solution {
 public:
-    bool isBalanced(vector<int> &charFreq){
-        int minFreq = 1001 , maxFreq = 0;
-        for(int Freq : charFreq){
-            if(Freq > 0){
-                minFreq = min(minFreq , Freq);
-                maxFreq = max(maxFreq , Freq);
+    int minimumSubstringsInPartition(string s) {
+        int n = s.length();
+        vector<int> f(n+1, INT_MAX);
+        // recursion boundar: no element to sum, so sum = 0
+        f[0] = 0;
+        for(int i=0; i<n; i++){
+            // have to initilaized
+            int alphabetCnt[26] = {}, k = 0, maxCnt = 0;
+            for(int j = i ; j >= 0; j--){
+                int c = s[j] - 'a';
+                if( alphabetCnt[c] == 0 )
+                    k++;
+                alphabetCnt[c]++;
+                maxCnt = max( maxCnt, alphabetCnt[c] );
+                if( i - j + 1 == k * maxCnt )
+                    f[i+1] = min( f[i + 1], f[j] + 1 );
             }
         }
-        return minFreq == maxFreq;
-    }
-
-    int minimumSubstringsInPartition(string S){
-        int N = S.size();
-        vector<int> DP(N , N);
-        for(int END = 0 ; END < N ; END++){
-            vector<int> charFreq(26 , 0);
-            for(int START = END ; START >= 0 ; START--){
-                charFreq[S[START]-'a']++;
-                if(isBalanced(charFreq)){
-                    DP[END] = START > 0 ? min(DP[END] , 1 + DP[START - 1]) : 1;
-                }
-            }
-        }
-        return DP[N-1];
+        return f[n];
     }
 };
