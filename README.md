@@ -405,6 +405,7 @@
 | [3143-maximum-points-inside-the-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3143-maximum-points-inside-the-square) |
 | [3145-find-products-of-elements-of-big-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3145-find-products-of-elements-of-big-array) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
@@ -1439,6 +1440,7 @@
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
@@ -2088,6 +2090,7 @@
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3127-make-a-square-with-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
