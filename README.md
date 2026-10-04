@@ -402,6 +402,7 @@
 | [3139-minimum-cost-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3143-maximum-points-inside-the-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3143-maximum-points-inside-the-square) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
@@ -698,6 +699,7 @@
 | [3128-right-triangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3128-right-triangles) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3138-minimum-length-of-anagram-concatenation) |
+| [3143-maximum-points-inside-the-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3143-maximum-points-inside-the-square) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
@@ -839,6 +841,7 @@
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3132-find-the-integer-added-to-array-ii) |
+| [3143-maximum-points-inside-the-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3143-maximum-points-inside-the-square) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
@@ -1243,6 +1246,7 @@
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3136-valid-word](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3136-valid-word) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3138-minimum-length-of-anagram-concatenation) |
+| [3143-maximum-points-inside-the-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3143-maximum-points-inside-the-square) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
@@ -1613,6 +1617,7 @@
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
+| [3143-maximum-points-inside-the-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3143-maximum-points-inside-the-square) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
