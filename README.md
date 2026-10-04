@@ -404,6 +404,7 @@
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3143-maximum-points-inside-the-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3143-maximum-points-inside-the-square) |
 | [3145-find-products-of-elements-of-big-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3145-find-products-of-elements-of-big-array) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
@@ -1437,6 +1438,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
@@ -2361,6 +2363,7 @@
 | [3096-minimum-levels-to-gain-more-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
