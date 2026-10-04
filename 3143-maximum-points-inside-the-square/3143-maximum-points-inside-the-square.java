@@ -1,31 +1,29 @@
 class Solution {
-    public int maxPointsInsideSquare(int[][] points, String s) {
-        int[] first = new int[26];
-        int[] second = new int[26];
-        java.util.Arrays.fill(first, Integer.MAX_VALUE);
-        java.util.Arrays.fill(second, Integer.MAX_VALUE);
-        for (int i = 0; i < points.length; i++) {
-            int d = Math.max(Math.abs(points[i][0]), Math.abs(points[i][1]));
-            int c = s.charAt(i) - 'a';
-            if (d < first[c]) {
-                second[c] = first[c];
-                first[c] = d;
-            } else if (d < second[c]) {
-                second[c] = d;
-            }
-        }
-        int limit = Integer.MAX_VALUE;
-        for (int c = 0; c < 26; c++) {
-            if (second[c] != Integer.MAX_VALUE) {
-                limit = Math.min(limit, second[c]);
-            }
-        }
-        int answer = 0;
-        for (int c = 0; c < 26; c++) {
-            if (first[c] < limit) {
-                answer++;
-            }
-        }
-        return answer;
+  public int maxPointsInsideSquare(int[][] points, String s) {
+    int secondMinSize = Integer.MAX_VALUE;
+    int[] minSizes = new int[26];
+    Arrays.fill(minSizes, Integer.MAX_VALUE);
+
+    for (int i = 0; i < points.length; ++i) {
+      final int x = points[i][0];
+      final int y = points[i][1];
+      final int sz = Math.max(Math.abs(x), Math.abs(y));
+      final int j = s.charAt(i) - 'a';
+      if (minSizes[j] == Integer.MAX_VALUE) {
+        minSizes[j] = sz;
+      } else if (sz < minSizes[j]) {
+        // This is because minSizes[j] is about to be replaced by a smaller
+        // value, so it becomes a candidate for the second minimum size.
+        secondMinSize = Math.min(secondMinSize, minSizes[j]);
+        minSizes[j] = sz;
+      } else {
+        // `sz` is not smaller than the current minimum size, but it could be
+        // smaller than the current second minimum size.
+        secondMinSize = Math.min(secondMinSize, sz);
+      }
     }
+
+    final int finalSecondMinSize = secondMinSize;
+    return (int) Arrays.stream(minSizes).filter(sz -> sz < finalSecondMinSize).count();
+  }
 }
