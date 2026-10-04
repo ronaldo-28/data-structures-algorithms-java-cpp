@@ -403,6 +403,7 @@
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3143-maximum-points-inside-the-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3143-maximum-points-inside-the-square) |
+| [3145-find-products-of-elements-of-big-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3145-find-products-of-elements-of-big-array) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
@@ -1066,6 +1067,7 @@
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3133-minimum-array-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3133-minimum-array-end) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
+| [3145-find-products-of-elements-of-big-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3145-find-products-of-elements-of-big-array) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
@@ -1621,6 +1623,7 @@
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3143-maximum-points-inside-the-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3143-maximum-points-inside-the-square) |
+| [3145-find-products-of-elements-of-big-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3145-find-products-of-elements-of-big-array) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
