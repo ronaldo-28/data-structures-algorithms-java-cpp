@@ -407,6 +407,7 @@
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3149-find-the-minimum-cost-array-permutation) |
+| [3151-special-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3151-special-array-i) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
