@@ -409,6 +409,7 @@
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3151-special-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3151-special-array-i) |
 | [3152-special-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3152-special-array-ii) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
@@ -708,6 +709,7 @@
 | [3143-maximum-points-inside-the-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3143-maximum-points-inside-the-square) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3146-permutation-difference-between-two-strings) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
@@ -990,6 +992,7 @@
 | [3115-maximum-prime-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3128-right-triangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3128-right-triangles) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
@@ -2239,6 +2242,7 @@
 | [3128-right-triangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3128-right-triangles) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
