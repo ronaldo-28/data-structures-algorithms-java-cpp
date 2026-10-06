@@ -416,6 +416,7 @@
 | [3161-block-placement-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3161-block-placement-queries) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3164-find-the-number-of-good-pairs-ii) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
@@ -1463,6 +1464,7 @@
 | [3148-maximum-difference-score-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
@@ -2576,6 +2578,7 @@
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3161-block-placement-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3161-block-placement-queries) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3930-power-update-after-k-th-largest-insertion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3930-power-update-after-k-th-largest-insertion-ii) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
@@ -3324,6 +3327,7 @@
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
 | [2792-count-nodes-that-are-great-enough](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2792-count-nodes-that-are-great-enough) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
 ## Boyer–Moore Majority Vote Algorithm
