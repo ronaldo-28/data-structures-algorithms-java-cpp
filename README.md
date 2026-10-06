@@ -415,6 +415,7 @@
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3161-block-placement-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3161-block-placement-queries) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3164-find-the-number-of-good-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
@@ -717,6 +718,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3164-find-the-number-of-good-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
