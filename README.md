@@ -1272,6 +1272,7 @@
 | [3143-maximum-points-inside-the-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3143-maximum-points-inside-the-square) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3146-permutation-difference-between-two-strings) |
+| [3163-string-compression-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3163-string-compression-iii) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
