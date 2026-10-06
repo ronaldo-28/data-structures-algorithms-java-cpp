@@ -1277,6 +1277,7 @@
 | [3146-permutation-difference-between-two-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3146-permutation-difference-between-two-strings) |
 | [3163-string-compression-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3163-string-compression-iii) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
@@ -1911,6 +1912,7 @@
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3100-water-bottles-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3100-water-bottles-ii) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
