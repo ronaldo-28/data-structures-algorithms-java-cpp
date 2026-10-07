@@ -417,6 +417,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
@@ -1092,6 +1093,7 @@
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
@@ -1661,6 +1663,7 @@
 | [3152-special-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3152-special-array-ii) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3161-block-placement-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3161-block-placement-queries) |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
@@ -2586,6 +2589,7 @@
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3161-block-placement-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3161-block-placement-queries) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3930-power-update-after-k-th-largest-insertion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3930-power-update-after-k-th-largest-insertion-ii) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
