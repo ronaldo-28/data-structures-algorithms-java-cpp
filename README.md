@@ -420,6 +420,7 @@
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
@@ -724,6 +725,7 @@
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
@@ -1472,6 +1474,7 @@
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
