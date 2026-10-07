@@ -419,6 +419,7 @@
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
@@ -1921,6 +1922,7 @@
 | [3100-water-bottles-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3100-water-bottles-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3174-clear-digits) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
