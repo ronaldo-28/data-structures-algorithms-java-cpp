@@ -1012,6 +1012,7 @@
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
@@ -1929,6 +1930,7 @@
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3174-clear-digits) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
