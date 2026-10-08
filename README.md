@@ -426,6 +426,7 @@
 | [3180-maximum-total-reward-using-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
@@ -731,6 +732,7 @@
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
@@ -2298,6 +2300,7 @@
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3167-better-compression-of-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3167-better-compression-of-string) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
