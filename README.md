@@ -430,6 +430,7 @@
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3187-peaks-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3187-peaks-in-array) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
@@ -1025,6 +1026,7 @@
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
