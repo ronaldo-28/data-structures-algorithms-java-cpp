@@ -1170,6 +1170,7 @@
 | [0772-basic-calculator-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0772-basic-calculator-iii) |
 | [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
 | [0940-distinct-subsequences-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1021-remove-outermost-parentheses) |
 | [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
 | [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
 | [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
@@ -2165,6 +2166,7 @@
 | [0536-construct-binary-tree-from-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0536-construct-binary-tree-from-string) |
 | [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
 | [0772-basic-calculator-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0772-basic-calculator-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1021-remove-outermost-parentheses) |
 | [1063-number-of-valid-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1063-number-of-valid-subarrays) |
 | [1087-brace-expansion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1087-brace-expansion) |
 | [1096-brace-expansion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1096-brace-expansion-ii) |
@@ -3462,6 +3464,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
