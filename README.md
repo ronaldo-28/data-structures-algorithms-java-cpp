@@ -428,6 +428,7 @@
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3187-peaks-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3187-peaks-in-array) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
@@ -2628,6 +2629,7 @@
 | [3161-block-placement-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3161-block-placement-queries) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
+| [3187-peaks-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3187-peaks-in-array) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3930-power-update-after-k-th-largest-insertion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3930-power-update-after-k-th-largest-insertion-ii) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
@@ -2653,6 +2655,7 @@
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3161-block-placement-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3161-block-placement-queries) |
+| [3187-peaks-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3187-peaks-in-array) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4033-valid-k-unique-subarrays-i) |
 ## DP on Trees
