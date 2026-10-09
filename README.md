@@ -434,6 +434,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3193-count-the-number-of-inversions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3193-count-the-number-of-inversions) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
@@ -2167,6 +2168,7 @@
 | [3127-make-a-square-with-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
