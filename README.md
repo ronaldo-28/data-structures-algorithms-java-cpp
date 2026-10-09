@@ -433,6 +433,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3193-count-the-number-of-inversions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3193-count-the-number-of-inversions) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
@@ -885,6 +886,7 @@
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
@@ -2377,6 +2379,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
