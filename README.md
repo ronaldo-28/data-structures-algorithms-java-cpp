@@ -435,6 +435,7 @@
 | [3193-count-the-number-of-inversions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3193-count-the-number-of-inversions) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
@@ -1508,6 +1509,7 @@
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3193-count-the-number-of-inversions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3193-count-the-number-of-inversions) |
+| [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3269-constructing-two-increasing-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3269-constructing-two-increasing-arrays) |
