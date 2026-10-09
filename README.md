@@ -436,6 +436,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3196-maximize-total-cost-of-alternating-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3196-maximize-total-cost-of-alternating-subarrays) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
@@ -570,6 +571,7 @@
 | [3127-make-a-square-with-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3127-make-a-square-with-the-same-color) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3139-minimum-cost-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3139-minimum-cost-to-equalize-array) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -2171,6 +2173,7 @@
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
