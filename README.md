@@ -443,6 +443,7 @@
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3206-alternating-groups-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3206-alternating-groups-i) |
+| [3207-maximum-points-after-enemy-battles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
@@ -1627,6 +1628,7 @@
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
+| [3207-maximum-points-after-enemy-battles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
