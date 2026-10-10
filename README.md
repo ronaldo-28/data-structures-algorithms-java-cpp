@@ -1324,6 +1324,7 @@
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3174-clear-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3174-clear-digits) |
+| [3210-find-the-encrypted-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3210-find-the-encrypted-string) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
