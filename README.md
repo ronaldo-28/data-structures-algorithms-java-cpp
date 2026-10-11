@@ -446,6 +446,7 @@
 | [3207-maximum-points-after-enemy-battles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3208-alternating-groups-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3208-alternating-groups-ii) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
@@ -2192,6 +2193,7 @@
 | [3148-maximum-difference-score-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
@@ -2482,6 +2484,7 @@
 | [3152-special-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3152-special-array-ii) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
