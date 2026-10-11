@@ -447,6 +447,7 @@
 | [3208-alternating-groups-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3208-alternating-groups-ii) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3213-construct-string-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3213-construct-string-with-minimum-cost) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
@@ -1328,6 +1329,7 @@
 | [3174-clear-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3210-find-the-encrypted-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3213-construct-string-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3213-construct-string-with-minimum-cost) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
@@ -1530,6 +1532,7 @@
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
+| [3213-construct-string-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3213-construct-string-with-minimum-cost) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3269-constructing-two-increasing-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3269-constructing-two-increasing-arrays) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
@@ -3341,6 +3344,7 @@
 | ------- |
 | [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
 | [1698-number-of-distinct-substrings-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1698-number-of-distinct-substrings-in-a-string) |
+| [3213-construct-string-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3213-construct-string-with-minimum-cost) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 ## Suffix Automaton
 |  |
