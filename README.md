@@ -1136,6 +1136,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1325,6 +1326,7 @@
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3174-clear-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3210-find-the-encrypted-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
@@ -2518,6 +2520,7 @@
 | [2664-the-knights-tour](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2664-the-knights-tour) |
 | [2992-number-of-self-divisible-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2992-number-of-self-divisible-permutations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3437-permutations-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3437-permutations-iii) |
 ## Bitmask
 |  |
