@@ -449,6 +449,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3213-construct-string-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3213-construct-string-with-minimum-cost) |
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
@@ -754,6 +755,7 @@
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
@@ -1933,6 +1935,7 @@
 | [2674-split-a-circular-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2674-split-a-circular-linked-list) |
 | [3062-winner-of-the-linked-list-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3062-winner-of-the-linked-list-game) |
 | [3063-linked-list-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3063-linked-list-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 ## Number Theory
