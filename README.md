@@ -1054,6 +1054,7 @@
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3227-vowels-game-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3227-vowels-game-in-a-string) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
@@ -1341,6 +1342,7 @@
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3213-construct-string-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3213-construct-string-with-minimum-cost) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3227-vowels-game-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3227-vowels-game-in-a-string) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
@@ -2660,6 +2662,7 @@
 | [2029-stone-game-ix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2029-stone-game-ix) |
 | [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3227-vowels-game-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3227-vowels-game-in-a-string) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -3522,6 +3525,7 @@
 | ------- |
 | [1908-game-of-nim](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1908-game-of-nim) |
 | [2505-bitwise-or-of-all-subsequence-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
+| [3227-vowels-game-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3227-vowels-game-in-a-string) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
 | [4062-transform-array-using-pair-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4062-transform-array-using-pair-operations) |
 ## Merge Sort
