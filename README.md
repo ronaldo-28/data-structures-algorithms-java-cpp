@@ -1051,6 +1051,7 @@
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
@@ -1999,6 +2000,7 @@
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
@@ -2653,6 +2655,7 @@
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2029-stone-game-ix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2029-stone-game-ix) |
 | [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Knapsack Problem
 |  |
 | ------- |
