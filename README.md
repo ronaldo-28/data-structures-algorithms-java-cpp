@@ -1343,6 +1343,7 @@
 | [3213-construct-string-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3213-construct-string-with-minimum-cost) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3227-vowels-game-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3227-vowels-game-in-a-string) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
@@ -1658,6 +1659,7 @@
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -2367,6 +2369,7 @@
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3189-minimum-moves-to-get-a-peaceful-board](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3189-minimum-moves-to-get-a-peaceful-board) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
