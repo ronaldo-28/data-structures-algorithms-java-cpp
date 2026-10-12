@@ -454,6 +454,7 @@
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
@@ -1548,6 +1549,7 @@
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3213-construct-string-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3213-construct-string-with-minimum-cost) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3269-constructing-two-increasing-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3269-constructing-two-increasing-arrays) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
@@ -1660,6 +1662,7 @@
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -2272,6 +2275,7 @@
 | [3174-clear-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3174-clear-digits) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
@@ -2321,6 +2325,7 @@
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3205-maximum-array-hopping-score-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3205-maximum-array-hopping-score-i) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [4045-count-robot-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4045-count-robot-groups) |
