@@ -462,6 +462,7 @@
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3238-find-the-number-of-winning-players](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3238-find-the-number-of-winning-players) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3269-constructing-two-increasing-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3269-constructing-two-increasing-arrays) |
@@ -2240,6 +2241,7 @@
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
@@ -2459,6 +2461,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
