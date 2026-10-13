@@ -456,6 +456,7 @@
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3263-convert-doubly-linked-list-to-array-i) |
@@ -1058,6 +1059,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3227-vowels-game-in-a-string) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
