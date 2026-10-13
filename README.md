@@ -590,6 +590,7 @@
 | [3139-minimum-cost-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3200-maximum-height-of-a-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3200-maximum-height-of-a-triangle) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -1351,6 +1352,7 @@
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3227-vowels-game-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3227-vowels-game-in-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
