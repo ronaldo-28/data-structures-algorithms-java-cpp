@@ -1,18 +1,12 @@
 class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
-        // Step 1: the biggest possible digit sum is 9 * num
-        if (sum > 9 * num) return "";
-
-        string ans;
-
-        // Step 2: fill every position from left to right
-        while (num-- > 0) {
-            int digit = min(9, sum);   // take as much as we can, at most 9
-            ans += char('0' + digit);
-            sum -= digit;
-        }
-
-        return sum == 0 ? ans : "";
+        if (sum < 1 || sum > 9*num) return "";
+        string res; res.reserve(num);
+        int n = sum / 9, r = sum % 9;
+        res.append(n, '9'); num -= n;
+        if (r) res += '0' + r, --num;
+        res.append(num, '0');
+        return res;
     }
 };
