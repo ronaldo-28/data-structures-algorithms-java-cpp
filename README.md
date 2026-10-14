@@ -464,6 +464,7 @@
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3242-design-neighbor-sum-service](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3242-design-neighbor-sum-service) |
+| [3245-alternating-groups-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3245-alternating-groups-iii) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3269-constructing-two-increasing-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3269-constructing-two-increasing-arrays) |
@@ -2327,6 +2328,7 @@
 | [3102-minimize-manhattan-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3102-minimize-manhattan-distances) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3161-block-placement-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3161-block-placement-queries) |
+| [3245-alternating-groups-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3245-alternating-groups-iii) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
@@ -2761,6 +2763,7 @@
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3161-block-placement-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3161-block-placement-queries) |
 | [3187-peaks-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3187-peaks-in-array) |
+| [3245-alternating-groups-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3245-alternating-groups-iii) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4033-valid-k-unique-subarrays-i) |
 ## DP on Trees
