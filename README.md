@@ -463,6 +463,7 @@
 | [3238-find-the-number-of-winning-players](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3238-find-the-number-of-winning-players) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
+| [3242-design-neighbor-sum-service](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3242-design-neighbor-sum-service) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3269-constructing-two-increasing-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3269-constructing-two-increasing-arrays) |
@@ -771,6 +772,7 @@
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
 | [3238-find-the-number-of-winning-players](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3238-find-the-number-of-winning-players) |
+| [3242-design-neighbor-sum-service](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3242-design-neighbor-sum-service) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
@@ -2031,6 +2033,7 @@
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3237-alt-and-tab-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3237-alt-and-tab-simulation) |
+| [3242-design-neighbor-sum-service](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3242-design-neighbor-sum-service) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
@@ -2244,6 +2247,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
+| [3242-design-neighbor-sum-service](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3242-design-neighbor-sum-service) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
@@ -3022,6 +3026,7 @@
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [2254-design-video-sharing-platform](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2254-design-video-sharing-platform) |
 | [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
+| [3242-design-neighbor-sum-service](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3242-design-neighbor-sum-service) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3822-design-order-management-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3822-design-order-management-system) |
