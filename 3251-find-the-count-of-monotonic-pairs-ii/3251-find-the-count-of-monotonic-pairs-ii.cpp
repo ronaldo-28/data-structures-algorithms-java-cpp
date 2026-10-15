@@ -1,38 +1,53 @@
 class Solution {
-public:
-    int MOD = 1e9 + 7;
+private:
+    const int MOD = 1e9 + 7;
 
+    // Modular exponentiation to compute modular inverse
+    long long power(long long base, long long exp) {
+        long long res = 1;
+        base %= MOD;
+        while (exp > 0) {
+            if (exp % 2 == 1) res = (res * base) % MOD;
+            base = (base * base) % MOD;
+            exp /= 2;
+        }
+        return res;
+    }
+
+    // Modular inverse using Fermat's Little Theorem
+    long long modInverse(long long n) {
+        return power(n, MOD - 2);
+    }
+
+    // Computes nCr % MOD in O(r) time
+    long long nCr(int n, int r) {
+        if (r < 0 || r > n) return 0;
+        if (r == 0 || r == n) return 1;
+        if (r > n / 2) r = n - r;
+
+        long long num = 1, den = 1;
+        for (int i = 0; i < r; ++i) {
+            num = (num * (n - i)) % MOD;
+            den = (den * (i + 1)) % MOD;
+        }
+
+        return (num * modInverse(den)) % MOD;
+    }
+
+public:
     int countOfPairs(vector<int>& nums) {
         int n = nums.size();
-        vector<int> arr1(n);
-        vector<int> arr2(n);
-        vector<vector<int>> dp(n, vector<int>(1001, 0));
-        for (int j = 0; j <= nums[0]; j++)
-            dp[0][j] = 1;
-        for (int i = 1; i < n; i++){
-            int ways = 0;
-            int k = 0;
-            for (int j = 0; j <= nums[i]; j++){
-                // problem I
-                // for (int j = 0; j <= nums[i]; j++){
-                //     int ways = 0;
-                //     for (int k = 0; k <= 50; k++){
-                //         if (k <= j && nums[i - 1] - k >= nums[i] - j)
-                //             ways = (ways + dp[i - 1][k]) % MOD;
-                //     }
-                //     dp[i][j] = ways;
-                // }
-                // problem II
-                if (k <= min(j, j - (nums[i] - nums[i - 1]))){
-                    ways = (ways + dp[i - 1][k]) % MOD;
-                    k++;
-                }
-                dp[i][j] = ways;
-            }
+        
+        // Calculate total forced increase S
+        int S = 0;
+        for (int i = 1; i < n; ++i) {
+            S += max(0, nums[i] - nums[i - 1]);
         }
-        int res = 0;
-        for (int i = 0; i <= 1000; i++)
-            res = (res + dp[n - 1][i]) % MOD;
-        return res;
+
+        int K = nums.back() - S;
+        if (K < 0) return 0;
+
+        // Answer is (K + n) C n
+        return nCr(K + n, n);
     }
 };
