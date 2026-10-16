@@ -19,7 +19,6 @@ public:
             prev[r] = l;
         }
 
-        <!-- Calculating prefix sums -->
         pre[0]=1;
         for(int i=1;i<n;i++)
         {
@@ -31,7 +30,6 @@ public:
             long long r = q[1];
             long long cur = 0;
             long long pos=r+1;
-            <!-- Finding pos -->
             while(l<=r)
             {
                 long long mid = (l+r)/2;
@@ -42,8 +40,6 @@ public:
                 } 
                 else l=mid+1;
             }
-
-            <!-- If there exists such index -->
             
             if(pos<=q[1])
             {
