@@ -1,4 +1,4 @@
-\class Solution {
+class Solution {
     public long[] countKConstraintSubstrings(String s, int k, int[][] queries) {
         int n = s.length(), m = queries.length;
         
