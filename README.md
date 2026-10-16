@@ -1078,6 +1078,7 @@
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
+| [3270-find-the-key-of-the-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3270-find-the-key-of-the-numbers) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
