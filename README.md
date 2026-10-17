@@ -1089,6 +1089,7 @@
 | [3270-find-the-key-of-the-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3270-find-the-key-of-the-numbers) |
 | [3272-find-the-count-of-good-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3272-find-the-count-of-good-integers) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3280-convert-date-to-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3280-convert-date-to-binary) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -1384,6 +1385,7 @@
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
+| [3280-convert-date-to-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3280-convert-date-to-binary) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
