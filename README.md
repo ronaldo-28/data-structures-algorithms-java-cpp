@@ -472,6 +472,7 @@
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3269-constructing-two-increasing-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3269-constructing-two-increasing-arrays) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
@@ -930,6 +931,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
@@ -1700,6 +1702,7 @@
 | [3221-maximum-array-hopping-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
