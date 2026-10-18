@@ -480,6 +480,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3285-find-indices-of-stable-mountains) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3287-find-the-maximum-sequence-value-of-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
@@ -788,6 +789,7 @@
 | [3242-design-neighbor-sum-service](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3242-design-neighbor-sum-service) |
 | [3272-find-the-count-of-good-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3272-find-the-count-of-good-integers) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
@@ -1095,6 +1097,7 @@
 | [3272-find-the-count-of-good-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3272-find-the-count-of-good-integers) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3280-convert-date-to-binary) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
