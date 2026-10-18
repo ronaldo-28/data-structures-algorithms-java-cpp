@@ -475,6 +475,7 @@
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
@@ -933,6 +934,7 @@
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
@@ -1710,6 +1712,7 @@
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -1801,6 +1804,7 @@
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
