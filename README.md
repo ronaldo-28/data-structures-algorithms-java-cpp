@@ -479,6 +479,7 @@
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3285-find-indices-of-stable-mountains) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3287-find-the-maximum-sequence-value-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
@@ -1191,6 +1192,7 @@
 | [3215-count-triplets-with-even-xor-set-bits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3215-count-triplets-with-even-xor-set-bits-ii) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3287-find-the-maximum-sequence-value-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
@@ -1603,6 +1605,7 @@
 | [3269-constructing-two-increasing-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3269-constructing-two-increasing-arrays) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
+| [3287-find-the-maximum-sequence-value-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
