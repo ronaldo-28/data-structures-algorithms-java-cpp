@@ -481,6 +481,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3290-maximum-multiplication-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3290-maximum-multiplication-score) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
@@ -1609,6 +1610,7 @@
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3287-find-the-maximum-sequence-value-of-array) |
+| [3290-maximum-multiplication-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3290-maximum-multiplication-score) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
