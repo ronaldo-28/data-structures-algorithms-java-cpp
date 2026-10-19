@@ -482,6 +482,7 @@
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3290-maximum-multiplication-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3290-maximum-multiplication-score) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
@@ -1396,6 +1397,7 @@
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
 | [3280-convert-date-to-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3280-convert-date-to-binary) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
@@ -1611,6 +1613,7 @@
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3290-maximum-multiplication-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3290-maximum-multiplication-score) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
@@ -1723,6 +1726,7 @@
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -1815,6 +1819,7 @@
 | [3231-minimum-number-of-increasing-subsequence-to-be-removed](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3231-minimum-number-of-increasing-subsequence-to-be-removed) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
@@ -2673,6 +2678,7 @@
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -2791,6 +2797,7 @@
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3187-peaks-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3187-peaks-in-array) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3930-power-update-after-k-th-largest-insertion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3930-power-update-after-k-th-largest-insertion-ii) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
@@ -2854,6 +2861,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3076-shortest-uncommon-substring-in-an-array) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3758-convert-number-words-to-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3758-convert-number-words-to-digits) |
@@ -2933,6 +2941,7 @@
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 ## Hash Function
 |  |
@@ -2954,6 +2963,7 @@
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 | [3991-sort-array-using-prefix-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3991-sort-array-using-prefix-reversals) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4033-valid-k-unique-subarrays-i) |
