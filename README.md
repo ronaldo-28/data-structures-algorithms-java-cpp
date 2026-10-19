@@ -485,6 +485,7 @@
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3353-minimum-total-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3353-minimum-total-operations) |
@@ -1101,6 +1102,7 @@
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -1731,6 +1733,7 @@
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -1825,6 +1828,7 @@
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
@@ -2233,6 +2237,7 @@
 | [3123-find-edges-in-shortest-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3123-find-edges-in-shortest-paths) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
