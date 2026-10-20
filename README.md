@@ -489,6 +489,7 @@
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3353-minimum-total-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3353-minimum-total-operations) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
@@ -616,6 +617,7 @@
 | [3200-maximum-height-of-a-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3200-maximum-height-of-a-triangle) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3272-find-the-count-of-good-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3272-find-the-count-of-good-integers) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -1211,6 +1213,7 @@
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
