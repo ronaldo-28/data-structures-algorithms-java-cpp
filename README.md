@@ -1110,6 +1110,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -1209,6 +1210,7 @@
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
@@ -3149,6 +3151,7 @@
 | [0776-split-bst](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0776-split-bst) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 ## Iterator
 |  |
