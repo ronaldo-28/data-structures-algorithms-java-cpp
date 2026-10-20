@@ -488,6 +488,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3353-minimum-total-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3353-minimum-total-operations) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
@@ -947,6 +948,7 @@
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
@@ -1742,6 +1744,7 @@
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
