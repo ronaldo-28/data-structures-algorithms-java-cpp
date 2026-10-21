@@ -1117,6 +1117,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
+| [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -1645,6 +1646,7 @@
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
@@ -2593,6 +2595,7 @@
 | [3247-number-of-subsequences-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3247-number-of-subsequences-with-odd-sum) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3272-find-the-count-of-good-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3272-find-the-count-of-good-integers) |
+| [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
 ## Prefix Sum
