@@ -491,6 +491,7 @@
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3353-minimum-total-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3353-minimum-total-operations) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
@@ -1216,6 +1217,7 @@
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
