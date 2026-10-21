@@ -492,6 +492,7 @@
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3323-minimize-connected-groups-by-inserting-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3323-minimize-connected-groups-by-inserting-interval) |
 | [3353-minimum-total-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3353-minimum-total-operations) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
@@ -803,6 +804,7 @@
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
@@ -1421,6 +1423,7 @@
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
@@ -1641,6 +1644,7 @@
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
@@ -2557,6 +2561,7 @@
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3284-sum-of-consecutive-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3284-sum-of-consecutive-subarrays) |
+| [3316-find-maximum-removals-from-source-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
