@@ -1427,6 +1427,7 @@
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3320-count-the-number-of-winning-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3320-count-the-number-of-winning-sequences) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
@@ -1650,6 +1651,7 @@
 | [3299-sum-of-consecutive-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3299-sum-of-consecutive-subsequences) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
+| [3320-count-the-number-of-winning-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3320-count-the-number-of-winning-sequences) |
 | [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
