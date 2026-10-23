@@ -1,25 +1,18 @@
-const int mod = 1e9 + 7;
-int mod_add(int a, int b) {a = a % mod; b = b % mod; return (((a + b) % mod) + mod) % mod;}
-
 class Solution {
 public:
+    typedef unsigned long long u64;
     int lengthAfterTransformations(string s, int t) {
-        int nums[26] = {0};
-        for (char ch : s) nums[ch - 'a']++;
-        while (t--) {
-            int cur[26] = {0};
-            for (int j = 0; j < 26; j++) {
-                if (j == 25 && nums[j] > 0) {
-                    cur[0] = mod_add(cur[0], nums[j]);
-                    cur[1] = mod_add(cur[1], nums[j]);
-                } else {
-                    if (j < 25) cur[j + 1] = mod_add(cur[j + 1], nums[j]);
-                }
-            }
-            for (int j = 0; j < 26; j++) nums[j] = cur[j];
-        }
-        int ans = 0;
-        for (int i : nums) ans = mod_add(ans, i);
-        return (int)ans;
+        u64* alens = new u64[t+26];
+        for (int i = 0; i < 26; i++) // length 1 for each. starting from a
+            alens[i] = (unsigned)1;
+
+        for (u64 i = 26; i < t + 26; i++)
+            alens[i] = (alens[i-26] + alens[i-25]) % (u64)(1e9 + 7);
+
+        u64 total = 0;
+        for (unsigned char c : s)
+            total = (total + alens[t + (c - 'a')]) % (u64)(1e9 + 7);
+        
+        return total;
     }
 };
