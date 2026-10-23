@@ -1446,6 +1446,7 @@
 | [3333-find-the-original-typed-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3333-find-the-original-typed-string-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3337-total-characters-in-string-after-transformations-ii) |
+| [3340-check-balanced-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3340-check-balanced-string) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
