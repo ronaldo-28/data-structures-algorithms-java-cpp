@@ -1,43 +1,33 @@
 class Solution {
-public:
-    // we're storing the occurences of each char in a vec //
-    // size: (26,_) - one vec for each char seen so far
-    vector<vector<int>> state;  
+    vector<vector<int>> children;
+    vector<int> newParent, sz;
+    int last[26];
+    string str;
 
-    vector<vector<int>> adj;
-    vector<bool> vis;
-    vector<int> subtreeSizes;
-    
-    void dfs(int node, string& s) {
-        vis[node]=true;
-        subtreeSizes[node] = 1; 
+    void dfs(int u) {
+        int c = str[u] - 'a';
+        int prev = last[c];
+        if (u != 0 && prev != -1) newParent[u] = prev;   // najbliższy przodek z tą samą literą
 
-        state[s[node]-'a'].push_back(node);
-        for(auto v: adj[node]) {
-            if(!vis[v]) {
-                dfs(v, s);
-                /** above dfs will calculate subtree size rooted at v, now the imp part is which ancestor to add this zie to?? */
-                
-                // if s[v]-'a' has a matching, add to matched node
-                int ind = s[v]-'a';
-                if(state[ind].empty()) subtreeSizes[node] += subtreeSizes[v]; 
-                else subtreeSizes[state[ind].back()] += subtreeSizes[v]; 
-            }
-        }
-        state[s[node]-'a'].pop_back();     // backtrack
+        last[c] = u;
+        for (int v : children[u]) dfs(v);
+        last[c] = prev;                                  // przywracamy przy wyjściu
+
+        if (u != 0) sz[newParent[u]] += sz[u];           // dorzucamy rozmiar do NOWEGO rodzica
     }
 
+public:
     vector<int> findSubtreeSizes(vector<int>& parent, string s) {
         int n = parent.size();
-        adj.resize(n); 
-        for(int i=1; i<n; i++) {
-            adj[parent[i]].push_back(i);
-        }
+        str = s;
+        children.assign(n, {});
+        for (int i = 1; i < n; ++i) children[parent[i]].push_back(i);
 
-        state.resize(26);
-        vis.assign(n, false);
-        subtreeSizes.resize(n, 0);
-        dfs(0, s);
-        return subtreeSizes;
+        newParent = parent;
+        sz.assign(n, 1);
+        fill(begin(last), end(last), -1);
+
+        dfs(0);
+        return sz;
     }
 };
