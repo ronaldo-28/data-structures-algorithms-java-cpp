@@ -1435,6 +1435,7 @@
 | [3320-count-the-number-of-winning-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3320-count-the-number-of-winning-sequences) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3333-find-the-original-typed-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3333-find-the-original-typed-string-ii) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
@@ -1660,6 +1661,7 @@
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3320-count-the-number-of-winning-sequences) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3332-maximum-points-tourist-can-earn) |
+| [3333-find-the-original-typed-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3333-find-the-original-typed-string-ii) |
 | [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
@@ -2666,6 +2668,7 @@
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3279-maximum-total-area-occupied-by-pistons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3279-maximum-total-area-occupied-by-pistons) |
+| [3333-find-the-original-typed-string-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3333-find-the-original-typed-string-ii) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
