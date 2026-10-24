@@ -504,6 +504,7 @@
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3353-minimum-total-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3353-minimum-total-operations) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
@@ -1900,6 +1901,7 @@
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
