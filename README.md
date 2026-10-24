@@ -500,6 +500,7 @@
 | [3332-maximum-points-tourist-can-earn](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3353-minimum-total-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3353-minimum-total-operations) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
@@ -2304,6 +2305,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
@@ -2379,6 +2381,7 @@
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3332-maximum-points-tourist-can-earn) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
@@ -2803,6 +2806,7 @@
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3123-find-edges-in-shortest-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3385-minimum-time-to-break-locks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3385-minimum-time-to-break-locks-ii) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
@@ -3297,6 +3301,7 @@
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3123-find-edges-in-shortest-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
