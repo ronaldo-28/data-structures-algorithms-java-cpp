@@ -1062,6 +1062,7 @@
 | [2152-minimum-number-of-lines-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2152-minimum-number-of-lines-to-cover-points) |
 | [2189-number-of-ways-to-build-house-of-cards](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [2393-count-strictly-increasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2393-count-strictly-increasing-subarrays) |
+| [2409-count-days-spent-together](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2409-count-days-spent-together) |
 | [2417-closest-fair-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2417-closest-fair-integer) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2450-number-of-distinct-binary-strings-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2450-number-of-distinct-binary-strings-after-applying-operations) |
@@ -1371,6 +1372,7 @@
 | [2268-minimum-number-of-keypresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2268-minimum-number-of-keypresses) |
 | [2307-check-for-contradictions-in-equations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2307-check-for-contradictions-in-equations) |
 | [2330-valid-palindrome-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2330-valid-palindrome-iv) |
+| [2409-count-days-spent-together](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2409-count-days-spent-together) |
 | [2450-number-of-distinct-binary-strings-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2450-number-of-distinct-binary-strings-after-applying-operations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2489-number-of-substrings-with-fixed-ratio](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2489-number-of-substrings-with-fixed-ratio) |
