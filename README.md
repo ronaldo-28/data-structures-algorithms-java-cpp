@@ -503,6 +503,7 @@
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3353-minimum-total-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3353-minimum-total-operations) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
