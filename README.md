@@ -116,6 +116,7 @@
 | [1231-divide-chocolate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1231-divide-chocolate) |
 | [1243-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1243-array-transformation) |
 | [1246-palindrome-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1246-palindrome-removal) |
+| [1254-number-of-closed-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1254-number-of-closed-islands) |
 | [1257-smallest-common-region](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1257-smallest-common-region) |
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
 | [1272-remove-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1272-remove-interval) |
@@ -2029,6 +2030,7 @@
 | [1236-web-crawler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1236-web-crawler) |
 | [1242-web-crawler-multithreaded](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1242-web-crawler-multithreaded) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
+| [1254-number-of-closed-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1254-number-of-closed-islands) |
 | [1257-smallest-common-region](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1257-smallest-common-region) |
 | [1273-delete-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1273-delete-tree-nodes) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
@@ -2208,6 +2210,7 @@
 | [1236-web-crawler](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1236-web-crawler) |
 | [1242-web-crawler-multithreaded](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1242-web-crawler-multithreaded) |
 | [1245-tree-diameter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1245-tree-diameter) |
+| [1254-number-of-closed-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1254-number-of-closed-islands) |
 | [1257-smallest-common-region](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1257-smallest-common-region) |
 | [1273-delete-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1273-delete-tree-nodes) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
@@ -2259,6 +2262,7 @@
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1168-optimize-water-distribution-in-a-village) |
+| [1254-number-of-closed-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1254-number-of-closed-islands) |
 | [1258-synonymous-sentences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1258-synonymous-sentences) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
@@ -2351,6 +2355,7 @@
 | [0750-number-of-corner-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0750-number-of-corner-rectangles) |
 | [1102-path-with-maximum-minimum-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1102-path-with-maximum-minimum-value) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1254-number-of-closed-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1254-number-of-closed-islands) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1730-shortest-path-to-get-food](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1730-shortest-path-to-get-food) |
 | [1778-shortest-path-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1778-shortest-path-in-a-hidden-grid) |
