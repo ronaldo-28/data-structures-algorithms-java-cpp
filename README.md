@@ -506,6 +506,7 @@
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3351-sum-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3351-sum-of-good-subsequences) |
 | [3353-minimum-total-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3353-minimum-total-operations) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
@@ -823,6 +824,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3337-total-characters-in-string-after-transformations-ii) |
+| [3351-sum-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3351-sum-of-good-subsequences) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
@@ -1689,6 +1691,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
+| [3351-sum-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3351-sum-of-good-subsequences) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
