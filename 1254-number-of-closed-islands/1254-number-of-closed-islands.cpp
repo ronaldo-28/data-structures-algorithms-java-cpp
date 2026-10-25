@@ -1,20 +1,39 @@
 class Solution {
+public:
     int m, n;
 
-    bool closed(vector<vector<int>>& grid, int i, int j) {  // flood the island through (i, j); true if it never reaches the border
-        if (i < 0 || i >= m || j < 0 || j >= n) return false;  // stepped off the grid: the island touches the border
-        if (grid[i][j]) return true;  // water, or land we already flooded
-        grid[i][j] = 1;  // visited: turn it into water
-        return closed(grid, i + 1, j) & closed(grid, i - 1, j) & closed(grid, i, j + 1) & closed(grid, i, j - 1);  // & (not &&) floods all 4 sides
+    bool dfs(vector<vector<int>>& grid, int r, int c) {
+        if (r < 0 || c < 0 || r >= m || c >= n)
+            return false;
+
+        if (grid[r][c] == 1)
+            return true;
+
+        grid[r][c] = 1; // Mark as visited
+
+        bool up = dfs(grid, r - 1, c);
+        bool down = dfs(grid, r + 1, c);
+        bool left = dfs(grid, r, c - 1);
+        bool right = dfs(grid, r, c + 1);
+
+        return up && down && left && right;
     }
 
-public:
     int closedIsland(vector<vector<int>>& grid) {
-        m = grid.size(), n = grid[0].size();
+        m = grid.size();
+        n = grid[0].size();
+
         int count = 0;
-        for (int i = 0; i < m; i++)
-            for (int j = 0; j < n; j++)
-                if (!grid[i][j]) count += closed(grid, i, j);
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 0) {
+                    if (dfs(grid, i, j))
+                        count++;
+                }
+            }
+        }
+
         return count;
     }
 };
