@@ -544,6 +544,7 @@
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3631-sort-threats-by-severity-and-exploitability](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3631-sort-threats-by-severity-and-exploitability) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
@@ -2098,6 +2099,7 @@
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
 | [3879-maximum-distinct-path-sum-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3879-maximum-distinct-path-sum-in-a-binary-tree) |
 | [3949-subtree-inversion-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3949-subtree-inversion-sum-ii) |
@@ -2263,6 +2265,7 @@
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
@@ -2290,6 +2293,7 @@
 | [2782-number-of-unique-categories](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2782-number-of-unique-categories) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -2422,6 +2426,7 @@
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4052-cyclically-shift-rows-and-columns) |
