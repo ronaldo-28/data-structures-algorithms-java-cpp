@@ -833,6 +833,7 @@
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3351-sum-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3351-sum-of-good-subsequences) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
@@ -986,6 +987,7 @@
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3362-zero-array-transformation-iii) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -1471,6 +1473,7 @@
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3340-check-balanced-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3340-check-balanced-string) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3352-count-k-reducible-numbers-less-than-n) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
