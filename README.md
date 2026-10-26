@@ -516,6 +516,7 @@
 | [3362-zero-array-transformation-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3362-zero-array-transformation-iii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3364-minimum-positive-sum-subarray) |
+| [3366-minimum-array-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3366-minimum-array-sum) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3385-minimum-time-to-break-locks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3385-minimum-time-to-break-locks-ii) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
@@ -1710,6 +1711,7 @@
 | [3351-sum-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3351-sum-of-good-subsequences) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3352-count-k-reducible-numbers-less-than-n) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3366-minimum-array-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3366-minimum-array-sum) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
