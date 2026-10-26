@@ -989,6 +989,7 @@
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3362-zero-array-transformation-iii) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -1712,6 +1713,7 @@
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3352-count-k-reducible-numbers-less-than-n) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3366-minimum-array-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3366-minimum-array-sum) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
@@ -2007,6 +2009,7 @@
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3313-find-the-last-marked-nodes-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3313-find-the-last-marked-nodes-in-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3526-range-xor-queries-with-subarray-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3526-range-xor-queries-with-subarray-reversals) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
@@ -2105,6 +2108,7 @@
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3313-find-the-last-marked-nodes-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3313-find-the-last-marked-nodes-in-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
