@@ -1159,6 +1159,7 @@
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3352-count-k-reducible-numbers-less-than-n) |
 | [3360-stone-removal-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3360-stone-removal-game) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -1263,6 +1264,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
