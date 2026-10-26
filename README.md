@@ -514,6 +514,7 @@
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3362-zero-array-transformation-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3362-zero-array-transformation-iii) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3385-minimum-time-to-break-locks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3385-minimum-time-to-break-locks-ii) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
@@ -1703,6 +1704,7 @@
 | [3339-find-the-number-of-k-even-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3339-find-the-number-of-k-even-arrays) |
 | [3351-sum-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3351-sum-of-good-subsequences) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3352-count-k-reducible-numbers-less-than-n) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
@@ -2423,6 +2425,7 @@
 | [3332-maximum-points-tourist-can-earn](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
