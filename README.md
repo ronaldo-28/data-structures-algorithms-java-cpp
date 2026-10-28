@@ -572,6 +572,7 @@
 | [3860-unique-email-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3860-unique-email-groups) |
 | [3865-reverse-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3865-reverse-k-subarrays) |
 | [3874-valid-subarrays-with-exactly-one-peak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3874-valid-subarrays-with-exactly-one-peak) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
 | [3929-minimum-partition-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3929-minimum-partition-score-ii) |
 | [3930-power-update-after-k-th-largest-insertion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3930-power-update-after-k-th-largest-insertion-ii) |
@@ -1273,6 +1274,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
 | [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
@@ -1726,6 +1728,7 @@
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3916-number-of-zigzag-arrays-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3916-number-of-zigzag-arrays-iii) |
 | [3929-minimum-partition-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3929-minimum-partition-score-ii) |
 | [3949-subtree-inversion-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3949-subtree-inversion-sum-ii) |
@@ -2449,6 +2452,7 @@
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4052-cyclically-shift-rows-and-columns) |
