@@ -1505,6 +1505,7 @@
 | [3399-smallest-substring-with-identical-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3399-smallest-substring-with-identical-characters-ii) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
+| [3407-substring-matching-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3407-substring-matching-pattern) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
@@ -2871,6 +2872,7 @@
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
+| [3407-substring-matching-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3407-substring-matching-pattern) |
 ## Graph Theory
 |  |
 | ------- |
