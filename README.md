@@ -1181,6 +1181,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -2736,6 +2737,7 @@
 | [3272-find-the-count-of-good-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3272-find-the-count-of-good-integers) |
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3352-count-k-reducible-numbers-less-than-n) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
 ## Prefix Sum
@@ -3113,6 +3115,7 @@
 |  |
 | ------- |
 | [2954-count-the-number-of-infection-sequences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2954-count-the-number-of-infection-sequences) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Polygons
 |  |
 | ------- |
