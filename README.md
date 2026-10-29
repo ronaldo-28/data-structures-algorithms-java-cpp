@@ -527,6 +527,7 @@
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
@@ -846,6 +847,7 @@
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3431-minimum-unlocked-indices-to-sort-nums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3431-minimum-unlocked-indices-to-sort-nums) |
