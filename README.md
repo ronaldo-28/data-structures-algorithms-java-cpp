@@ -531,6 +531,7 @@
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3431-minimum-unlocked-indices-to-sort-nums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3431-minimum-unlocked-indices-to-sort-nums) |
@@ -1858,6 +1859,7 @@
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3362-zero-array-transformation-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3362-zero-array-transformation-iii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -2470,6 +2472,7 @@
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
