@@ -528,6 +528,7 @@
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
@@ -1003,6 +1004,7 @@
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -1852,6 +1854,7 @@
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3362-zero-array-transformation-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3362-zero-array-transformation-iii) |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
