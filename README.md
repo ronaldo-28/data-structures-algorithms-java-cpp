@@ -1524,6 +1524,7 @@
 | [3817-good-indices-in-a-digit-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3817-good-indices-in-a-digit-string) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 | [3860-unique-email-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3860-unique-email-groups) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4019-merge-close-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4019-merge-close-characters-ii) |
 | [4026-maximum-gap-between-stations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4026-maximum-gap-between-stations) |
 | [4028-minimum-operations-to-make-a-rotated-palindrome-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4028-minimum-operations-to-make-a-rotated-palindrome-ii) |
@@ -2406,6 +2407,7 @@
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -2926,6 +2928,7 @@
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4004-minimum-moves-to-balance-circular-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4004-minimum-moves-to-balance-circular-array-ii) |
 ## Topological Sort
 |  |
@@ -3422,6 +3425,7 @@
 | [3123-find-edges-in-shortest-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
