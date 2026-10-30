@@ -1978,6 +1978,7 @@
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3399-smallest-substring-with-identical-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3399-smallest-substring-with-identical-characters-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
@@ -2155,6 +2156,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -2323,6 +2325,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3385-minimum-time-to-break-locks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3385-minimum-time-to-break-locks-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -2933,6 +2936,7 @@
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3385-minimum-time-to-break-locks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3385-minimum-time-to-break-locks-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
@@ -3435,6 +3439,7 @@
 | [3123-find-edges-in-shortest-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
