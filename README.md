@@ -535,6 +535,7 @@
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3431-minimum-unlocked-indices-to-sort-nums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3431-minimum-unlocked-indices-to-sort-nums) |
 | [3437-permutations-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3437-permutations-iii) |
@@ -1752,6 +1753,7 @@
 | [3388-count-beautiful-splits-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
@@ -2488,6 +2490,7 @@
 | [3393-count-paths-with-the-given-xor-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
