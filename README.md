@@ -538,6 +538,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3431-minimum-unlocked-indices-to-sort-nums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3431-minimum-unlocked-indices-to-sort-nums) |
 | [3437-permutations-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3437-permutations-iii) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3450-maximum-students-on-a-single-bench) |
@@ -1016,6 +1017,7 @@
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -1877,6 +1879,7 @@
 | [3362-zero-array-transformation-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3362-zero-array-transformation-iii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
