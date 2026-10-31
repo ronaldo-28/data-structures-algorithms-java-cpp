@@ -542,6 +542,7 @@
 | [3425-longest-special-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3425-longest-special-path) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3431-minimum-unlocked-indices-to-sort-nums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3431-minimum-unlocked-indices-to-sort-nums) |
 | [3437-permutations-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3437-permutations-iii) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3450-maximum-students-on-a-single-bench) |
@@ -1200,6 +1201,7 @@
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3426-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3426-manhattan-distances-of-all-arrangements-of-pieces) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
@@ -2570,6 +2572,7 @@
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3412-find-mirror-score-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3412-find-mirror-score-of-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
 | [4045-count-robot-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4045-count-robot-groups) |
@@ -2622,6 +2625,7 @@
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3359-find-sorted-submatrices-with-maximum-element-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3359-find-sorted-submatrices-with-maximum-element-at-most-k) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [4045-count-robot-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4045-count-robot-groups) |
 | [4054-count-shadow-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4054-count-shadow-pairs-i) |
