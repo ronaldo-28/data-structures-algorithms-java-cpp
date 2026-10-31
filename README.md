@@ -539,6 +539,7 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3425-longest-special-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3425-longest-special-path) |
 | [3431-minimum-unlocked-indices-to-sort-nums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3431-minimum-unlocked-indices-to-sort-nums) |
 | [3437-permutations-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3437-permutations-iii) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3450-maximum-students-on-a-single-bench) |
@@ -863,6 +864,7 @@
 | [3412-find-mirror-score-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3412-find-mirror-score-of-a-string) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
+| [3425-longest-special-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3425-longest-special-path) |
 | [3431-minimum-unlocked-indices-to-sort-nums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3431-minimum-unlocked-indices-to-sort-nums) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
@@ -2063,6 +2065,7 @@
 | [3313-find-the-last-marked-nodes-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3313-find-the-last-marked-nodes-in-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
+| [3425-longest-special-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3425-longest-special-path) |
 | [3526-range-xor-queries-with-subarray-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3526-range-xor-queries-with-subarray-reversals) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
@@ -2164,6 +2167,7 @@
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3425-longest-special-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3425-longest-special-path) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -2828,6 +2832,7 @@
 | [3362-zero-array-transformation-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3362-zero-array-transformation-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
+| [3425-longest-special-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3425-longest-special-path) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
