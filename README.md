@@ -568,6 +568,7 @@
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
+| [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
@@ -1760,6 +1761,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
+| [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3916-number-of-zigzag-arrays-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3916-number-of-zigzag-arrays-iii) |
@@ -2499,6 +2501,7 @@
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
