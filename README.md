@@ -546,6 +546,7 @@
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3431-minimum-unlocked-indices-to-sort-nums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3431-minimum-unlocked-indices-to-sort-nums) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3433-count-mentions-per-user) |
 | [3437-permutations-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3437-permutations-iii) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
@@ -1026,6 +1027,7 @@
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3433-count-mentions-per-user](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3433-count-mentions-per-user) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -1206,6 +1208,7 @@
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3433-count-mentions-per-user) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
@@ -2280,6 +2283,7 @@
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3412-find-mirror-score-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3412-find-mirror-score-of-a-string) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3433-count-mentions-per-user](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3433-count-mentions-per-user) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
