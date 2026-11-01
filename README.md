@@ -3720,6 +3720,7 @@
 | [3390-longest-team-pass-streak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3390-longest-team-pass-streak) |
 | [3401-find-circular-gift-exchange-chains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3401-find-circular-gift-exchange-chains) |
 | [3415-find-products-with-three-consecutive-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3415-find-products-with-three-consecutive-digits) |
+| [3436-find-valid-emails](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3436-find-valid-emails) |
 ## Nearest Pair of Points
 |  |
 | ------- |
