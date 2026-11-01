@@ -1,58 +1,67 @@
-#include <iostream>
 #include <vector>
 #include <algorithm>
-#include <map>
-#include <set>
-#include <cmath>
-#include <numeric>
-#include <queue>
-#include <stack>
-#include <iomanip>
-#include <array>
-#include <functional>
-#include <bitset>
+
 using namespace std;
-
-void baseIO(string s = "") {
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
-    if (s.size()) {
-        freopen((s + ".in").c_str(), "r", stdin);
-        freopen((s + ".out").c_str(), "w", stdout);
-    }
-}
-
-int subcount = 326;
-
-#define ll long long
-#define db long double
-#define all(x) (x).begin(), (x).end()
 
 class Solution {
 public:
-    int minActivationCost(vector<vector<int>>& edges, vector<int>& a) {
-        int ans = INT_MAX;
-        int n = a.size();
-        for (auto v : edges) {
-            if (__builtin_popcount(a[v[0]]) % 2 == __builtin_popcount(a[v[1]]) % 2) {
-                ans = min(ans, v[2]);
+    int minActivationCost(vector<vector<int>>& edges, vector<int>& values) {
+        int n = values.size();
+        vector<int> P(n);
+        
+        // Calculate the popcount parity for each node
+        for (int i = 0; i < n; i++) {
+            P[i] = __builtin_popcount(values[i]) % 2;
+        }
+        
+        long long min_cost = -1; // Acts as our global minimum
+        
+        // Track the two minimum edge costs to P=1 neighbors for each node
+        vector<long long> min1(n, -1);
+        vector<long long> min2(n, -1);
+        
+        // Helper to update the two cheapest edges for a given node
+        auto update = [&](int node, long long cost) {
+            if (min1[node] == -1 || cost < min1[node]) {
+                min2[node] = min1[node];
+                min1[node] = cost;
+            } else if (min2[node] == -1 || cost < min2[node]) {
+                min2[node] = cost;
+            }
+        };
+        
+        // Process all edges
+        for (const auto& edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+            long long c = edge[2];
+            
+            if (P[u] == P[v]) {
+                // Valid path of length 1
+                if (min_cost == -1 || c < min_cost) {
+                    min_cost = c;
+                }
+            } else {
+                // Graph is locally bipartite regarding parity
+                // Track costs for potential 1-0-1 paths
+                if (P[u] == 1 && P[v] == 0) {
+                    update(v, c);
+                } else if (P[v] == 1 && P[u] == 0) {
+                    update(u, c);
+                }
             }
         }
-
-        vector<vector<int>> adj(n);
-        for (auto v : edges) {
-            if (__builtin_popcount(a[v[0]]) % 2 == 0 && __builtin_popcount(a[v[1]]) % 2 == 1) adj[v[0]].push_back(v[2]);
-            else if (__builtin_popcount(a[v[0]]) % 2 == 1 && __builtin_popcount(a[v[1]]) % 2 == 0) adj[v[1]].push_back(v[2]);
-        }
-
-        for (int r = 0; r < n; r++) {
-            if (adj[r].size() >= 2) {
-                sort(all(adj[r]));
-                ans = min(ans, adj[r][0] + adj[r][1]);
+        
+        // Check all potential 1-0-1 length 2 paths
+        for (int v = 0; v < n; v++) {
+            if (P[v] == 0 && min1[v] != -1 && min2[v] != -1) {
+                long long current_cost = min1[v] + min2[v];
+                if (min_cost == -1 || current_cost < min_cost) {
+                    min_cost = current_cost;
+                }
             }
         }
-
-        if (ans == INT_MAX) return -1;
-        return ans;
+        
+        return min_cost;
     }
 };
