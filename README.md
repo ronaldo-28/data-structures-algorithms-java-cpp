@@ -48,6 +48,7 @@
 | [0422-valid-word-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0422-valid-word-square) |
 | [0425-word-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0425-word-squares) |
 | [0444-sequence-reconstruction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0444-sequence-reconstruction) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0465-optimal-account-balancing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0465-optimal-account-balancing) |
 | [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
 | [0484-find-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0484-find-permutation) |
@@ -1048,6 +1049,7 @@
 | [0356-line-reflection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0356-line-reflection) |
 | [0360-sort-transformed-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0360-sort-transformed-array) |
 | [0369-plus-one-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0369-plus-one-linked-list) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
 | [0573-squirrel-simulation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0573-squirrel-simulation) |
 | [0625-minimum-factorization](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0625-minimum-factorization) |
