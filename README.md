@@ -874,6 +874,7 @@
 | [3425-longest-special-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3425-longest-special-path) |
 | [3431-minimum-unlocked-indices-to-sort-nums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3431-minimum-unlocked-indices-to-sort-nums) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -1537,6 +1538,7 @@
 | [3407-substring-matching-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3407-substring-matching-pattern) |
 | [3412-find-mirror-score-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3412-find-mirror-score-of-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
@@ -2692,6 +2694,7 @@
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
