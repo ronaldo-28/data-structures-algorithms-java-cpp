@@ -1,83 +1,201 @@
-class Solution {
-public:
-    int shortestMatchingSubstring(string s, string p) {
-        int first_star = p.find('*');
-        int second_star = p.find('*', first_star + 1);
-        
-        string prefix = p.substr(0, first_star);
-        string middle = p.substr(first_star + 1, second_star - first_star - 1);
-        string suffix = p.substr(second_star + 1);
-        
-        if(prefix.empty() && middle.empty() && suffix.empty()){
-            return 0;
-        }
-        
-        int len_pre = prefix.length();
-        int len_mid = middle.length();
-        int len_suf = suffix.length();
-        
-        vector<int> list_p, list_m, list_s;
-        long long mini = LLONG_MAX;
-        
-        auto findocc = [&](string &part, vector<int> &positions) {
-            int pos = s.find(part, 0);
-            while (pos != string::npos) {
-                positions.push_back(pos);
-                pos = s.find(part, pos + 1);
-            }
-        };
-        
-        if (!prefix.empty()) findocc(prefix, list_p);
-        if (!middle.empty()) findocc(middle, list_m);
-        if (!suffix.empty()) findocc(suffix, list_s);
-        
-        
-        if (!prefix.empty() && !middle.empty() && !suffix.empty()) {
+namespace {
+struct all_strstr {
+    std::string_view str;
+    std::string_view pattern;
+    std::size_t* T;
 
-            for (auto i : list_p) {
-                auto it_m = lower_bound(list_m.begin(), list_m.end(), i + len_pre);
-                if (it_m == list_m.end()) continue;
-                int m_start = *it_m;
-                auto it_s = lower_bound(list_s.begin(), list_s.end(), m_start + len_mid);
-                if (it_s == list_s.end()) continue;
-                int s_start = *it_s;
-                mini = min(mini, (long long)(s_start + len_suf - i));
-            }
-        } 
-        else if (prefix.empty() && !middle.empty() && !suffix.empty()) {
-            for (auto m_start : list_m) {
-                auto it_s = lower_bound(list_s.begin(), list_s.end(), m_start + len_mid);
-                if (it_s == list_s.end()) continue;
-                int s_start = *it_s;
-                mini = min(mini, (long long)(s_start + len_suf - m_start));
-            }
-        } 
-        else if (!prefix.empty() && middle.empty() && !suffix.empty()) {
-            for (auto i : list_p) {
-                auto it_s = lower_bound(list_s.begin(), list_s.end(), i + len_pre);
-                if (it_s == list_s.end()) continue;
-                int s_start = *it_s;
-                mini = min(mini, (long long)(s_start + len_suf - i));
-            }
-        } 
-        else if (!prefix.empty() && !middle.empty() && suffix.empty()) {
-            for (auto i : list_p) {
-                auto it_m = lower_bound(list_m.begin(), list_m.end(), i + len_pre);
-                if (it_m == list_m.end()) continue;
-                int m_start = *it_m;
-                mini = min(mini, (long long)((m_start + len_mid) - i));
-            }
-        } 
-        else if (!prefix.empty() && middle.empty() && suffix.empty()) {
-            if (!list_p.empty()) mini = len_pre;
-        } 
-        else if (prefix.empty() && !middle.empty() && suffix.empty()) {
-            if (!list_m.empty()) mini = len_mid;
-        } 
-        else if (prefix.empty() && middle.empty() && !suffix.empty()) {
-            if (!list_s.empty()) mini = len_suf;
+    constexpr void calculate_table() noexcept {
+        T[0] = 0;
+        for (std::size_t i = 1, len = 0; i != pattern.size();) {
+            if (pattern[i] == pattern[len])
+                T[i++] = ++len;
+            else if (len)
+                len = T[len - 1u];
+            else
+                T[i++] = 0;
         }
-        
-        return (mini == LLONG_MAX) ? -1 : (int)mini;
+    }
+
+    using sentinel = std::default_sentinel_t;
+
+    struct iterator {
+        std::string_view str;
+        std::string_view pattern;
+        std::size_t* T;
+
+        std::size_t i;
+        std::size_t j;
+
+        using difference_type = std::ptrdiff_t;
+        using value_type = std::string_view;
+
+        constexpr value_type operator*() const noexcept {
+            return str.substr(i - pattern.size(), pattern.size());
+        }
+
+    private:
+        struct arrow_holder {
+            value_type v;
+            constexpr const value_type* operator->() const&& noexcept {
+                return std::addressof(v);
+            }
+            void operator->() const& = delete;
+        };
+    public:
+        constexpr const arrow_holder operator->() const noexcept {
+            return arrow_holder{ operator*() };
+        }
+
+        constexpr iterator& operator++() noexcept {
+            while (str.size() - i >= pattern.size() - j) {
+                if (pattern[j] == str[i]) {
+                    ++i;
+                    ++j;
+                }
+
+                if (j == pattern.size()) {
+                    j = T[j-1u];
+                    return *this;
+                }
+                
+                if (pattern[j] != str[i]) {
+                    if (j)
+                        j = T[j-1u];
+                    else
+                        ++i;
+                }
+            }
+            *this = sentinel{};
+            return *this;
+        }
+
+        constexpr iterator operator++(int) {
+            auto copy = *this;
+            ++*this;
+            return copy;
+        }
+
+        friend constexpr bool operator==(const iterator& l, const iterator& r) noexcept {
+            return l.i == r.i;
+        }
+
+        friend constexpr bool operator==(const iterator& l, sentinel) noexcept {
+            return l.i == -1zu;
+        }
+
+        constexpr iterator& operator=(sentinel) noexcept {
+            i = -1zu;
+            return *this;
+        }
+    };
+
+    constexpr iterator begin() const noexcept {
+        iterator it{
+            .str = str,
+            .pattern = pattern,
+            .T = T,
+            .i = 0,
+            .j = 0
+        };
+        ++it;
+        return it;
+    }
+
+    static constexpr sentinel end() noexcept {
+        return {};
     }
 };
+
+struct Solution {
+    static unsigned shortestMatchingSubstring(std::string_view s, std::string_view p) noexcept {
+        std::string_view p1 = p.substr(0, p.find('*'));
+        p.remove_prefix(p1.size() + 1u);
+        std::string_view p2 = p.substr(0, p.find('*'));
+        std::string_view p3 = p.substr(p2.size() + 1u);
+
+        static constexpr std::size_t max_length = 100000;
+        static std::size_t T[max_length];
+
+        switch (p1.empty() + p2.empty() + p3.empty()) {
+        case 3:
+            return 0; 
+        case 2: {
+            p = p1.empty() ? p2.empty() ? p3 : p2 : p1;
+            all_strstr m{ s, p, T };
+            m.calculate_table();
+            if (m.begin() == m.end())
+                return -1u;
+            return p.size();
+        }
+        case 1: {
+            if (p1.empty()) {
+                p1 = p2;
+                p2 = p3;
+            } else if (p2.empty())
+                p2 = p3;
+            all_strstr m1{ s, p1, T };
+            m1.calculate_table();
+            auto it1 = m1.begin();
+            if (it1 == m1.end())
+                return -1u;
+            all_strstr m2{ std::string_view(std::to_address(it1->end()), std::to_address(s.end())), p2, T + p1.size() };
+            m2.calculate_table();
+            auto it2 = m2.begin();
+            if (it2 == m2.end())
+                return -1u;
+            unsigned smallest = -1u;
+            for (; it1 != m1.end(); ++it1) {
+                if (std::to_address(it1->end()) > std::to_address(it2->begin())) {
+                    m2.str = std::string_view(std::to_address(it1->end()), std::to_address(s.end()));
+                    it2 = m2.begin();
+                    if (it2 == m2.end())
+                        return smallest;
+                }
+                smallest = std::min<unsigned>(smallest, std::distance(std::to_address(it1->begin()), std::to_address(it2->end())));
+                if (smallest == p1.size() + p2.size())
+                    break;
+            }
+            return smallest;
+        }
+        default:
+            // All non-empty
+            break;
+        }
+        all_strstr m1{ s, p1, T };
+        m1.calculate_table();
+        auto it1 = m1.begin();
+        if (it1 == m1.end())
+            return -1u;
+        all_strstr m2{ std::string_view(std::to_address(it1->end()), std::to_address(s.end())), p2, T + p1.size() };
+        m2.calculate_table();
+        auto it2 = m2.begin();
+        if (it2 == m2.end())
+            return -1u;
+        all_strstr m3{ std::string_view(std::to_address(it2->end()), std::to_address(s.end())), p3, T + p1.size() + p2.size() };
+        m3.calculate_table();
+        auto it3 = m3.begin();
+        if (it3 == m3.end())
+            return -1u;
+
+        unsigned smallest = -1u;
+        for (; it1 != m1.end(); ++it1) {
+            if (std::to_address(it1->end()) > std::to_address(it2->begin())) {
+                m2.str = std::string_view(std::to_address(it1->end()), std::to_address(s.end()));
+                it2 = m2.begin();
+                if (it2 == m2.end())
+                    return smallest;
+            }
+            if (std::to_address(it2->end()) > std::to_address(it3->begin())) {
+                m3.str = std::string_view(std::to_address(it2->end()), std::to_address(s.end()));
+                it3 = m3.begin();
+                if (it3 == m3.end())
+                    return smallest;
+            }
+            smallest = std::min<unsigned>(smallest, std::distance(std::to_address(it1->begin()), std::to_address(it3->end())));
+            if (smallest == p1.size() + p2.size() + p3.size())
+                break;
+        }
+        return smallest;
+    }
+};
+}
