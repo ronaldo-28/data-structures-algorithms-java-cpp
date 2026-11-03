@@ -1546,6 +1546,7 @@
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3448-count-substrings-divisible-by-last-digit) |
 | [3455-shortest-matching-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3455-shortest-matching-substring) |
+| [3456-find-special-substring-of-length-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3456-find-special-substring-of-length-k) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
