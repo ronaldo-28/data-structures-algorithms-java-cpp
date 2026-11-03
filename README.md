@@ -553,6 +553,7 @@
 | [3452-sum-of-good-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3452-sum-of-good-numbers) |
 | [3453-separate-squares-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3454-separate-squares-ii) |
+| [3457-eat-pizzas](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3457-eat-pizzas) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
@@ -1036,6 +1037,7 @@
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3433-count-mentions-per-user](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3433-count-mentions-per-user) |
+| [3457-eat-pizzas](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3457-eat-pizzas) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -1913,6 +1915,7 @@
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3457-eat-pizzas](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3457-eat-pizzas) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
