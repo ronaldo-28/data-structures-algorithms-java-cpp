@@ -1,8 +1,15 @@
-bool hasSpecialSubstring(string s, int k) {
-    int count = 1;
-    for(int i = 1; i < s.size(); i++, count++){
-        if(s[i] != s[i-1] && count == k) return true;
-        if(s[i] != s[i-1]) count = 0;
+class Solution {
+public:
+    bool hasSpecialSubstring(string s, int k) {
+        int n = s.length();
+        int i = 0;
+
+        for (int j = 0; j < n; j++) {
+            if (s[j] == s[i]) continue;
+            if (j - i == k) return true;
+            i = j;
+        }
+
+        return (n - i) == k;
     }
-    return (count == k);
-}
+};
