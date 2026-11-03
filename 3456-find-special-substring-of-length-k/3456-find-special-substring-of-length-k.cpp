@@ -1,15 +1,14 @@
 class Solution {
 public:
-    bool hasSpecialSubstring(string s, int k) {
-        int n = s.length();
+    bool hasSpecialSubstring(std::string s, int k) {
+        int n = s.size();
         int i = 0;
-
-        for (int j = 0; j < n; j++) {
-            if (s[j] == s[i]) continue;
+        while (i < n) {
+            int j = i;
+            while (j < n && s[j] == s[i]) ++j;
             if (j - i == k) return true;
             i = j;
         }
-
-        return (n - i) == k;
+        return false;
     }
 };
