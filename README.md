@@ -551,6 +551,7 @@
 | [3437-permutations-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3437-permutations-iii) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3452-sum-of-good-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3452-sum-of-good-numbers) |
+| [3453-separate-squares-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3453-separate-squares-i) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
@@ -2015,6 +2016,7 @@
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3399-smallest-substring-with-identical-characters-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3399-smallest-substring-with-identical-characters-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3453-separate-squares-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3453-separate-squares-i) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
