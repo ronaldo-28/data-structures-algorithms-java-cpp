@@ -1225,6 +1225,7 @@
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3433-count-mentions-per-user) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
@@ -1557,6 +1558,7 @@
 | [3456-find-special-substring-of-length-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3456-find-special-substring-of-length-k) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3571-find-the-shortest-superstring-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3571-find-the-shortest-superstring-ii) |
@@ -2269,6 +2271,7 @@
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -2318,6 +2321,7 @@
 | [3412-find-mirror-score-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3412-find-mirror-score-of-a-string) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3433-count-mentions-per-user](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3433-count-mentions-per-user) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
@@ -2831,6 +2835,7 @@
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3426-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3426-manhattan-distances-of-all-arrangements-of-pieces) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
 ## Prefix Sum
 |  |
