@@ -555,6 +555,7 @@
 | [3454-separate-squares-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3454-separate-squares-ii) |
 | [3457-eat-pizzas](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3457-eat-pizzas) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
@@ -1043,6 +1044,7 @@
 | [3433-count-mentions-per-user](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3433-count-mentions-per-user) |
 | [3457-eat-pizzas](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3458-select-k-disjoint-special-substrings) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -1930,6 +1932,7 @@
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3457-eat-pizzas](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3458-select-k-disjoint-special-substrings) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -2477,6 +2480,7 @@
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -2561,6 +2565,7 @@
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
