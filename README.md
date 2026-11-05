@@ -564,6 +564,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
+| [3477-fruits-into-baskets-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
@@ -2057,6 +2058,7 @@
 | [3453-separate-squares-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3454-separate-squares-ii) |
 | [3455-shortest-matching-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3455-shortest-matching-substring) |
+| [3477-fruits-into-baskets-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
@@ -2340,6 +2342,7 @@
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3433-count-mentions-per-user](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3433-count-mentions-per-user) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
@@ -2667,6 +2670,7 @@
 | [3245-alternating-groups-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3245-alternating-groups-iii) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3391-design-a-3d-binary-matrix-with-efficient-layer-tracking](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3391-design-a-3d-binary-matrix-with-efficient-layer-tracking) |
+| [3477-fruits-into-baskets-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 ## Monotonic Stack
 |  |
@@ -3127,6 +3131,7 @@
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3454-separate-squares-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3930-power-update-after-k-th-largest-insertion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3930-power-update-after-k-th-largest-insertion-ii) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
