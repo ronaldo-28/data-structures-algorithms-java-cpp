@@ -559,6 +559,7 @@
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3467-transform-array-by-parity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3467-transform-array-by-parity) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3468-find-the-number-of-copy-arrays) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
@@ -1813,6 +1814,7 @@
 | [3458-select-k-disjoint-special-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
