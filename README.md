@@ -561,6 +561,7 @@
 | [3468-find-the-number-of-copy-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3470-permutations-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3470-permutations-iv) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
@@ -890,6 +891,7 @@
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3458-select-k-disjoint-special-substrings) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
