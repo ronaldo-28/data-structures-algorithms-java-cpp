@@ -3780,6 +3780,7 @@
 | [3401-find-circular-gift-exchange-chains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3401-find-circular-gift-exchange-chains) |
 | [3415-find-products-with-three-consecutive-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3415-find-products-with-three-consecutive-digits) |
 | [3436-find-valid-emails](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Nearest Pair of Points
 |  |
 | ------- |
