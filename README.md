@@ -1572,6 +1572,7 @@
 | [3458-select-k-disjoint-special-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3571-find-the-shortest-superstring-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3571-find-the-shortest-superstring-ii) |
@@ -1946,6 +1947,7 @@
 | [3457-eat-pizzas](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -2995,6 +2997,7 @@
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3407-substring-matching-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3407-substring-matching-pattern) |
 | [3455-shortest-matching-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3455-shortest-matching-substring) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Graph Theory
 |  |
 | ------- |
