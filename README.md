@@ -570,6 +570,7 @@
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3483-unique-3-digit-even-numbers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -903,6 +904,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3483-unique-3-digit-even-numbers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1960,6 +1962,7 @@
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
