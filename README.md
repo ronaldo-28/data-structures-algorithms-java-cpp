@@ -315,6 +315,7 @@
 | [2702-minimum-operations-to-make-numbers-non-positive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2702-minimum-operations-to-make-numbers-non-positive) |
 | [2728-count-houses-in-a-circular-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2728-count-houses-in-a-circular-street) |
 | [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
+| [2747-count-zero-request-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2747-count-zero-request-servers) |
 | [2814-minimum-time-takes-to-reach-destination-without-drowning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2814-minimum-time-takes-to-reach-destination-without-drowning) |
 | [2819-minimum-relative-loss-after-buying-chocolates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2819-minimum-relative-loss-after-buying-chocolates) |
 | [2832-maximal-range-that-each-element-is-maximum-in-it](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2832-maximal-range-that-each-element-is-maximum-in-it) |
@@ -818,6 +819,7 @@
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
 | [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
 | [2743-count-substrings-without-repeating-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2743-count-substrings-without-repeating-character) |
+| [2747-count-zero-request-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2747-count-zero-request-servers) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2898-maximum-linear-stock-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2898-maximum-linear-stock-score) |
 | [2950-number-of-divisible-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2950-number-of-divisible-substrings) |
@@ -1002,6 +1004,7 @@
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
 | [2638-count-the-number-of-k-free-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2638-count-the-number-of-k-free-subsets) |
 | [2655-find-maximal-uncovered-ranges](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2655-find-maximal-uncovered-ranges) |
+| [2747-count-zero-request-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2747-count-zero-request-servers) |
 | [2819-minimum-relative-loss-after-buying-chocolates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2819-minimum-relative-loss-after-buying-chocolates) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [2863-maximum-length-of-semi-decreasing-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2863-maximum-length-of-semi-decreasing-subarrays) |
@@ -1628,6 +1631,7 @@
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2524-maximum-frequency-score-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2524-maximum-frequency-score-of-a-subarray) |
 | [2743-count-substrings-without-repeating-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2743-count-substrings-without-repeating-character) |
+| [2747-count-zero-request-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
