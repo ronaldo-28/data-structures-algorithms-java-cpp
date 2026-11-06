@@ -1838,6 +1838,7 @@
 | [3466-maximum-coin-collection](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3466-maximum-coin-collection) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
+| [3490-count-beautiful-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3490-count-beautiful-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
