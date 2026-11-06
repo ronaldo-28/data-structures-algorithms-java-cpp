@@ -571,6 +571,7 @@
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3488-closest-equal-element-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3488-closest-equal-element-queries) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -905,6 +906,7 @@
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3488-closest-equal-element-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3488-closest-equal-element-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -2073,6 +2075,7 @@
 | [3455-shortest-matching-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3455-shortest-matching-substring) |
 | [3477-fruits-into-baskets-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3479-fruits-into-baskets-iii) |
+| [3488-closest-equal-element-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3488-closest-equal-element-queries) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
