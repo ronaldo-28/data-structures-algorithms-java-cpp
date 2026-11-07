@@ -154,6 +154,7 @@
 | [1858-longest-word-with-all-prefixes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1858-longest-word-with-all-prefixes) |
 | [1868-product-of-two-run-length-encoded-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1868-product-of-two-run-length-encoded-arrays) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1874-minimize-product-sum-of-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1882-process-tasks-using-servers) |
 | [1885-count-pairs-in-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1885-count-pairs-in-two-arrays) |
 | [1891-cutting-ribbons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1891-cutting-ribbons) |
 | [1902-depth-of-bst-given-insertion-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1902-depth-of-bst-given-insertion-order) |
@@ -2484,6 +2485,7 @@
 | [1500-design-a-file-sharing-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1500-design-a-file-sharing-system) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [1810-minimum-path-cost-in-a-hidden-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1810-minimum-path-cost-in-a-hidden-grid) |
+| [1882-process-tasks-using-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1882-process-tasks-using-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
