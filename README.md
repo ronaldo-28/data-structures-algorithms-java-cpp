@@ -574,6 +574,7 @@
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3488-closest-equal-element-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3488-closest-equal-element-queries) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -2363,6 +2364,7 @@
 | [3433-count-mentions-per-user](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3433-count-mentions-per-user) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3477-fruits-into-baskets-ii) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
@@ -2949,6 +2951,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
