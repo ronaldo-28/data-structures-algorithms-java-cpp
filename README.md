@@ -575,6 +575,7 @@
 | [3488-closest-equal-element-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3488-closest-equal-element-queries) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
@@ -1256,6 +1257,7 @@
 | [3468-find-the-number-of-copy-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3470-permutations-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3470-permutations-iv) |
 | [3492-maximum-containers-on-a-ship](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3492-maximum-containers-on-a-ship) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
@@ -1362,6 +1364,7 @@
 | [3344-maximum-sized-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3344-maximum-sized-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
