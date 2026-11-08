@@ -578,6 +578,7 @@
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3496-maximize-score-after-pair-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3496-maximize-score-after-pair-deletions) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
