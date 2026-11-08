@@ -701,6 +701,7 @@
 | [3470-permutations-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3470-permutations-iv) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3483-unique-3-digit-even-numbers) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -1598,6 +1599,7 @@
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3571-find-the-shortest-superstring-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3571-find-the-shortest-superstring-ii) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
@@ -1848,6 +1850,7 @@
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3490-count-beautiful-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3490-count-beautiful-numbers) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
@@ -2857,6 +2860,7 @@
 | [3406-find-the-lexicographically-largest-string-from-the-box-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3406-find-the-lexicographically-largest-string-from-the-box-ii) |
 | [3455-shortest-matching-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3455-shortest-matching-substring) |
 | [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3730-maximum-calories-burnt-from-jumps) |
