@@ -583,6 +583,7 @@
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
@@ -918,6 +919,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
@@ -2308,6 +2310,7 @@
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -2382,6 +2385,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
@@ -2543,6 +2547,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
@@ -2714,6 +2719,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3479-fruits-into-baskets-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 ## Monotonic Stack
 |  |
@@ -3577,6 +3583,7 @@
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3294-convert-doubly-linked-list-to-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Geometry
 |  |
 | ------- |
