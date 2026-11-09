@@ -1,80 +1,66 @@
-struct Fenwick {
-    int n;
-    vector<long long> BIT;
-    Fenwick(int n) : n(n), BIT(n+1, 0) {}
-    void update(int i, long long delta) { for (; i <= n; i += i & -i) BIT[i] += delta; }
-    long long query(int i) {
-        long long sum = 0;
-        for (; i; i -= i & -i) sum += BIT[i];
+class BIT {
+public:
+    vector<int> tree;
+    BIT(int n) {
+        tree.resize(n+1);
+    }
+    void update(int index, int val) {
+        for (int i = index+1; i < tree.size(); i += i & -i) {
+            tree[i] += val;
+        }
+    }
+    int query(int index) {
+        int sum = 0;
+        for (int i = index+1; i > 0; i &= (i-1)) {
+            sum += tree[i];
+        }
         return sum;
     }
 };
-
-struct Tree {
-int N, root = 1;
-vector<vector<pair<int,int>>> adj;
-vector<int> tin, tout, par, depth;
-vector<long long> rootD;
-int timer = 0;
-Tree(int _N) {
-    N = _N;
-    adj.resize(N + 1);
-    tin.resize(N + 1);
-    tout.resize(N + 1);
-    par.resize(N + 1);
-    depth.resize(N + 1);
-    rootD.resize(N + 1);
-}
-void add_edge(int u, int v, int w) {
-    adj[u].push_back({v, w});
-    adj[v].push_back({u, w});
-}
-void init(int rt = 1) {
-    root = rt; 
-    timer = 0;
-    function<void(int,int,long long)> dfs = [&](int u, int p, long long dist) {
-        par[u] = p;
-        rootD[u] = dist;
-        tin[u] = ++timer;
-        depth[u] = depth[p] + 1;
-        for (auto &[v,w] : adj[u]) 
-            if (v != p) 
-                dfs(v, u, dist + w);
-        tout[u] = timer;
-    }; dfs(root, 0, 0);
-    //DFS Preprocessing for calcualting parent , rootD , and tin and tout times 
-}
-} ;
-
-
-
 class Solution {
 public:
-vector<int> treeQueries(int n, vector<vector<int>>& edges, vector<vector<int>>& queries) {
-    Tree tree(n);
-    vector<int> ans;
-    for (auto &e : edges) tree.add_edge(e[0], e[1], e[2]);
-    tree.init(1);
-    Fenwick F(tree.timer);
-    vector<int> up(n + 1, 0);
-    for (int i = 2; i <= n; ++i) 
-        for (auto & [u,w]: tree.adj[i]) 
-            if (u == tree.par[i])  up[i] = w ;
-    for (auto &q : queries) {
-        if (q[0] == 1) {
-            int u = q[1], v = q[2] , c = v ;
-            if (tree.par[u] == v) c = u ; // c = child
-            // Range Update in Fenwick Tree , the change in weight
-            // delta = q[3] - up[c] 
-            // we add this value at tin[child]
-            // and subtract at tout[child] + 1 
-            F.update(tree.tin[c], q[3] - up[c]);
-            F.update(tree.tout[c] + 1,up[c] - q[3]);
-            up[c] = q[3] ;
-        } else 
-            ans.push_back((int)(tree.rootD[q[1]] + F.query(tree.tin[q[1]]))) ;
- //                             intial weight   + changes done in weights
+    vector<int> treeQueries(int n, vector<vector<int>>& edges, vector<vector<int>>& queries) {
+        vector<vector<pair<int, int>>> graph(n+1);
+        for (auto& e : edges) {
+            graph[e[0]].emplace_back(e[1], e[2]);
+        }
+        vector<int> in(n+1);
+        vector<int> out(n+1);
+        vector<int> w(n+1);
+        BIT tree(n+1);
+        int time = 0;
+        auto dfs = [&](this auto&& dfs, int node, int pa) -> void {
+            in[node] = ++time;
+            for (auto [next, weight] : graph[node]) {
+                if (next != pa) {
+                    w[next] = weight;
+                    dfs(next, node);
+                }
+            }
+            out[node] = time;
+        };
+        dfs(1, -1);
+        for (int node = 1; node <= n; node++) {
+            tree.update(in[node], w[node]);
+            tree.update(out[node]+1, -w[node]);
+        }
+        vector<int> ans;
+        auto update = [&](int u, int v, int new_weight) {
+            if (in[v] < in[u]) {
+                swap(u, v);
+            }
+            int diff = new_weight - w[v];
+            w[v] = new_weight;
+            tree.update(in[v], diff);
+            tree.update(out[v]+1, -diff);
+        };
+        for (auto& q : queries) {
+            if (q[0] == 1) {
+                update(q[1], q[2], q[3]);
+            } else {
+                ans.push_back(tree.query(in[q[1]]));
+            }
+        }
+        return ans;
     }
-    return ans;
-}
 };
