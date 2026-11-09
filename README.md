@@ -588,6 +588,7 @@
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3526-range-xor-queries-with-subarray-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3526-range-xor-queries-with-subarray-reversals) |
@@ -2181,6 +2182,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3425-longest-special-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3425-longest-special-path) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3526-range-xor-queries-with-subarray-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3526-range-xor-queries-with-subarray-reversals) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
@@ -2284,6 +2286,7 @@
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3425-longest-special-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3425-longest-special-path) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
@@ -3196,6 +3199,7 @@
 | [3479-fruits-into-baskets-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3479-fruits-into-baskets-iii) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3930-power-update-after-k-th-largest-insertion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3930-power-update-after-k-th-largest-insertion-ii) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
@@ -3226,6 +3230,7 @@
 | [3245-alternating-groups-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3245-alternating-groups-iii) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4033-valid-k-unique-subarrays-i) |
 ## DP on Trees
