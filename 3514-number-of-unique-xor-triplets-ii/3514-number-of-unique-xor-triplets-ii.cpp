@@ -1,31 +1,47 @@
 class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
-        const int max_xor = 2048;
 
-        vector<bool> pair_xor(max_xor, false);
-        vector<bool> triplet_xor(max_xor, false);
+        const auto& bit_length = [](int64_t x) {
+            return (x ? std::__lg(x) : -1) + 1;
+        };
 
-        int n = nums.size();
+        vector<int64_t> a(1 << bit_length(ranges::max(nums)));
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                pair_xor[nums[i] ^ nums[j]] = true;
+        for (const auto& x: nums) {
+            ++a[x];
+        }
+
+        FST(a, false);
+        for (int i = 0; i < a.size(); i++) {
+           a[i] = a[i] * a[i] * a[i];
+        }
+
+        FST(a, true);
+        int result = 0;
+        for (const auto& x: a) {
+            if (x) {
+                ++result;
             }
         }
+        return result;
+    }
 
-        for (int x = 0; x < max_xor; x++) {
-            if (!pair_xor[x]) continue;
-            for (int v : nums) {
-                triplet_xor[x ^ v] = true;
+private:
+    void FST(auto& a, bool inv) {
+
+        for (int n = a.size(), step = 1; step < n; step <<= 1) {
+            for (int i = 0; i < n; i += step << 1) {
+                for (int j = i; j < i + step; ++j) {
+                    auto &u = a[j], &v = a[j + step];
+                    tie(u, v) = pair(u + v, u - v);
+                }
             }
         }
-
-        int count = 0;
-        for(int i = 0; i < max_xor; i++){
-            if(triplet_xor[i]) count++;
+        if (inv) {
+            for (auto& x : a) {
+                x /= a.size();
+            }
         }
-
-        return count;
     }
 };
