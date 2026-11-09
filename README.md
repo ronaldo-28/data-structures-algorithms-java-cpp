@@ -1275,6 +1275,7 @@
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3516-find-closest-person](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3516-find-closest-person) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
