@@ -1276,6 +1276,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3516-find-closest-person) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
@@ -1614,6 +1615,7 @@
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3571-find-the-shortest-superstring-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3571-find-the-shortest-superstring-ii) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
@@ -1867,6 +1869,7 @@
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
