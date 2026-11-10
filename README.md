@@ -614,6 +614,7 @@
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
+| [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
@@ -1874,6 +1875,7 @@
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3916-number-of-zigzag-arrays-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3916-number-of-zigzag-arrays-iii) |
