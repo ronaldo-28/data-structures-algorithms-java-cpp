@@ -1,11 +1,27 @@
 class Solution {
 public:
-    int climbStairs(int n, vector<int>& costs) {
-        int a = 0, b = 0, c = 0;  // dp[i - 1], dp[i - 2], dp[i - 3] for i = 1, the fake steps below 0 never win
-        for (int cost : costs) {
-            int cur = cost + min({a + 1, b + 4, c + 9});  // dp[i]
-            c = b, b = a, a = cur;
+    int climbStairs(int n, vector<int>& cost) {
+
+        vector<int> dp(n + 1, INT_MAX / 2);
+
+        dp[0] = 0;
+
+        for(int i = 1; i <= n; i++) {
+
+            dp[i] = min(dp[i],
+                        dp[i - 1] + cost[i - 1] + 1);
+
+            if(i >= 2) {
+                dp[i] = min(dp[i],
+                            dp[i - 2] + cost[i - 1] + 4);
+            }
+
+            if(i >= 3) {
+                dp[i] = min(dp[i],
+                            dp[i - 3] + cost[i - 1] + 9);
+            }
         }
-        return a;
+
+        return dp[n];
     }
 };
