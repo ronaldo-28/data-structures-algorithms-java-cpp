@@ -595,6 +595,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3526-range-xor-queries-with-subarray-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3526-range-xor-queries-with-subarray-reversals) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
@@ -1389,6 +1390,7 @@
 | [3393-count-paths-with-the-given-xor-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
@@ -1878,6 +1880,7 @@
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
@@ -3062,6 +3065,7 @@
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 ## String Matching
 |  |
@@ -3131,6 +3135,7 @@
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
 | [3528-unit-conversion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3528-unit-conversion-i) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
@@ -3151,6 +3156,7 @@
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [3383-minimum-runes-to-add-to-cast-spell](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3383-minimum-runes-to-add-to-cast-spell) |
 | [3481-apply-substitutions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3481-apply-substitutions) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## Memoization
 |  |
 | ------- |
