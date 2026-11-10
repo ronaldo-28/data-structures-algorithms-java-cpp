@@ -1,16 +1,15 @@
 class Solution {
 public:
     int maximumPossibleSize(vector<int>& nums) {
-
-        int size = 0, prev = -1;
-
-        for(auto num : nums) {
-            if(num >= prev) {
-                prev = num;
-                size++;
+        int ans=1;
+        int n=nums.size();
+        int temp=nums[0];
+        for(int i=1;i<n;i++){
+            if(temp<=nums[i]){
+                ans++;
+                temp=nums[i];
             }
         }
-
-        return size;
+        return ans;
     }
 };
