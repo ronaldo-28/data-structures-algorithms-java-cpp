@@ -1294,6 +1294,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3792-sum-of-increasing-product-blocks) |
 | [3817-good-indices-in-a-digit-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3817-good-indices-in-a-digit-string) |
 | [3874-valid-subarrays-with-exactly-one-peak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3874-valid-subarrays-with-exactly-one-peak) |
@@ -2017,6 +2018,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3851-maximum-requests-without-violating-the-limit) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4026-maximum-gap-between-stations) |
