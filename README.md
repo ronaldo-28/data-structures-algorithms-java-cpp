@@ -596,6 +596,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3526-range-xor-queries-with-subarray-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3526-range-xor-queries-with-subarray-reversals) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
+| [3531-count-covered-buildings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3531-count-covered-buildings) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
@@ -930,6 +931,7 @@
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3531-count-covered-buildings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3531-count-covered-buildings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
@@ -1092,6 +1094,7 @@
 | [3467-transform-array-by-parity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3467-transform-array-by-parity) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3491-phone-number-prefix) |
+| [3531-count-covered-buildings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3531-count-covered-buildings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3631-sort-threats-by-severity-and-exploitability](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3631-sort-threats-by-severity-and-exploitability) |
