@@ -601,6 +601,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3537-fill-a-special-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3537-fill-a-special-grid) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -1293,6 +1294,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
@@ -1401,6 +1403,7 @@
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3533-concatenated-divisibility](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3533-concatenated-divisibility) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
@@ -1893,6 +1896,7 @@
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3533-concatenated-divisibility](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3533-concatenated-divisibility) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
@@ -2962,6 +2966,7 @@
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3470-permutations-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3470-permutations-iv) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
 ## Prefix Sum
 |  |
@@ -3084,6 +3089,7 @@
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3533-concatenated-divisibility](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3533-concatenated-divisibility) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 ## String Matching
 |  |
