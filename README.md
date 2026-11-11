@@ -600,6 +600,7 @@
 | [3533-concatenated-divisibility](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3533-concatenated-divisibility) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
+| [3537-fill-a-special-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3537-fill-a-special-grid) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -2674,6 +2675,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3537-fill-a-special-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3537-fill-a-special-grid) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -4028,6 +4030,7 @@
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
+| [3537-fill-a-special-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3537-fill-a-special-grid) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
