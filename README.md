@@ -605,6 +605,7 @@
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3544-subtree-inversion-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3544-subtree-inversion-sum) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -721,6 +722,7 @@
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -2691,6 +2693,7 @@
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3537-fill-a-special-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3537-fill-a-special-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -3049,6 +3052,7 @@
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3511-make-a-positive-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3511-make-a-positive-array) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
