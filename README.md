@@ -939,6 +939,7 @@
 | [3531-count-covered-buildings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3531-count-covered-buildings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
@@ -1901,6 +1902,7 @@
 | [3533-concatenated-divisibility](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3533-concatenated-divisibility) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
@@ -3170,6 +3172,7 @@
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
