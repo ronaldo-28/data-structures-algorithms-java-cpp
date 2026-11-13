@@ -950,6 +950,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3552-grid-teleportation-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3552-grid-teleportation-traversal) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
@@ -1653,6 +1654,7 @@
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3571-find-the-shortest-superstring-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3571-find-the-shortest-superstring-ii) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
@@ -1915,6 +1917,7 @@
 | [3543-maximum-weighted-k-edge-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3544-subtree-inversion-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3544-subtree-inversion-sum) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
@@ -2048,6 +2051,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
