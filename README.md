@@ -1312,6 +1312,7 @@
 | [3549-multiply-two-polynomials](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3549-multiply-two-polynomials) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
