@@ -1659,6 +1659,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3571-find-the-shortest-superstring-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3571-find-the-shortest-superstring-ii) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
@@ -1923,6 +1924,7 @@
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
