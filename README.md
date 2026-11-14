@@ -613,6 +613,7 @@
 | [3552-grid-teleportation-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3552-grid-teleportation-traversal) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
@@ -1921,6 +1922,7 @@
 | [3544-subtree-inversion-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3544-subtree-inversion-sum) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
@@ -2248,6 +2250,7 @@
 | [3544-subtree-inversion-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3544-subtree-inversion-sum) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
 | [3879-maximum-distinct-path-sum-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3879-maximum-distinct-path-sum-in-a-binary-tree) |
@@ -2356,6 +2359,7 @@
 | [3544-subtree-inversion-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3544-subtree-inversion-sum) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
 | [3879-maximum-distinct-path-sum-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3879-maximum-distinct-path-sum-in-a-binary-tree) |
