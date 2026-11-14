@@ -1657,6 +1657,7 @@
 | [3522-calculate-score-after-performing-instructions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3571-find-the-shortest-superstring-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3571-find-the-shortest-superstring-ii) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
@@ -2464,6 +2465,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
@@ -2778,6 +2780,7 @@
 | [3523-make-array-non-decreasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3523-make-array-non-decreasing) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
 | [4045-count-robot-groups](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4045-count-robot-groups) |
 | [4054-count-shadow-pairs-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4054-count-shadow-pairs-i) |
