@@ -1681,6 +1681,7 @@
 | [3561-resulting-string-after-adjacent-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3571-find-the-shortest-superstring-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3571-find-the-shortest-superstring-ii) |
+| [3579-minimum-steps-to-convert-string-with-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
@@ -1950,6 +1951,7 @@
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3579-minimum-steps-to-convert-string-with-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
