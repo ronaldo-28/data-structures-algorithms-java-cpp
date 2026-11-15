@@ -621,6 +621,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3574-maximize-subarray-gcd-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3574-maximize-subarray-gcd-score) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
@@ -734,6 +735,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+| [3574-maximize-subarray-gcd-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3574-maximize-subarray-gcd-score) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -1324,6 +1326,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3560-find-minimum-log-transportation-cost) |
+| [3574-maximize-subarray-gcd-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3574-maximize-subarray-gcd-score) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
@@ -2429,6 +2432,7 @@
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3574-maximize-subarray-gcd-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3574-maximize-subarray-gcd-score) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
