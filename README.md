@@ -624,6 +624,7 @@
 | [3574-maximize-subarray-gcd-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3574-maximize-subarray-gcd-score) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3576-transform-array-to-all-equal-elements) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
@@ -1329,6 +1330,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3574-maximize-subarray-gcd-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3574-maximize-subarray-gcd-score) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
@@ -3041,6 +3043,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3470-permutations-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3470-permutations-iv) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
 ## Prefix Sum
 |  |
@@ -4195,6 +4198,7 @@
 | [1908-game-of-nim](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1908-game-of-nim) |
 | [2505-bitwise-or-of-all-subsequence-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
 | [3227-vowels-game-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3227-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
 | [4062-transform-array-using-pair-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4062-transform-array-using-pair-operations) |
 ## Merge Sort
