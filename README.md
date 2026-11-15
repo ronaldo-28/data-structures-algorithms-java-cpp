@@ -625,6 +625,7 @@
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
@@ -1756,6 +1757,7 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3851-maximum-requests-without-violating-the-limit) |
@@ -1947,6 +1949,7 @@
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
@@ -3115,6 +3118,7 @@
 | [3540-minimum-time-to-visit-all-houses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
@@ -3421,6 +3425,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -3429,6 +3434,7 @@
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2945-find-maximum-non-decreasing-array-length) |
 | [2969-minimum-number-of-coins-for-fruits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2969-minimum-number-of-coins-for-fruits-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Minimax
 |  |
 | ------- |
