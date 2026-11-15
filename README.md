@@ -618,6 +618,7 @@
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
@@ -956,6 +957,7 @@
 | [3552-grid-teleportation-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3552-grid-teleportation-traversal) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
@@ -1121,6 +1123,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3631-sort-threats-by-severity-and-exploitability](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3631-sort-threats-by-severity-and-exploitability) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
@@ -2064,6 +2067,7 @@
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -2642,6 +2646,7 @@
 | [3506-find-time-required-to-eliminate-bacterial-strains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3506-find-time-required-to-eliminate-bacterial-strains) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
