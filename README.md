@@ -128,6 +128,7 @@
 | [1427-perform-string-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1427-perform-string-shifts) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1429-first-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1429-first-unique-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1533-find-the-index-of-the-large-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1533-find-the-index-of-the-large-integer) |
 | [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
 | [1548-the-most-similar-path-in-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-the-most-similar-path-in-a-graph) |
@@ -1175,6 +1176,7 @@
 | [1259-handshakes-that-dont-cross](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1259-handshakes-that-dont-cross) |
 | [1271-hexspeak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1271-hexspeak) |
 | [1427-perform-string-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1427-perform-string-shifts) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1634-add-two-polynomials-represented-as-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1634-add-two-polynomials-represented-as-linked-lists) |
@@ -1783,6 +1785,7 @@
 | [1230-toss-strange-coins](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1230-toss-strange-coins) |
 | [1246-palindrome-removal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1246-palindrome-removal) |
 | [1259-handshakes-that-dont-cross](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1259-handshakes-that-dont-cross) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1548-the-most-similar-path-in-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-the-most-similar-path-in-a-graph) |
 | [1682-longest-palindromic-subsequence-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1682-longest-palindromic-subsequence-ii) |
 | [1692-count-ways-to-distribute-candies](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1692-count-ways-to-distribute-candies) |
@@ -3034,6 +3037,7 @@
 | [0370-range-addition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0370-range-addition) |
 | [0548-split-array-with-equal-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0548-split-array-with-equal-sum) |
 | [0644-maximum-average-subarray-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0644-maximum-average-subarray-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [1983-widest-pair-of-indices-with-equal-range-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1983-widest-pair-of-indices-with-equal-range-sum) |
 | [2848-points-that-intersect-with-cars](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2848-points-that-intersect-with-cars) |
