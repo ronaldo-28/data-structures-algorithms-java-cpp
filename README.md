@@ -623,6 +623,7 @@
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3574-maximize-subarray-gcd-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3574-maximize-subarray-gcd-score) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
@@ -2079,6 +2080,7 @@
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
