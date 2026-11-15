@@ -4014,6 +4014,7 @@
 | [3465-find-products-with-valid-serial-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3521-find-product-recommendation-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3521-find-product-recommendation-pairs) |
 | [3554-find-category-recommendation-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3554-find-category-recommendation-pairs) |
+| [3580-find-consistently-improving-employees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3580-find-consistently-improving-employees) |
 ## Nearest Pair of Points
 |  |
 | ------- |
