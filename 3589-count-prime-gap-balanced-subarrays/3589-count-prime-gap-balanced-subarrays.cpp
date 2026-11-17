@@ -1,54 +1,35 @@
 class Solution {
-    vector<bool> isPrime;
-    const int MAXN = 100000;
 public:
-    Solution() : isPrime(100000, true) {
-        sieve();
-    }
-    void sieve() {
-        isPrime[0] = isPrime[1] = false;
-        for (int i = 2; i * i <= MAXN; ++i) {
-            if (isPrime[i]) {
-                for (int j = i * i; j <= MAXN; j += i) {
-                    isPrime[j] = false;
-                }
-            }
-        }
-    }
-    
     int primeSubarray(vector<int>& nums, int k) {
         int n = nums.size();
-        int l = 0, r = 0, res = 0, prev = -1, curr = -1;
+        const int M = 50000;
+        vector<char> esPrimo(M + 1, 1);
+        esPrimo[0] = esPrimo[1] = 0;
+        for (int i = 2; (long long)i * i <= M; i++)
+            if (esPrimo[i])
+                for (int j = i * i; j <= M; j += i) esPrimo[j] = 0;
 
-        // multiset to store the prime elements
-        multiset<int> ms;
+        vector<int> maxQ(n), minQ(n);        // índices de primos
+        int hMax = 0, tMax = 0, hMin = 0, tMin = 0;
+        int left = 0, p1 = -1, p2 = -1;
+        long long total = 0;
 
-        while(r < n){
-            // if prime --> insert in the set
-            if(isPrime[nums[r]]){
-                prev = curr;
-                curr = r;
-                ms.insert(nums[r]);
-            }
+        for (int r = 0; r < n; r++) {
+            if (esPrimo[nums[r]]) {
+                while (tMax > hMax && nums[maxQ[tMax - 1]] <= nums[r]) tMax--;
+                maxQ[tMax++] = r;
+                while (tMin > hMin && nums[minQ[tMin - 1]] >= nums[r]) tMin--;
+                minQ[tMin++] = r;
+                p2 = p1;
+                p1 = r;
 
-            // shrink window if difference > k
-            while(ms.size() && *ms.rbegin() - *ms.begin() > k){
-                if(isPrime[nums[l]]){
-                    ms.erase(ms.find(nums[l]));
+                while (nums[maxQ[hMax]] - nums[minQ[hMin]] > k) {
+                    if (maxQ[hMax] < minQ[hMin]) { left = maxQ[hMax] + 1; hMax++; }
+                    else                         { left = minQ[hMin] + 1; hMin++; }
                 }
-                l++;
             }
-
-            // add to the result
-            if(ms.size() >= 2){
-                // prev denotes the last 2nd prime seen
-                // from index r to prev we always need to pick the window as this ensures my windows has 2 primes atleast
-                res += (prev - l + 1);
-            }
-            r++;
+            if (p2 != -1 && p2 >= left) total += p2 - left + 1;
         }
-
-        // DO upvote :)
-        return res;
+        return (int)total;
     }
 };
