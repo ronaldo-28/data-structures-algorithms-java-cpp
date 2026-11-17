@@ -630,6 +630,7 @@
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
@@ -744,6 +745,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3574-maximize-subarray-gcd-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3574-maximize-subarray-gcd-score) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -972,6 +974,7 @@
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3583-count-special-triplets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3583-count-special-triplets) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
@@ -1337,6 +1340,7 @@
 | [3560-find-minimum-log-transportation-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3574-maximize-subarray-gcd-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3574-maximize-subarray-gcd-score) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
@@ -2097,6 +2101,7 @@
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -3769,6 +3774,7 @@
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3588-find-maximum-area-of-a-triangle) |
 ## Shortest Path
 |  |
 | ------- |
