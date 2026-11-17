@@ -633,6 +633,7 @@
 | [3588-find-maximum-area-of-a-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3590-kth-smallest-path-xor-sum) |
+| [3592-inverse-coin-change](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-inverse-coin-change) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
@@ -1968,6 +1969,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3585-find-weighted-median-node-in-tree) |
+| [3592-inverse-coin-change](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-inverse-coin-change) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
