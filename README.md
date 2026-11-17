@@ -627,6 +627,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3583-count-special-triplets) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
@@ -3017,6 +3018,7 @@
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3865-reverse-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3865-reverse-k-subarrays) |
