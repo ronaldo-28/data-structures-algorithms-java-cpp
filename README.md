@@ -632,6 +632,7 @@
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3590-kth-smallest-path-xor-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
@@ -2302,6 +2303,7 @@
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3585-find-weighted-median-node-in-tree) |
+| [3590-kth-smallest-path-xor-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
 | [3879-maximum-distinct-path-sum-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3879-maximum-distinct-path-sum-in-a-binary-tree) |
@@ -2413,6 +2415,7 @@
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3585-find-weighted-median-node-in-tree) |
+| [3590-kth-smallest-path-xor-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
 | [3879-maximum-distinct-path-sum-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3879-maximum-distinct-path-sum-in-a-binary-tree) |
@@ -2873,6 +2876,7 @@
 | [3479-fruits-into-baskets-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3479-fruits-into-baskets-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3590-kth-smallest-path-xor-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 ## Monotonic Stack
 |  |
