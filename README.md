@@ -628,6 +628,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3583-count-special-triplets) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3585-find-weighted-median-node-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
@@ -1446,6 +1447,7 @@
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
+| [3585-find-weighted-median-node-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -1956,6 +1958,7 @@
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
+| [3585-find-weighted-median-node-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
@@ -2203,6 +2206,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3585-find-weighted-median-node-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
@@ -2287,6 +2291,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
+| [3585-find-weighted-median-node-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
 | [3879-maximum-distinct-path-sum-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3879-maximum-distinct-path-sum-in-a-binary-tree) |
@@ -2397,6 +2402,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
+| [3585-find-weighted-median-node-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
 | [3879-maximum-distinct-path-sum-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3879-maximum-distinct-path-sum-in-a-binary-tree) |
