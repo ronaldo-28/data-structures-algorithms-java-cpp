@@ -635,6 +635,7 @@
 | [3590-kth-smallest-path-xor-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3592-inverse-coin-change](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-inverse-coin-change) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
@@ -1458,6 +1459,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3585-find-weighted-median-node-in-tree) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -2701,6 +2703,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
@@ -3211,6 +3214,7 @@
 | [3533-concatenated-divisibility](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3533-concatenated-divisibility) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 ## String Matching
 |  |
@@ -3284,6 +3288,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3535-unit-conversion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3535-unit-conversion-ii) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3543-maximum-weighted-k-edge-path) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
@@ -3807,6 +3812,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
