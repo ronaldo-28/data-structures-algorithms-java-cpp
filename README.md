@@ -637,6 +637,7 @@
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
+| [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1701,6 +1702,7 @@
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3582-generate-tag-for-video-caption](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3582-generate-tag-for-video-caption) |
+| [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
