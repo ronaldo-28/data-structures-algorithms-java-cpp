@@ -1,34 +1,34 @@
-typedef long long ll;
 class Solution {
 public:
+    using ll=long long;
     long long maximumProduct(vector<int>& nums, int m) {
-        int n = nums.size();
-        ll ans = LLONG_MIN;
+        int n=nums.size();
+        if(m==1)
+        {
+            ll ans=LLONG_MIN;
+            for(int i=0; i<n; i++)
+            {
+                 ans=max(ans,nums[i]*1LL*nums[i]);
 
-        // If m == 1, return the maximum square of any number
-        if (m == 1) {
-            for (auto it : nums) {
-                ll v = (ll)it * it;
-                ans = max(ans, v);
             }
             return ans;
         }
+        ll pmin=LLONG_MIN;
+        ll pmax=LLONG_MAX;
+        int st=0;
+        int en=m-1;
+        pmin=nums[st];
+        pmax=nums[st];
+        ll ans=LLONG_MIN;
+        while(en<n)
+        {
+            pmin=min(pmin,1LL*nums[st]);
+            pmax=max(pmax,1LL*nums[st]);
+             ans=max(ans,nums[en]*pmin);
+             ans=max(ans,nums[en]*pmax);
+             st++;en++;
 
-        // Initialize max and min of first elements in window
-        ll maxi = LLONG_MIN;
-        ll mini = LLONG_MAX;
-
-        // Sliding window of size m
-        for (int j = m - 1; j < n; j++) {
-            int i = j - m + 1; // start of the window
-            maxi = max(maxi, (ll)nums[i]);
-            mini = min(mini, (ll)nums[i]);
-
-            ll prod1 = maxi * nums[j];
-            ll prod2 = mini * nums[j];
-            ans = max(ans, max(prod1, prod2));
         }
-
         return ans;
     }
 };
