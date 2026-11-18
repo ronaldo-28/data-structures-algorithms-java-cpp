@@ -639,6 +639,7 @@
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3599-partition-array-to-minimize-xor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3599-partition-array-to-minimize-xor) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1981,6 +1982,7 @@
 | [3592-inverse-coin-change](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-inverse-coin-change) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3599-partition-array-to-minimize-xor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3599-partition-array-to-minimize-xor) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
@@ -2803,6 +2805,7 @@
 | [3565-sequential-grid-path-cover](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3565-sequential-grid-path-cover) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
