@@ -1356,6 +1356,7 @@
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3605-minimum-stability-factor-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3605-minimum-stability-factor-of-array) |
+| [3609-minimum-moves-to-reach-target-in-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
