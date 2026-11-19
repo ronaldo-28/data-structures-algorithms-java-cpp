@@ -1715,6 +1715,7 @@
 | [3582-generate-tag-for-video-caption](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3582-generate-tag-for-video-caption) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
+| [3612-process-string-with-special-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
@@ -2561,6 +2562,7 @@
 | [3561-resulting-string-after-adjacent-removals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3582-generate-tag-for-video-caption](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3582-generate-tag-for-video-caption) |
+| [3612-process-string-with-special-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3792-sum-of-increasing-product-blocks) |
