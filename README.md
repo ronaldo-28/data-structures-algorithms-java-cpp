@@ -1474,6 +1474,7 @@
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3599-partition-array-to-minimize-xor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3599-partition-array-to-minimize-xor) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
@@ -1718,6 +1719,7 @@
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3612-process-string-with-special-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3614-process-string-with-special-operations-ii) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
@@ -1994,6 +1996,7 @@
 | [3599-partition-array-to-minimize-xor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3599-partition-array-to-minimize-xor) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
@@ -3252,6 +3255,7 @@
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3575-maximum-good-subtree-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3575-maximum-good-subtree-score) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3615-longest-palindromic-path-in-graph) |
 | [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
 ## String Matching
 |  |
@@ -3329,6 +3333,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3607-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3607-power-grid-maintenance) |
 | [3613-minimize-maximum-component-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3613-minimize-maximum-component-cost) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
