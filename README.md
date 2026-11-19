@@ -645,6 +645,7 @@
 | [3607-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3607-power-grid-maintenance) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
+| [3618-split-array-by-prime-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3618-split-array-by-prime-indices) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3631-sort-threats-by-severity-and-exploitability](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3631-sort-threats-by-severity-and-exploitability) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
@@ -1361,6 +1362,7 @@
 | [3605-minimum-stability-factor-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3605-minimum-stability-factor-of-array) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
+| [3618-split-array-by-prime-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3618-split-array-by-prime-indices) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -2510,6 +2512,7 @@
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3605-minimum-stability-factor-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3605-minimum-stability-factor-of-array) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
+| [3618-split-array-by-prime-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3618-split-array-by-prime-indices) |
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
 | [4037-maximum-valid-split-positions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4037-maximum-valid-split-positions-ii) |
