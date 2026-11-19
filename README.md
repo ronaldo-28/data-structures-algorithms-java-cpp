@@ -307,6 +307,7 @@
 | [2534-time-taken-to-cross-the-door](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2534-time-taken-to-cross-the-door) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
 | [2599-make-the-prefix-sum-non-negative](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2599-make-the-prefix-sum-non-negative) |
 | [2604-minimum-time-to-eat-all-grains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2604-minimum-time-to-eat-all-grains) |
@@ -1081,6 +1082,7 @@
 | [2459-sort-array-by-moving-items-to-empty-space](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2459-sort-array-by-moving-items-to-empty-space) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2590-design-a-todo-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2590-design-a-todo-list) |
 | [2604-minimum-time-to-eat-all-grains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2604-minimum-time-to-eat-all-grains) |
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
@@ -2062,6 +2064,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2548-maximum-price-to-fill-a-bag](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2548-maximum-price-to-fill-a-bag) |
 | [2557-maximum-number-of-integers-to-choose-from-a-range-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2557-maximum-number-of-integers-to-choose-from-a-range-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2599-make-the-prefix-sum-non-negative](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2599-make-the-prefix-sum-non-negative) |
 | [2847-smallest-number-with-given-digit-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2847-smallest-number-with-given-digit-product) |
 | [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
