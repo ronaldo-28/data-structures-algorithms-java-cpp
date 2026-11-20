@@ -649,6 +649,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-network-recovery-pathways) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3623-count-number-of-trapezoids-i) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3631-sort-threats-by-severity-and-exploitability](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3631-sort-threats-by-severity-and-exploitability) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
@@ -3442,6 +3443,7 @@
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3525-find-x-value-of-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3605-minimum-stability-factor-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3605-minimum-stability-factor-of-array) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3930-power-update-after-k-th-largest-insertion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3930-power-update-after-k-th-largest-insertion-ii) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4033-valid-k-unique-subarrays-i) |
@@ -3473,6 +3475,7 @@
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4033-valid-k-unique-subarrays-i) |
 ## DP on Trees
 |  |
@@ -4241,6 +4244,7 @@
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3537-fill-a-special-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3537-fill-a-special-grid) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
