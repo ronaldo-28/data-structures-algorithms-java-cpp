@@ -1364,6 +1364,7 @@
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3618-split-array-by-prime-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3618-split-array-by-prime-indices) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -1478,6 +1479,7 @@
 | [3595-once-twice](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3595-once-twice) |
 | [3599-partition-array-to-minimize-xor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3599-partition-array-to-minimize-xor) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3615-longest-palindromic-path-in-graph) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
@@ -2001,6 +2003,7 @@
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3620-network-recovery-pathways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-network-recovery-pathways) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
@@ -3132,6 +3135,7 @@
 | [3470-permutations-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3470-permutations-iv) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
 ## Prefix Sum
 |  |
