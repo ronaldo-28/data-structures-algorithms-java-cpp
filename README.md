@@ -658,6 +658,7 @@
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
@@ -1001,6 +1002,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
@@ -2291,6 +2293,7 @@
 | [3620-network-recovery-pathways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
@@ -3055,6 +3058,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-count-odd-letters-from-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-count-odd-letters-from-number) |
 | [3583-count-special-triplets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3583-count-special-triplets) |
+| [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3773-maximum-number-of-equal-length-runs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3773-maximum-number-of-equal-length-runs) |
@@ -3246,6 +3250,7 @@
 | [3599-partition-array-to-minimize-xor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3599-partition-array-to-minimize-xor) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
+| [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
 | [3916-number-of-zigzag-arrays-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3916-number-of-zigzag-arrays-iii) |
@@ -4278,6 +4283,7 @@
 | [3520-minimum-threshold-for-inversion-pairs-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3520-minimum-threshold-for-inversion-pairs-count) |
 | [3537-fill-a-special-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3537-fill-a-special-grid) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
+| [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
