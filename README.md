@@ -661,6 +661,7 @@
 | [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
 | [3637-trionic-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3637-trionic-array-i) |
 | [3639-minimum-time-to-activate-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3639-minimum-time-to-activate-string) |
+| [3640-trionic-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3640-trionic-array-ii) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
@@ -2032,6 +2033,7 @@
 | [3620-network-recovery-pathways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-network-recovery-pathways) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3640-trionic-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3640-trionic-array-ii) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
