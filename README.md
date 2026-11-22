@@ -1394,6 +1394,7 @@
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3630-partition-array-for-maximum-xor-and-and) |
+| [3648-minimum-sensors-to-cover-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
