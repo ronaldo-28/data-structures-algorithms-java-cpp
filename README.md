@@ -1511,6 +1511,7 @@
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
+| [3646-next-special-palindrome-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3646-next-special-palindrome-number) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
@@ -3300,6 +3301,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3437-permutations-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3437-permutations-iii) |
+| [3646-next-special-palindrome-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3646-next-special-palindrome-number) |
 ## Bitmask
 |  |
 | ------- |
