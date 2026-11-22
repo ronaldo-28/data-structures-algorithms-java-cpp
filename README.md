@@ -664,6 +664,7 @@
 | [3640-trionic-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3640-trionic-array-ii) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3643-flip-square-submatrix-vertically) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
@@ -1178,6 +1179,7 @@
 | [3631-sort-threats-by-severity-and-exploitability](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3631-sort-threats-by-severity-and-exploitability) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -2180,6 +2182,7 @@
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -2793,6 +2796,7 @@
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3607-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3607-power-grid-maintenance) |
 | [3620-network-recovery-pathways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-network-recovery-pathways) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
@@ -3145,6 +3149,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3643-flip-square-submatrix-vertically) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3865-reverse-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3865-reverse-k-subarrays) |
