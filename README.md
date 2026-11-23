@@ -668,6 +668,7 @@
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
@@ -1839,6 +1840,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3851-maximum-requests-without-violating-the-limit) |
 | [3972-valid-subarrays-with-matching-sum-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3972-valid-subarrays-with-matching-sum-digits-ii) |
@@ -3273,6 +3275,7 @@
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
 | [3916-number-of-zigzag-arrays-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3916-number-of-zigzag-arrays-iii) |
