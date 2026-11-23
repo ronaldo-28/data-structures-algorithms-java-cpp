@@ -669,6 +669,7 @@
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
@@ -2632,6 +2633,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3792-sum-of-increasing-product-blocks) |
 | [4020-elevator-requests-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4020-elevator-requests-i) |
@@ -3276,6 +3278,7 @@
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
 | [3916-number-of-zigzag-arrays-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3916-number-of-zigzag-arrays-iii) |
@@ -4314,6 +4317,7 @@
 | [3537-fill-a-special-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3537-fill-a-special-grid) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
