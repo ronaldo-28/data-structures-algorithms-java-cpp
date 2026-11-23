@@ -124,6 +124,7 @@
 | [1272-remove-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1272-remove-interval) |
 | [1273-delete-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1273-delete-tree-nodes) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1274-number-of-ships-in-a-rectangle) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1426-counting-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1426-counting-elements) |
 | [1427-perform-string-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1427-perform-string-shifts) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1428-leftmost-column-with-at-least-a-one) |
@@ -1229,6 +1230,7 @@
 | [1256-encode-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1256-encode-number) |
 | [1259-handshakes-that-dont-cross](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1259-handshakes-that-dont-cross) |
 | [1271-hexspeak](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1271-hexspeak) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1427-perform-string-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1427-perform-string-shifts) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-guess-the-majority-in-a-hidden-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1538-guess-the-majority-in-a-hidden-array) |
@@ -3200,6 +3202,7 @@
 | [0370-range-addition](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0370-range-addition) |
 | [0548-split-array-with-equal-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0548-split-array-with-equal-sum) |
 | [0644-maximum-average-subarray-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0644-maximum-average-subarray-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1788-maximize-the-beauty-of-the-garden](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1788-maximize-the-beauty-of-the-garden) |
 | [1983-widest-pair-of-indices-with-equal-range-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1983-widest-pair-of-indices-with-equal-range-sum) |
@@ -3797,6 +3800,7 @@
 | [0716-max-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0716-max-stack) |
 | [1166-design-file-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1166-design-file-system) |
 | [1244-design-a-leaderboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1244-design-a-leaderboard) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1429-first-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1429-first-unique-number) |
 | [1500-design-a-file-sharing-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1500-design-a-file-sharing-system) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1570-dot-product-of-two-sparse-vectors) |
@@ -3819,6 +3823,7 @@
 | [0359-logger-rate-limiter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0362-design-hit-counter) |
 | [0642-design-search-autocomplete-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0642-design-search-autocomplete-system) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1429-first-unique-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1429-first-unique-number) |
 | [1500-design-a-file-sharing-system](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1500-design-a-file-sharing-system) |
 | [3369-design-an-array-statistics-tracker](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3369-design-an-array-statistics-tracker) |
