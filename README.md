@@ -1403,6 +1403,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3648-minimum-sensors-to-cover-grid) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -2576,6 +2577,7 @@
 | [3610-minimum-number-of-primes-to-sum-to-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-minimum-number-of-primes-to-sum-to-target) |
 | [3618-split-array-by-prime-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3618-split-array-by-prime-indices) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
 | [4037-maximum-valid-split-positions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4037-maximum-valid-split-positions-ii) |
