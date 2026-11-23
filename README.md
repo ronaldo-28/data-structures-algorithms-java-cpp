@@ -671,6 +671,7 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
@@ -3283,6 +3284,7 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
 | [3916-number-of-zigzag-arrays-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3916-number-of-zigzag-arrays-iii) |
@@ -4322,6 +4324,7 @@
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
