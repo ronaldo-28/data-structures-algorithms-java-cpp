@@ -541,6 +541,7 @@
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -770,6 +771,7 @@
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3470-permutations-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3470-permutations-iv) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1359,6 +1361,7 @@
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3416-subsequences-with-a-unique-middle-mode-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3416-subsequences-with-a-unique-middle-mode-ii) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3426-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3426-manhattan-distances-of-all-arrangements-of-pieces) |
@@ -1839,6 +1842,7 @@
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3422-minimum-operations-to-make-subarray-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3422-minimum-operations-to-make-subarray-elements-equal) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -2570,6 +2574,7 @@
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3574-maximize-subarray-gcd-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3574-maximize-subarray-gcd-score) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3589-count-prime-gap-balanced-subarrays) |
