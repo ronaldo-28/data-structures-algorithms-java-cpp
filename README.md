@@ -679,6 +679,7 @@
 | [3664-two-letter-card-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
+| [3668-restore-finishing-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3668-restore-finishing-order) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
@@ -1025,6 +1026,7 @@
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3664-two-letter-card-game) |
+| [3668-restore-finishing-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3668-restore-finishing-order) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
