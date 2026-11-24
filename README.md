@@ -676,6 +676,7 @@
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3663-find-the-least-frequent-digit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3663-find-the-least-frequent-digit) |
+| [3664-two-letter-card-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
@@ -784,6 +785,7 @@
 | [3574-maximize-subarray-gcd-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3574-maximize-subarray-gcd-score) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3630-partition-array-for-maximum-xor-and-and) |
+| [3664-two-letter-card-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3664-two-letter-card-game) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
 | [4024-nearest-available-drone](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4024-nearest-available-drone) |
 | [4035-maximum-valid-split-positions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4035-maximum-valid-split-positions-i) |
@@ -1022,6 +1024,7 @@
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3663-find-the-least-frequent-digit) |
+| [3664-two-letter-card-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3664-two-letter-card-game) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -1776,6 +1779,7 @@
 | [3615-longest-palindromic-path-in-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
+| [3664-two-letter-card-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3664-two-letter-card-game) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
@@ -3102,6 +3106,7 @@
 | [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
 | [3662-filter-characters-by-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3662-filter-characters-by-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3663-find-the-least-frequent-digit) |
+| [3664-two-letter-card-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3664-two-letter-card-game) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3773-maximum-number-of-equal-length-runs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3773-maximum-number-of-equal-length-runs) |
 | [3837-delayed-count-of-equal-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3837-delayed-count-of-equal-elements) |
