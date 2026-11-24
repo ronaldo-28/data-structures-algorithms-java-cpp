@@ -674,6 +674,7 @@
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
@@ -1190,6 +1191,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3730-maximum-calories-burnt-from-jumps) |
@@ -2056,6 +2058,7 @@
 | [3647-maximum-weight-in-two-bags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3647-maximum-weight-in-two-bags) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
@@ -2322,6 +2325,7 @@
 | [3636-threshold-majority-queries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3636-threshold-majority-queries) |
 | [3639-minimum-time-to-activate-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3639-minimum-time-to-activate-string) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
 | [3929-minimum-partition-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3929-minimum-partition-score-ii) |
