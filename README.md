@@ -680,6 +680,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3668-restore-finishing-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3668-restore-finishing-order) |
+| [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
@@ -1535,6 +1536,7 @@
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3646-next-special-palindrome-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3646-next-special-palindrome-number) |
+| [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
@@ -2069,6 +2071,7 @@
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
+| [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
