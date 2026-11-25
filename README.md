@@ -684,6 +684,7 @@
 | [3671-sum-of-beautiful-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
@@ -1032,6 +1033,7 @@
 | [3664-two-letter-card-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3664-two-letter-card-game) |
 | [3668-restore-finishing-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3668-restore-finishing-order) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
@@ -1872,6 +1874,7 @@
 | [3641-longest-semi-repeating-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3641-longest-semi-repeating-subarray) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3851-maximum-requests-without-violating-the-limit) |
 | [3972-valid-subarrays-with-matching-sum-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3972-valid-subarrays-with-matching-sum-digits-ii) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
@@ -2671,6 +2674,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-number-of-student-replacements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3616-number-of-student-replacements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3792-sum-of-increasing-product-blocks) |
 | [4020-elevator-requests-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4020-elevator-requests-i) |
@@ -3123,6 +3127,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3664-two-letter-card-game) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3773-maximum-number-of-equal-length-runs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3773-maximum-number-of-equal-length-runs) |
 | [3837-delayed-count-of-equal-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3837-delayed-count-of-equal-elements) |
 | [4005-minimum-operations-to-make-array-equal-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4005-minimum-operations-to-make-array-equal-iii) |
