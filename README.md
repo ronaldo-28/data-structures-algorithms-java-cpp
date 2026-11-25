@@ -685,6 +685,7 @@
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3680-generate-schedule](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3680-generate-schedule) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
@@ -1427,6 +1428,7 @@
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3677-count-binary-palindromic-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3677-count-binary-palindromic-numbers) |
+| [3680-generate-schedule](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3680-generate-schedule) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
@@ -2227,6 +2229,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3645-maximum-total-from-optimal-activation-order) |
+| [3680-generate-schedule](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3680-generate-schedule) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
