@@ -683,6 +683,7 @@
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3672-sum-of-weighted-modes-in-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3672-sum-of-weighted-modes-in-subarrays) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
@@ -1541,6 +1542,7 @@
 | [3632-subarrays-with-xor-at-least-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3632-subarrays-with-xor-at-least-k) |
 | [3646-next-special-palindrome-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3646-next-special-palindrome-number) |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
@@ -4439,6 +4441,7 @@
 | [3227-vowels-game-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3227-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3674-minimum-operations-to-equalize-array) |
 | [4062-transform-array-using-pair-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4062-transform-array-using-pair-operations) |
 ## Merge Sort
 |  |
