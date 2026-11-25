@@ -1424,6 +1424,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3663-find-the-least-frequent-digit) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3671-sum-of-beautiful-subsequences) |
+| [3677-count-binary-palindromic-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3677-count-binary-palindromic-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
@@ -1543,6 +1544,7 @@
 | [3646-next-special-palindrome-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3646-next-special-palindrome-number) |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3677-count-binary-palindromic-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3677-count-binary-palindromic-numbers) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
