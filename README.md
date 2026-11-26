@@ -690,6 +690,7 @@
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
@@ -1213,6 +1214,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
@@ -2092,6 +2094,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -3219,6 +3222,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3643-flip-square-submatrix-vertically) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3865-reverse-k-subarrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3865-reverse-k-subarrays) |
 | [3991-sort-array-using-prefix-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3991-sort-array-using-prefix-reversals) |
