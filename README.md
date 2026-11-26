@@ -688,6 +688,7 @@
 | [3680-generate-schedule](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3680-generate-schedule) |
 | [3681-maximum-xor-of-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3681-maximum-xor-of-subsequences) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
