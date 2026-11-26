@@ -695,6 +695,7 @@
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3689-maximum-total-subarray-value-i) |
+| [3690-split-and-merge-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3690-split-and-merge-array-transformation) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
@@ -1044,6 +1045,7 @@
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3690-split-and-merge-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3690-split-and-merge-array-transformation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
 | [3773-maximum-number-of-equal-length-runs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3773-maximum-number-of-equal-length-runs) |
@@ -2772,6 +2774,7 @@
 | [3607-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3607-power-grid-maintenance) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3690-split-and-merge-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3690-split-and-merge-array-transformation) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
