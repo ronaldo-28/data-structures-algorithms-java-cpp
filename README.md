@@ -694,6 +694,7 @@
 | [3686-number-of-stable-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3686-number-of-stable-subsequences) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
@@ -2246,6 +2247,7 @@
 | [3680-generate-schedule](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3680-generate-schedule) |
 | [3681-maximum-xor-of-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3681-maximum-xor-of-subsequences) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3689-maximum-total-subarray-value-i) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
