@@ -691,6 +691,7 @@
 | [3683-earliest-time-to-finish-one-task](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3686-number-of-stable-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3686-number-of-stable-subsequences) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
@@ -2095,6 +2096,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3665-twisted-mirror-path-count) |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3686-number-of-stable-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3686-number-of-stable-subsequences) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
