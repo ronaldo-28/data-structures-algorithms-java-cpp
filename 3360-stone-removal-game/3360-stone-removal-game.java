@@ -1,10 +1,24 @@
 class Solution {
-  public boolean canAliceWin(int n) {
-    for (int stones = 10; stones >= 0; --stones) {
-      if (stones > n)
-        return stones % 2 == 1;
-      n -= stones;
+    public boolean canAliceWin(int n) {
+        int alice=10;
+        int bob=alice;
+        int found =0;
+        while(n>=alice){
+             found=0;
+            if(n>=alice){
+                n=n-alice;
+               bob=alice-1;
+               found=1;
+               }
+               if (n>=bob){
+                n=n-bob;
+                alice=bob-1;
+                 found=2;
+               }
+        }
+        if(found==0||found==2){
+            return false;
+        }
+        return true ;
     }
-    throw new IllegalArgumentException();
-  }
 }
