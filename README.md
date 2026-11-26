@@ -693,6 +693,7 @@
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3686-number-of-stable-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3686-number-of-stable-subsequences) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
@@ -1559,6 +1560,7 @@
 | [3674-minimum-operations-to-equalize-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3677-count-binary-palindromic-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3677-count-binary-palindromic-numbers) |
 | [3681-maximum-xor-of-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3681-maximum-xor-of-subsequences) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3973-distinct-gate-paths-to-lca](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3973-distinct-gate-paths-to-lca) |
 | [3990-create-grid-with-exactly-k-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3990-create-grid-with-exactly-k-paths-ii) |
@@ -2693,6 +2695,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3792-sum-of-increasing-product-blocks) |
 | [4020-elevator-requests-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4020-elevator-requests-i) |
 | [4039-sum-of-decoded-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4039-sum-of-decoded-numbers) |
