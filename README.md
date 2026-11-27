@@ -700,6 +700,7 @@
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
+| [3697-compute-decimal-representation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3697-compute-decimal-representation) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
@@ -1446,6 +1447,7 @@
 | [3677-count-binary-palindromic-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3677-count-binary-palindromic-numbers) |
 | [3680-generate-schedule](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3680-generate-schedule) |
 | [3681-maximum-xor-of-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3681-maximum-xor-of-subsequences) |
+| [3697-compute-decimal-representation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3697-compute-decimal-representation) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
