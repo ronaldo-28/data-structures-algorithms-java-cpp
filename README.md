@@ -696,6 +696,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3689-maximum-total-subarray-value-i) |
 | [3690-split-and-merge-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3690-split-and-merge-array-transformation) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
@@ -2252,6 +2253,7 @@
 | [3681-maximum-xor-of-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3681-maximum-xor-of-subsequences) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -2877,6 +2879,7 @@
 | [3620-network-recovery-pathways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-network-recovery-pathways) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
@@ -3586,6 +3589,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3605-minimum-stability-factor-of-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3605-minimum-stability-factor-of-array) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3930-power-update-after-k-th-largest-insertion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3930-power-update-after-k-th-largest-insertion-ii) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
 | [4033-valid-k-unique-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4033-valid-k-unique-subarrays-i) |
