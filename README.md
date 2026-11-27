@@ -2109,6 +2109,7 @@
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3686-number-of-stable-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3686-number-of-stable-subsequences) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3916-number-of-zigzag-arrays-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3916-number-of-zigzag-arrays-iii) |
@@ -3364,6 +3365,7 @@
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
 | [3916-number-of-zigzag-arrays-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3916-number-of-zigzag-arrays-iii) |
 | [3929-minimum-partition-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3929-minimum-partition-score-ii) |
