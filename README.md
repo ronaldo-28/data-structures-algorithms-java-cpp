@@ -698,6 +698,7 @@
 | [3690-split-and-merge-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3690-split-and-merge-array-transformation) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3693-climbing-stairs-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3693-climbing-stairs-ii) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
@@ -1222,6 +1223,7 @@
 | [3667-sort-array-by-absolute-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3667-sort-array-by-absolute-value) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
@@ -2254,6 +2256,7 @@
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -2811,6 +2814,7 @@
 | [3607-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3607-power-grid-maintenance) |
 | [3613-minimize-maximum-component-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3613-minimize-maximum-component-cost) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
