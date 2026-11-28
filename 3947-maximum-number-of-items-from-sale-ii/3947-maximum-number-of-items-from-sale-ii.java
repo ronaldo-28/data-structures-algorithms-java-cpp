@@ -1,50 +1,77 @@
+import java.util.Arrays;
+
 class Solution {
     public int maximumSaleItems(int[][] items, int budget) {
-        int n=items.length;
-        int count[]=new int[n+1];
-        long min=Long.MAX_VALUE;
-        for(int i=0;i<n;i++){
-            count[items[i][0]]++;
-            if(items[i][1]<min){
-                min=items[i][1];
-            }
+        int n = items.length;
+        
+        int maxFactor = 0;
+        long cheapestPrice = Long.MAX_VALUE;
+        
+        for (int[] item : items) {
+            maxFactor = Math.max(maxFactor, item[0]);
+            cheapestPrice = Math.min(cheapestPrice, (long) item[1]);
         }
 
-        int temp[]=new int[n+1];
-        for(int i=1;i<=n;i++){
-            if(count[i]>0){
-                int m=-1;
-                for(int j=i;j<=n;j+=i){
-                    m+=count[j];
+        if (cheapestPrice == 0) {
+            return Integer.MAX_VALUE;
+        }
+
+        int[] factorFrequency = new int[maxFactor + 1];
+        for (int[] item : items) {
+            factorFrequency[item[0]]++;
+        }
+        int[] freebiesPerFactor = new int[maxFactor + 1];
+        for (int f = 1; f <= maxFactor; f++) {
+            if (factorFrequency[f] > 0) {
+                int totalMultiples = 0;
+                for (int m = f; m <= maxFactor; m += f) {
+                    totalMultiples += factorFrequency[m];
                 }
-                temp[i]=m;
+                freebiesPerFactor[f] = totalMultiples;
             }
         }
 
-        long[] deal=new long[n];
-        int dealcount=0;
-        long limit=min*2;
-        for(int i=0;i<n;i++){
-            int first=items[i][0];
-            int second=items[i][1];
-            int m=temp[first];
-            if(second<limit && m>0){               
-               deal[dealcount++]=((long)second<<32)|m;
+        long cutoffPrice = cheapestPrice * 2;
+
+        long[] specialDeals = new long[n];
+        int dealCount = 0;
+
+        for (int[] item : items) {
+            int factor = item[0];
+            long price = item[1];
+            
+            int maxUses = freebiesPerFactor[factor] - 1;
+
+            if (maxUses > 0 && price < cutoffPrice) {
+                specialDeals[dealCount++] = (price << 20) | (long) maxUses;
             }
         }
-        Arrays.sort(deal,0,dealcount);
-        long total=0;
-        for(int i=0;i<dealcount;i++){
-            long deals=deal[i];
-            int m=(int)(deals>>32);
-            int counts=(int)deals;
-            if(budget>=m){
-                long time=Math.min((long)counts,budget/m);
-                budget-=time*m;
-                total+=2*time;
+        Arrays.sort(specialDeals, 0, dealCount);
+
+        long remainingBudget = budget;
+        long totalItemsPurchased = 0;
+
+        for (int i = 0; i < dealCount; i++) {
+            long bundle = specialDeals[i];
+            long dealPrice = bundle >>> 20;
+            long maxUses = bundle & 0xFFFFF;
+
+            long affordableUses = remainingBudget / dealPrice;
+            
+            if (affordableUses == 0) {
+                break;
+            }
+            
+            long usesTaken = Math.min(maxUses, affordableUses);
+
+            if (usesTaken > 0) {
+                totalItemsPurchased += (usesTaken * 2); 
+                remainingBudget -= (usesTaken * dealPrice);
             }
         }
-        total+=budget/min;
-        return (int)total;
+
+        totalItemsPurchased += (remainingBudget / cheapestPrice);
+
+        return (int) totalItemsPurchased;
     }
 }
