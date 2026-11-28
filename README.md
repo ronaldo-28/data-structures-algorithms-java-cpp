@@ -703,6 +703,7 @@
 | [3697-compute-decimal-representation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3701-compute-alternating-sum) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
+| [3708-longest-fibonacci-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3708-longest-fibonacci-subarray) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
