@@ -701,6 +701,7 @@
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3697-compute-decimal-representation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3697-compute-decimal-representation) |
+| [3701-compute-alternating-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3701-compute-alternating-sum) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
@@ -2716,6 +2717,7 @@
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3687-library-late-fee-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3687-library-late-fee-calculator) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3701-compute-alternating-sum) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3792-sum-of-increasing-product-blocks) |
 | [4020-elevator-requests-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4020-elevator-requests-i) |
 | [4039-sum-of-decoded-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4039-sum-of-decoded-numbers) |
