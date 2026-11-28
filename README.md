@@ -704,6 +704,7 @@
 | [3701-compute-alternating-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3701-compute-alternating-sum) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
 | [3708-longest-fibonacci-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3708-longest-fibonacci-subarray) |
+| [3710-maximum-partition-factor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3710-maximum-partition-factor) |
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3717-minimum-operations-to-make-the-array-beautiful](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3717-minimum-operations-to-make-the-array-beautiful) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -2394,6 +2395,7 @@
 | [3639-minimum-time-to-activate-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3639-minimum-time-to-activate-string) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3710-maximum-partition-factor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3710-maximum-partition-factor) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
 | [3929-minimum-partition-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3929-minimum-partition-score-ii) |
@@ -2596,6 +2598,7 @@
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3607-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3607-power-grid-maintenance) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3710-maximum-partition-factor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3710-maximum-partition-factor) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
 | [3879-maximum-distinct-path-sum-in-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3879-maximum-distinct-path-sum-in-a-binary-tree) |
 | [3949-subtree-inversion-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3949-subtree-inversion-sum-ii) |
@@ -2799,6 +2802,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3690-split-and-merge-array-transformation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3690-split-and-merge-array-transformation) |
+| [3710-maximum-partition-factor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3710-maximum-partition-factor) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3831-median-of-a-binary-search-tree-level) |
@@ -2831,6 +2835,7 @@
 | [3613-minimize-maximum-component-cost](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3613-minimize-maximum-component-cost) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3695-maximize-alternating-sum-using-swaps) |
+| [3710-maximum-partition-factor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3710-maximum-partition-factor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -3520,6 +3525,7 @@
 | [3620-network-recovery-pathways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
+| [3710-maximum-partition-factor](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3710-maximum-partition-factor) |
 | [3787-find-diameter-endpoints-of-a-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3787-find-diameter-endpoints-of-a-tree) |
 | [3807-minimum-cost-to-repair-edges-to-traverse-a-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3807-minimum-cost-to-repair-edges-to-traverse-a-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
