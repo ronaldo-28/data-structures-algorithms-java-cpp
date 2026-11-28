@@ -722,6 +722,7 @@
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
 | [3944-minimum-operations-to-make-array-modulo-alternating-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3944-minimum-operations-to-make-array-modulo-alternating-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3949-subtree-inversion-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3949-subtree-inversion-sum-ii) |
 | [3967-finish-time-of-tasks-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3967-finish-time-of-tasks-ii) |
 | [3972-valid-subarrays-with-matching-sum-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3972-valid-subarrays-with-matching-sum-digits-ii) |
@@ -1231,6 +1232,7 @@
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3851-maximum-requests-without-violating-the-limit) |
 | [3930-power-update-after-k-th-largest-insertion-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3930-power-update-after-k-th-largest-insertion-ii) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4018-total-sum-of-interaction-cost-in-tree-groups-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4018-total-sum-of-interaction-cost-in-tree-groups-ii) |
 | [4023-elevator-requests-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4023-elevator-requests-ii) |
 | [4027-elevator-requests-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4027-elevator-requests-iii) |
@@ -2270,6 +2272,7 @@
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3851-maximum-requests-without-violating-the-limit) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4026-maximum-gap-between-stations) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
@@ -2892,6 +2895,7 @@
 | [3711-maximum-transactions-without-negative-balance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3711-maximum-transactions-without-negative-balance) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3935-power-update-after-k-th-largest-insertion-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3935-power-update-after-k-th-largest-insertion-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
