@@ -1825,6 +1825,7 @@
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3703-remove-k-balanced-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3703-remove-k-balanced-substrings) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
+| [3707-equal-score-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3707-equal-score-substrings) |
 | [3735-lexicographically-smallest-string-after-reverse-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3735-lexicographically-smallest-string-after-reverse-ii) |
 | [3744-find-kth-character-in-expanded-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3744-find-kth-character-in-expanded-string) |
 | [3749-evaluate-valid-expressions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3749-evaluate-valid-expressions) |
@@ -3379,6 +3380,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-determine-if-a-simple-graph-exists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3656-determine-if-a-simple-graph-exists) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3707-equal-score-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3707-equal-score-substrings) |
 | [3888-minimum-operations-to-make-all-grid-elements-equal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3888-minimum-operations-to-make-all-grid-elements-equal) |
 | [3916-number-of-zigzag-arrays-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3916-number-of-zigzag-arrays-iii) |
 | [3929-minimum-partition-score-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3929-minimum-partition-score-ii) |
